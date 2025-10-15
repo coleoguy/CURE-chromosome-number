@@ -1,0 +1,86 @@
+Order,Family,species,Meioformula,,hapauto,scs,haploid
+Coleoptera,Dytiscidae,Agabus adpressus,2n,44M,21,XY,22
+Coleoptera,Dytiscidae,Agabus affinis,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus binotatus,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus bipustulatus ,2n,42M,20,Xyp,21
+Coleoptera,Dytiscidae,Agabus bipustulatus ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus confinis ,2n,42M,20,XY,21
+Coleoptera,Dytiscidae,Agabus confinis ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus conspersus ,2n,40M,19,XY,20
+Coleoptera,Dytiscidae,Agabus conspersus ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus infuscatus,2n,44M,22,NeoXy,23
+Coleoptera,Dytiscidae,Agabus lapponicus,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus ramblae ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus serricornis,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus sturmi ,2n,42M,20,Xyp,21
+Coleoptera,Dytiscidae,Agabus sturmi ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus thomsoni,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus unguicularis,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Agabus wollastoni,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Boreonectes emmerichi,2n,53M,26,XO,27
+Coleoptera,Dytiscidae,Boreonectes griseostriatus griseostriatus,2n,61M,30,XO,31
+Coleoptera,Dytiscidae,Boreonectes griseostriatus strandi,2n,61M,30,XO,31
+Coleoptera,Dytiscidae,Colymbetes paykulli ,2n,36M,17,Xyp,18
+Coleoptera,Dytiscidae,Colymbetes paykulli ,2n,36M,18,XO,19
+Coleoptera,Dytiscidae,Colymbetes striatus ,2n,40M,19,XY,20
+Coleoptera,Dytiscidae,Colymbetes striatus ,2n,42M,20,XY,21
+Coleoptera,Dytiscidae,Colymbetes striatus ,2n,44M,21,XY,22
+Coleoptera,Dytiscidae,Cybister limbatus ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Cybister sugillatus,2n,37M,18,XO,19
+Coleoptera,Dytiscidae,Cybister sugillatus ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Cybister tripunctatus,2n,37M,18,XO,19
+Coleoptera,Dytiscidae,Cybister tripunctatus ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Cybister ventralis,2n,18M,8,XY,9
+Coleoptera,Dytiscidae,Deronectes angusi,2n,50M,24,XY,25
+Coleoptera,Dytiscidae,Deronectes costipennis costipennis,2n,28M,13,NeoXY,14
+Coleoptera,Dytiscidae,Deronectes costipennis gignouxi,2n,28M,13,NeoXY,14
+Coleoptera,Dytiscidae,Deronectes ferrugineus,2n,62M,30,XY,31
+Coleoptera,Dytiscidae,Deronectes latus,2n,50M,24,XY,25
+Coleoptera,Dytiscidae,Deronectes platynotus,2n,28M,13,NeoXY,14
+Coleoptera,Dytiscidae,Deronectes wewalai,2n,62M,30,XY,31
+Coleoptera,Dytiscidae,Dytiscus circumcinctus ,2n,38M,18,XY,19
+Coleoptera,Dytiscidae,Dytiscus margilis ,2n,38M,18,XY,19
+Coleoptera,Dytiscidae,Eretes sp. ,2n,43M,21,XO,22
+Coleoptera,Dytiscidae,Hydaticus fabricii ,2n,41M,20,XO,21
+Coleoptera,Dytiscidae,Hydaticus leander ,2n,45M,22,XO,23
+Coleoptera,Dytiscidae,Hydaticus luczonicus ,2n,41M,20,XO,21
+Coleoptera,Dytiscidae,Hydaticus vittatus ,2n,41M,20,XO,21
+Coleoptera,Dytiscidae,Hydaticus vittatus ,2n,45M,22,XO,23
+Coleoptera,Dytiscidae,Ilybius aenescens ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius albarracinensis ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius ater ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius erichsoni ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius fenestratus ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius fuliginosus ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius guttiger ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius quadriguttatus ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Ilybius subaeneus ,2n,35M,17,XO,18
+Coleoptera,Dytiscidae,Nebrioporus amicorum,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus assimilis,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus baeticus,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus bucheti,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus caliculatus,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus cariensis,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus caritus,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus ceresyi,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus croceus,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus crotchi,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus depressus     ,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus depressus elegans int.,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus elegans,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus fabressei,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus lanceolatus,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus martinii,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Nebrioporus sardus,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Platambus maculatus ,2n,19M,9,XO,10
+Coleoptera,Dytiscidae,Rhantus exsoletus ,2n,42M,20,Xyp,21
+Coleoptera,Dytiscidae,Rhantus notatus ,2n,44M,21,Xyp,22
+Coleoptera,Dytiscidae,Scarodytes fuscitarsis,2n,55M,27,XO,28
+Coleoptera,Dytiscidae,Scarodytes halensis,2n,55M,27,XO,28
+Coleoptera,Dytiscidae,Scarodytes malickyi,2n,55M,27,XO,28
+Coleoptera,Dytiscidae,Scarodytes nigriventris,2n,55M,27,XO,28
+Coleoptera,Dytiscidae,Stictotarsus bertandi,2n,56M,27,NeoXY,28
+Coleoptera,Dytiscidae,Stictotarsus duodecimpustulatus,2n,56M,27,NeoXY,28
+Coleoptera,Dytiscidae,Stictotarsus procerus,2n,56M,27,NeoXY,28
+Coleoptera,Dytiscidae,Trichonectes otini,2n,49M,24,XO,25
+Coleoptera,Dytiscidae,Unidentified dytiscid ,2n,37M,18,XO,19

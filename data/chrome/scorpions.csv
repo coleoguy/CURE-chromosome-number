@@ -1,0 +1,373 @@
+class,order,Collection site,Valid,species,2n,haploid
+arachnida,scorpiones,Brazil,Bothriurus,Bothriurus_araguayae,44,22
+arachnida,scorpiones,Brazil,Bothriurus,B._araguayae,42,21
+arachnida,scorpiones,Argentina,Bothriurus,Bothriurus_flavidus,48,24
+arachnida,scorpiones,Argentina,Bothriurus,Bothriurus_prospicuus,50,25
+arachnida,scorpiones,Brazil,Bothriurus,Bothriurus_rochensis,46,23
+arachnida,scorpiones,Brazil,Bothriurus,Bothriurus_sp.,36,18
+arachnida,scorpiones,Argentina,Brachistosternus,Brachistosternus_alienus,28,14
+arachnida,scorpiones,Argentina,B.,B._alienus,46,23
+arachnida,scorpiones,Argentina,Brachistosternus,Brachistosternus_ferrugineus,46,23
+arachnida,scorpiones,Argentina,Brachistosternus,Brachistosternus_montanus,46,23
+arachnida,scorpiones,Argentina,Brachistosternus,Brachistosternus_pentheri,"46, 42","23, 21"
+arachnida,scorpiones,Argentina,Timogenes,Timogenes_elegans,48,24
+arachnida,scorpiones,Turkey,Aegeobuthus,Aegeobuthus_gibbosus,28,14
+arachnida,scorpiones,Brazil,Ananteris,Ananteris_balzanii,12,6
+arachnida,scorpiones,Brazil,A.,A._balzanii,14,7
+arachnida,scorpiones,Egypt,Androctonus,Androctonus_amoreuxi,24,12
+arachnida,scorpiones,Morocco,Androctonus,Androctonus_amoreuxi,24,12
+arachnida,scorpiones,Egypt,Androctonus,Androctonus_australis,24,12
+arachnida,scorpiones,Egypt,A.,A._australis,24,12
+arachnida,scorpiones,Egypt,Androctonus,Androctonus_bicolor,24,12
+arachnida,scorpiones,Israel,Androctonus,Androctonus_bicolor,24,12
+arachnida,scorpiones,Morocco,Androctonus,Androctonus_bourdoni,24,12
+arachnida,scorpiones,Morocco,Androctonus,Androctonus_bourdoni,24,12
+arachnida,scorpiones,Egypt,Androctonus,Androctonus_crassicauda,24,12
+arachnida,scorpiones,Turkey,A.,A._crassicauda,24,12
+arachnida,scorpiones,Morocco,Androctonus,Androctonus_gonneti,24,12
+arachnida,scorpiones,Morocco,Androctonus,Androctonus_liouvillei,24,12
+arachnida,scorpiones,Pakistan,Androctonus,Androctonus_maelfaiti,24,12
+arachnida,scorpiones,----,Androctonus,Androctonus_mauritanicus,24,12
+arachnida,scorpiones,----,A.,A._mauritanicus,24,12
+arachnida,scorpiones,Morocco,A.,A._mauritanicus,24,12
+arachnida,scorpiones,Morocco,Androctonus,Androctonus_sergenti,24,12
+arachnida,scorpiones,Egypt,Androctonus,Androctonus_tenuissimus,24,12
+arachnida,scorpiones,Oman,Apistobuthus,Apistobuthus_pterygocercus,22,11
+arachnida,scorpiones,Cameroon,Babycurus,Babycurus_buettneri,28,14
+arachnida,scorpiones,Tanzania,Babycurus,Babycurus_gigas,30,15
+arachnida,scorpiones,Tanzania,Babycurus,Babycurus_jacksoni,16,8
+arachnida,scorpiones,Ethiopia,Barbaracurus,Barbaracurus_sofomarensis,22,11
+arachnida,scorpiones,Ethiopia,Barbaracurus,Barbaracurus_sofomarensis,22,11
+arachnida,scorpiones,Somaliland,Barbaracurus,Barbaracurus_somalicus,36,18
+arachnida,scorpiones,Eritrea,Barbaracurus,Barbaracurus_zambonelli,26,13
+arachnida,scorpiones,Saudi Arabia,Barbaracurus,Barbaracurus_yemenensis,26,13
+arachnida,scorpiones,Somaliland,Barbaracus,Barbaracus_feti,23,11.5
+arachnida,scorpiones,Turkey,Buthacus,Buthacus_macrocentrus,28,14
+arachnida,scorpiones,Turkey,Buthacus,Buthacus_macrocentrus,28,14
+arachnida,scorpiones,Oman,Buthacus,Buthacus_nigroaculeatus,26,13
+arachnida,scorpiones,Morocco,Buthacus,Buthacus_stockmanni,20,10
+arachnida,scorpiones,Morocco,Buthacus,Buthacus_stockmanni,20,10
+arachnida,scorpiones,Sri Lanka,Buthoscorpio,Buthoscorpio_sarasinorum,14,7
+arachnida,scorpiones,Morroco,Buthus,Buthus_atlantis,22,11
+arachnida,scorpiones,Ethiopia,Buthus,Buthus_awashensis,22,11
+arachnida,scorpiones,Ethiopia,Buthus,Buthus_awashensis,22,11
+arachnida,scorpiones,Somaliland,Buthus,Buthus_berberensis,21,10.5
+arachnida,scorpiones,Morocco,Buthus,Buthus_maroccanus,22,11
+arachnida,scorpiones,France,Buthus,Buthus_occitanus,22,11
+arachnida,scorpiones,----,B.,B._occitanus,44,22
+arachnida,scorpiones,----,B.,B._occitanus,56,28
+arachnida,scorpiones,Somaliland,Buthus,Buthus_pococki,22,11
+arachnida,scorpiones,Somaliland,Buthus,Buthus_zeylensis,22,11
+arachnida,scorpiones,Somaliland,Buthus,Buthus_zeylensis,22,11
+arachnida,scorpiones,Cuba,Centruroides,Centruroides_baracoae,26,13
+arachnida,scorpiones,----,Centruroides,Centruroides_exilicauda,26,13
+arachnida,scorpiones,Cuba,Centruroides,Centruroides_gracilis,24,12
+arachnida,scorpiones,United States,Centruroides,Centruroides_vittatus,26,13
+arachnida,scorpiones,Sri Lanka,Charmus,Charmus_laneus,9,4.5
+arachnida,scorpiones,Oman,Compsobuthus,Compsobuthus_acutecarinatus,22,11
+arachnida,scorpiones,Oman,Compsobuthus,Compsobuthus_acutecarinatus,22,11
+arachnida,scorpiones,Oman,Compsobuthus,Compsobuthus_arabicus,22,11
+arachnida,scorpiones,Oman,Compsobuthus,Compsobuthus_arabicus,22,11
+arachnida,scorpiones,Eritrea,Compsobuthus,Compsobuthus_eritreaensis,22,11
+arachnida,scorpiones,Eritrea,Compsobuthus,Compsobuthus_eritreaensis,22,11
+arachnida,scorpiones,Oman,Compsobuthus,Compsobuthus_maindroni,22,11
+arachnida,scorpiones,Oman,Compsobuthus,Compsobuthus_maindroni,22,11
+arachnida,scorpiones,Turkey,Compsobuthus,Compsobuthus_matthiesseni,22,11
+arachnida,scorpiones,Turkey,Compsobuthus,Compsobuthus_matthiesseni,22,11
+arachnida,scorpiones,Turkey,Compsobuthus,Compsobuthus_schmiedeknechti,22,11
+arachnida,scorpiones,Egypt,Compsobuthus,Compsobuthus_ullrichi,22,11
+arachnida,scorpiones,Somaliland,Gint,Gint_amoudensis,"35, 36",18
+arachnida,scorpiones,Somaliland,G.,G._amoudensis,"35, 36",18
+arachnida,scorpiones,Somaliland,Gint,Gint_banfasae,"18, 19",9
+arachnida,scorpiones,Somaliland,Gint,Gint_dabakalo,23,11.5
+arachnida,scorpiones,Somaliland,G.,G._dabakalo,"23, 24, 27",12
+arachnida,scorpiones,Ethiopia,Gint,Gint_gaitako,30,15
+arachnida,scorpiones,Ethiopia,G.,G._gaitako,30,15
+arachnida,scorpiones,Somaliland,Gint,Gint_gubanensis,45,22.5
+arachnida,scorpiones,Somaliland,Gint,Gint_maidensis,34,17
+arachnida,scorpiones,Somaliland,G.,G._maidensis,34,17
+arachnida,scorpiones,Madagascar,Grosphus,Grosphus_sp.,13,6.5
+arachnida,scorpiones,Australia,Hemilychas,Hemilychas_alexandrinus,14,7
+arachnida,scorpiones,Dominican Republic,Heteroctenus,Heteroctenus_abudi,16,8
+arachnida,scorpiones,Cuba,Heteroctenus,Heteroctenus_garridoi,23,11.5
+arachnida,scorpiones,Dominican Republic,Heteroctenus,Heteroctenus_princeps,16,8
+arachnida,scorpiones,Namibia,Hottentotta,Hottentotta_arenaceus,14,7
+arachnida,scorpiones,Namibia,Hottentotta,Hottentotta_conspersus,16,8
+arachnida,scorpiones,Namibia,Hottentotta,Hottentotta_flavidulus,24,12
+arachnida,scorpiones,Mali,Hottentotta,Hottentotta_hottentotta,16,8
+arachnida,scorpiones,West Bank,Hottentotta,Hottentotta_judaicus,16,8
+arachnida,scorpiones,Afghanistan,Hottentotta,Hottentotta_minusalta,16,8
+arachnida,scorpiones,Turkey,Hottentotta,Hottentotta_saulcyi,14,7
+arachnida,scorpiones,Turkey,Hottentotta,Hottentotta_saulcyi,14,7
+arachnida,scorpiones,Morocco,Hottentotta,Hottentotta_sousai,14,7
+arachnida,scorpiones,India,Hottentotta,Hottentotta_tamulus,22,11
+arachnida,scorpiones,India,H.,H._tamulus,20-28,12
+arachnida,scorpiones,India,H.,H._tamulus,24,12
+arachnida,scorpiones,Zimbabwe,Hottentotta,Hottentotta_trilineatus,24,12
+arachnida,scorpiones,Uganda,Hottentotta,Hottentotta_ugandensis,22,11
+arachnida,scorpiones,Pakistan,Hottentotta,Hottentotta_sp.,22,11
+arachnida,scorpiones,Brazil,Ischnotelson,Ischnotelson_guanambiensis,25,12.5
+arachnida,scorpiones,Brazil,Ischnotelson,Ischnotelson_peruassu,26,13
+arachnida,scorpiones,Brazil,I.,I._peruassu,26,13
+arachnida,scorpiones,Brazil,Ischnotelson,Ischnotelson_sp.,26,13
+arachnida,scorpiones,Australia,Isometroides,Isometroides_vescus,14,7
+arachnida,scorpiones,Brazil,Isometrus,Isometrus_maculatus,12,6
+arachnida,scorpiones,Brazil,I.,I._maculatus,12,6
+arachnida,scorpiones,Brazil,I.,I._maculatus,12,6
+arachnida,scorpiones,Australia,I.,I._maculatus,14,7
+arachnida,scorpiones,Australia,Isometrus,Isometrus_melanodactylus,14,7
+arachnida,scorpiones,Sri Lanka,Isometrus,Isometrus_thwaitesi,8,4
+arachnida,scorpiones,Sri Lanka,Isometrus,Isometrus_thwaitesi,8,4
+arachnida,scorpiones,Brazil,Jaguajir,Jaguajir_agamemnon,28,14
+arachnida,scorpiones,Brazil,J.,J._agamemnon,28,14
+arachnida,scorpiones,Brazil,Jaguajir,Jaguajir_pintoi,28,14
+arachnida,scorpiones,Brazil,Jaguajir,Jaguajir_rochae,28,14
+arachnida,scorpiones,Brazil,J.,J._rochae,28,14
+arachnida,scorpiones,Brazil,J.,J._rochae,28,14
+arachnida,scorpiones,Turkey,Leirus,Leirus_abdullahbayram,22,11
+arachnida,scorpiones,Turkey,Leirus,Leirus_abdullahbayram,22,11
+arachnida,scorpiones,Jordan,Leiurus,Leiurus_hebraeus,22,11
+arachnida,scorpiones,West Bank,Leiurus,Leiurus_quinquestriatus,"22, XY",11
+arachnida,scorpiones,Africa,Leiurus,Leiurus_sp.,22,11
+arachnida,scorpiones,Thailand,Lychas,Lychas_krali,16,8
+arachnida,scorpiones,Australia,Lychas,Lychas_marmoreus,"12, 14, 15",7
+arachnida,scorpiones,Australia,L.,L._marmoreus,"12, 14, 15",7
+arachnida,scorpiones,Thailand,Lychas,Lychas_mucronatus,10,5
+arachnida,scorpiones,"Ethiopia, Tanzania",Lychas,Lychas_obsti,10,5
+arachnida,scorpiones,Thailand,Lychas,Lychas_scutilus,14,7
+arachnida,scorpiones,Sri Lanka,Lychas,Lychas_srilankensis,16,8
+arachnida,scorpiones,Australia,Lychas,Lychas_variatus,"14, 16",8
+arachnida,scorpiones,Australia,L.,L._variatus,"14, 16",7
+arachnida,scorpiones,----,Mesobuthus,Mesobuthus_eupeus,22,11
+arachnida,scorpiones,Turkey,M.,M._eupeus,20,10
+arachnida,scorpiones,Turkey,M.,M._eupeus,22,11
+arachnida,scorpiones,Georgia,M.,M._eupeus,22,11
+arachnida,scorpiones,Afghanistan,Mesobuthus,Mesobuthus_haarlovi,22,11
+arachnida,scorpiones,India,Mesobuthus,Mesobuthus_macmahoni,24,12
+arachnida,scorpiones,Pakistan,M.,M._macmahoni,22,11
+arachnida,scorpiones,----,Mesobuthus,Mesobuthus_martensii,24,12
+arachnida,scorpiones,China,M.,M._martensii,24,12
+arachnida,scorpiones,Turkey,Mesobuthus,Mesobuthus_mesopotamicus,22,11
+arachnida,scorpiones,Turkey,Mesobuthus,Mesobuthus_rahsenae,20,10
+arachnida,scorpiones,Oman,Microbuthus,Microbuthus_gardneri,26,13
+arachnida,scorpiones,Oman,Microbuthus,Microbuthus_kristensenorum,26,13
+arachnida,scorpiones,Oman,Microbuthus,Microbuthus_satyrus,26,13
+arachnida,scorpiones,Yemen,Microbuthus,Microbuthus_satyrus,26,13
+arachnida,scorpiones,India,Odontobuthus,Odontobuthus_doriae,22,11
+arachnida,scorpiones,Somaliland,Orthochirus,Orthochirus_afar,24,12
+arachnida,scorpiones,Oman,Orthochirus,Orthochirus_glabrifrons,22,11
+arachnida,scorpiones,Morocco,Orthochirus,Orthochirus_innesi,22,11
+arachnida,scorpiones,Ethiopia,Parabuthus,Parabuthus_abyssinicus,16,8
+arachnida,scorpiones,Eritrea,P.,P._abyssinicus,16,8
+arachnida,scorpiones,Ethiopia,P.,P._abyssinicus,16,8
+arachnida,scorpiones,South Africa,Parabuthus,Parabuthus_capensis,20,10
+arachnida,scorpiones,Namibia,Parabuthus,Parabuthus_glabrimanus,20,10
+arachnida,scorpiones,Somaliland,Parabuthus,Parabuthus_kabateki,16,8
+arachnida,scorpiones,Ethiopia,Parabuthus,Parabuthus_kajibu,18,9
+arachnida,scorpiones,Ethiopia,Parabuthus,Parabuthus_kajibu,18,9
+arachnida,scorpiones,Zimbabwe,Parabuthus,Parabuthus_mossambicensis,36,18
+arachnida,scorpiones,Mozambique,Parabuthus,Parabuthus_mossambicensis,18,9
+arachnida,scorpiones,Ethiopia,Parabuthus,Parabuthus_pallidus,20,10
+arachnida,scorpiones,Ethiopia,Parabuthus,Parabuthus_pallidus,20,10
+arachnida,scorpiones,South Africa,Parabuthus,Parabuthus_planicauda,18,9
+arachnida,scorpiones,Zimbabwe,Parabuthus,Parabuthus_raudus,18,9
+arachnida,scorpiones,Namibia,Parabuthus,Parabuthus_raudus,20,10
+arachnida,scorpiones,Somaliland,Parabuthus,Parabuthus_robustus,16,8
+arachnida,scorpiones,Somaliland,Parabuthus,Parabuthus_somalilandus,16,8
+arachnida,scorpiones,Zimbabwe,Parabuthus,Parabuthus_transvaalicus,20,10
+arachnida,scorpiones,Brazil,Physoctonus,Physoctonus_debilis,26,13
+arachnida,scorpiones,Sri Lanka,Reddyanus,Reddyanus_basilicus,"15, 16",8
+arachnida,scorpiones,Sri Lanka,Reddyanus,Reddyanus_basilicus,"15, 16",8
+arachnida,scorpiones,Sri Lanka,Reddyanus,Reddyanus_ceylonensis,16,8
+arachnida,scorpiones,Sri Lanka,Reddyanus,Reddyanus_ceylonensis,16,8
+arachnida,scorpiones,Vietnam,Reddyanus,Reddyanus_furai Kova_ík,14,7
+arachnida,scorpiones,Laos,Reddyanus,Reddyanus_justi,12,6
+arachnida,scorpiones,Sri Lanka,Reddyanus,Reddyanus_loebli,17,8.5
+arachnida,scorpiones,Sri Lanka,Reddyanus,Reddyanus_loebli,17,8.5
+arachnida,scorpiones,Malaysia,Reddyanus,Reddyanus_majkusi Kova_ík,16,8
+arachnida,scorpiones,Vietnam,Reddyanus,Reddyanus_rolciki Kova_ík,14,7
+arachnida,scorpiones,Vietnam,Reddyanus,Reddyanus_rolciki,14,7
+arachnida,scorpiones,Thailand,Reddyanus,Reddyanus_schwotti Kova_ík,11,5.5
+arachnida,scorpiones,Thailand,Reddyanus,Reddyanus_schwotti,11,5.5
+arachnida,scorpiones,Brazil,Rhopalurus,Rhopalurus_laticauda,22,11
+arachnida,scorpiones,Ethiopia,Somalicharmus,Somalicharmus_whitmanae,20,10
+arachnida,scorpiones,Ethiopia,S.,S._whitmanae,21,10.5
+arachnida,scorpiones,Vietnam,Thaicharmus,Thaicharmus_sp.,16,8
+arachnida,scorpiones,Brazil,Tityus,Tityus_aba,18,9
+arachnida,scorpiones,Brazil,Tityus,Tityus_apiacas,14,7
+arachnida,scorpiones,Brazil,Tityus,Tityus_bahiensis,9,4.5
+arachnida,scorpiones,Brazil,T.,T._bahiensis,6,3
+arachnida,scorpiones,Brazil,T.,T._bahiensis,6,3
+arachnida,scorpiones,Brazil,T.,T._bahiensis,"6, 9, 18",9
+arachnida,scorpiones,Brazil,T.,T._bahiensis,6,3
+arachnida,scorpiones,Brazil,T.,T._bahiensis,5,2.5
+arachnida,scorpiones,Brazil,T.,T._bahiensis,6,3
+arachnida,scorpiones,Brazil,T.,T._bahiensis,9,4.5
+arachnida,scorpiones,Brazil,T.,T._bahiensis,10,5
+arachnida,scorpiones,Brazil,T.,T._bahiensis,10,5
+arachnida,scorpiones,Brazil,T.,T._bahiensis,6,3
+arachnida,scorpiones,Brazil,T.,T._bahiensis,10,5
+arachnida,scorpiones,Argentina,Tityus,Tityus_carrilloi,-6,-3
+arachnida,scorpiones,Brazil,Tityus,Tityus_confluens,13,6.5
+arachnida,scorpiones,Argentina,T.,T._confluens,5,2.5
+arachnida,scorpiones,Argentina,T.,T._confluens,6,3
+arachnida,scorpiones,Brazil,Tityus,Tityus_costatus,-16,-8
+arachnida,scorpiones,Dominican Republic,Tityus,Tityus_crassimanus,29,14.5
+arachnida,scorpiones,Argentina,Tityus,Tityus_curupi,32,16
+arachnida,scorpiones,Ecuador,Tityus,Tityus_ecuadoriensis,24,12
+arachnida,scorpiones,Dominican Republic,Tityus,Tityus_elii,22,11
+arachnida,scorpiones,Brazil,Tityus,Tityus_fasciolatus,14,7
+arachnida,scorpiones,Colombia,Tityus,Tityus_fuhrmanni,22,11
+arachnida,scorpiones,Colombia,Tityus,Tityus_gaffini,22,11
+arachnida,scorpiones,----,Tityus,Tityus_magnimanus,20,10
+arachnida,scorpiones,French Guiana,Tityus,Tityus_mana,20,10
+arachnida,scorpiones,Brazil,Tityus,Tityus_maranhensis,20,10
+arachnida,scorpiones,Brazil,T.,T._maranhensis,20,10
+arachnida,scorpiones,Brazil,Tityus,Tityus_martinpaechi,6,3
+arachnida,scorpiones,Brazil,Tityus,Tityus_matogrossensis,20,10
+arachnida,scorpiones,Brazil,Tityus,Tityus_mattogrossensis,"19, 20",10
+arachnida,scorpiones,Brazil,Tityus,Tityus_metuendus,"15, 16",8
+arachnida,scorpiones,Brazil,T.,T._metuendus,14,7
+arachnida,scorpiones,Brazil,Tityus,Tityus_neglectus,"26, 27",13
+arachnida,scorpiones,Dominican Republic,Tityus,Tityus_neibae,32,16
+arachnida,scorpiones,Brazil,Tityus,Tityus_obscurus,"11, 12, 13, 14, 16",6
+arachnida,scorpiones,Brazil,Tityus,Tityus_paraguayensis,16,8
+arachnida,scorpiones,Brazil,Tityus,Tityus_paraguayensis,"16, 17, 18",9
+arachnida,scorpiones,Brazil,Tityus,Tityus_pusillus,"19, 20",10
+arachnida,scorpiones,Brazil,T.,T._serrulatus,12,6
+arachnida,scorpiones,Brazil,T.,T._serrulatus,12,6
+arachnida,scorpiones,Brazil,T.,T._silvestris,24,12
+arachnida,scorpiones,Brazil,T.,T._silvestris,24,12
+arachnida,scorpiones,Grenada,Tityus,Tityus_smithii,6,3
+arachnida,scorpiones,Brazil,Tityus,Tityus_stigmurus,-16,8
+arachnida,scorpiones,Brazil,T.,T._stigmurus,-16,8
+arachnida,scorpiones,Brazil,Tityus,Tityus_trivittatus,14,7
+arachnida,scorpiones,Argentina,Tityus,Tityus_uruguayensis,31,15.5
+arachnida,scorpiones,----,Tityus,Tityus_ythieri,20,10
+arachnida,scorpiones,Brazil,Troglorhopalurus,Troglorhopalurus_lacrau,22,11
+arachnida,scorpiones,Brazil,Troglorhopalurus,Troglorhopalurus_translucidus,20,10
+arachnida,scorpiones,Zimbabwe,Uroplectes,Uroplectes_chubbi,20,10
+arachnida,scorpiones,Tanzania,Uroplectes,Uroplectes_emiliae,28,14
+arachnida,scorpiones,Ethiopia,Uroplectes,Uroplectes_fischeri,28,14
+arachnida,scorpiones,Zimbabwe,Uroplectes,Uroplectes_flavoviridis,26,13
+arachnida,scorpiones,South Africa,Uroplectes,Uroplectes_formosus,16,8
+arachnida,scorpiones,Zimbabwe,Uroplectes,Uroplectes_olivaceus,24,12
+arachnida,scorpiones,Namibia,Uroplectes,Uroplectes_otjimbinguensis,26,13
+arachnida,scorpiones,Zimbabwe,Uroplectes,Uroplectes_planimanus,22,11
+arachnida,scorpiones,Zimbabwe,Uroplectes,Uroplectes_vittatus,24,12
+arachnida,scorpiones,Argentina,Zabius,Zabius_fuscus,18,9
+arachnida,scorpiones,----,Brotheas,Brotheas_amazonicus,50,25
+arachnida,scorpiones,Brazil,Brotheas,Brotheas_amazonicus,50,25
+arachnida,scorpiones,Brazil,Brotheas,Brotheas_amazonicus,50,25
+arachnida,scorpiones,Brazil,Brotheas,Brotheas_amazonicus,52,26
+arachnida,scorpiones,Brazil,Brotheas,Brotheas_paraensis,48,24
+arachnida,scorpiones,Brazil,Brotheas,Brotheas_silvestris,40,20
+arachnida,scorpiones,Brazil,Chactopsis,Chactopsis_amazonica,36,18
+arachnida,scorpiones,Brazil,Neochactas,Neochactas_parvulus,54,27
+arachnida,scorpiones,Brazil,Neochactas,Neochactas_sp.,30,15
+arachnida,scorpiones,Thailand,Chaerilus,Chaerilus_cimrmani,104,52
+arachnida,scorpiones,Vietnam,Chaerilus,Chaerilus_granulatus,96,48
+arachnida,scorpiones,Vietnam,Chaerilus,Chaerilus_hofereki,90,45
+arachnida,scorpiones,Thailand,Chaerilus,Chaerilus_kautti,118,59
+arachnida,scorpiones,Malaysia,Chaerilus,Chaerilus_majkusi,76,38
+arachnida,scorpiones,Thailand,Chaerilus,Chaerilus_neradorum,108,54
+arachnida,scorpiones,----,Chaerilus,Chaerilus_pulcherrimus,102,51
+arachnida,scorpiones,Malaysia,Chaerilus,Chaerilus_sejnai,124-126?,62
+arachnida,scorpiones,Thailand,Chaerilus,Chaerilus_stockmannorum,186,93
+arachnida,scorpiones,Malaysia,Chaerilus,Chaerilus_tichyi,136,68
+arachnida,scorpiones,Italy,Alpiscorpius,Alpiscorpius_alpha,90,45
+arachnida,scorpiones,Italy,Alpiscorpius,Alpiscorpius_beta,60,30
+arachnida,scorpiones,Italy,Alpiscorpius,Alpiscorpius_delta,54,27
+arachnida,scorpiones,Slovenia,Alpiscorpius,Alpiscorpius_gamma,78,39
+arachnida,scorpiones,Italy,Alpiscorpius,Alpiscorpius_germanus,46,23
+arachnida,scorpiones,Slovenia,Alpiscorpius,Alpiscorpius_kappa,46,23
+arachnida,scorpiones,Slovenia,Alpiscorpius,Alpiscorpius_lambda,46,23
+arachnida,scorpiones,Slovenia,Alpiscorpius,Alpiscorpius_omega,88,44
+arachnida,scorpiones,Slovenia,Alpiscorpius,Alpiscorpius_omega,87,43.5
+arachnida,scorpiones,Slovenia,Alpiscorpius,Alpiscorpius_omega,89,44.5
+arachnida,scorpiones,Slovenia,Alpiscorpius,Alpiscorpius_omikron,58,29
+arachnida,scorpiones,Italy and Slovenia,Alpiscorpius,Alpiscorpius_sigma,60,30
+arachnida,scorpiones,Slovenia and Austria,Alpiscorpius,Alpiscorpius_ypsilon,86,43
+arachnida,scorpiones,Slovenia and Austria,Alpiscorpius,Alpiscorpius_ypsilon,87,43.5
+arachnida,scorpiones,Slovenia and Austria,Alpiscorpius,Alpiscorpius_ypsilon,90,45
+arachnida,scorpiones,Slovenia and Austria,Alpiscorpius,Alpiscorpius_ypsilon,92,46
+arachnida,scorpiones,Turkey,Euscorpius,Euscorpius_aladaglarensis,88,44
+arachnida,scorpiones,----,Euscorpius,Euscorpius_carpathicus,70-84,39
+arachnida,scorpiones,----,E.,E._carpathicus,70-84,39
+arachnida,scorpiones,North Macedonia,Euscorpius,Euscorpius_janstai Kova_ík,112,56
+arachnida,scorpiones,Serbia,Euscorpius,Euscorpius_sadileki Kova_ík,90,45
+arachnida,scorpiones,Bulgaria,Euscorpius,Euscorpius_thracicus,92,46
+arachnida,scorpiones,Mexico,Megacornus,Megacornus_granosus,148,74
+arachnida,scorpiones,Mexico,Megacornus,Megacornus_seductus,109,54.5
+arachnida,scorpiones,Mexico,Megacornus,Megacornus_segmentatus,144,72
+arachnida,scorpiones,,Calchas,Calchas_nordmanni,82,41
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_bicolor,96,48
+arachnida,scorpiones,Zimbabwe,Hadogenes,Hadogenes_gracilis,80,40
+arachnida,scorpiones,Zimbabwe,Hadogenes,Hadogenes_granulatus,96,48
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_gunningi,88,44
+arachnida,scorpiones,Angola and Namibia,Hadogenes,Hadogenes_hahnii,100,50
+arachnida,scorpiones,Namibia,Hadogenes,Hadogenes_lawrencei,132,66
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_minor,106,53
+arachnida,scorpiones,Republic of South Africa and Namibia,Hadogenes,Hadogenes_phyllodes,72,36
+arachnida,scorpiones,Republic of South Africa and Namibia,Hadogenes,Hadogenes_tityrus,168,84
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_trichiurus,48,24
+arachnida,scorpiones,"Republic of South Africa, Botswana and Zimbabwe",Hadogenes,Hadogenes_troglodytes,84,42
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_weygoldti,113,56.5
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_zuluanus,80,40
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_zumpti Newlands,60,30
+arachnida,scorpiones,Republic of South Africa,Hadogenes,Hadogenes_sp.,174,87
+arachnida,scorpiones,,Neocalchas,Neocalchas_gruberi,40,20
+arachnida,scorpiones,India,Deccanometrus,Deccanometrus_bengalensis,64,32
+arachnida,scorpiones,India,Chersonesometrus,Chersonesometrus_fulvipes,86,43
+arachnida,scorpiones,India,Gigantometrus,Gigantometrus_swammerdami,60,30
+arachnida,scorpiones,Thailand,Heterometrus,Heterometrus_laevigatus,54,27
+arachnida,scorpiones,India,Heterometrus,Heterometrus_longimanus,64,32
+arachnida,scorpiones,Czech Republic,Heterometrus,Heterometrus_spinifer,56,28
+arachnida,scorpiones,India,Heterometrus,Heterometrus_sp.,62,31
+arachnida,scorpiones,Palestine,Nebo,Nebo_hierichonticus,50,25
+arachnida,scorpiones,Somalia,Pandinurus,Pandinurus_hangarale,120,60
+arachnida,scorpiones,Somaliland,Pandinurus,Pandinurus_kmoniceki,120,60
+arachnida,scorpiones,France,Pandinus,Pandinus_imperator,120,60
+arachnida,scorpiones,India,Sahyadrimetrus,Sahyadrimetrus_scaber,96,48
+arachnida,scorpiones,West Bank,Scorpio,Scorpio_marus,52,26
+arachnida,scorpiones,India,Srilankametrus,Srilankametrus_gravimanus,112,56
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_anthracinus,105,52.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_anthracinus,104,52
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_anthracinus,105,52.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_birulai,99,49.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_birulai,99,49.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_citadelle,104,52
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_citadelle,104,52
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_dii,109,54.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_dii,109,54.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_kautti,87,43.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_kautti,87,43.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_krabiensis,81,40.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_krabiensis,81,40.5
+arachnida,scorpiones,India,Scorpiops,Scorpiops_leptochirus,96,48
+arachnida,scorpiones,India,Scorpiops,Scorpiops_leptochirus,96,48
+arachnida,scorpiones,India,Scorpiops,Scorpiops_montanus,70,35
+arachnida,scorpiones,India,Scorpiops,Scorpiops_montanus,70,35
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_neradi,48,24
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_neradi,48,24
+arachnida,scorpiones,Laos,Scorpiops,Scorpiops_oligotrichus,105,52.5
+arachnida,scorpiones,Laos,Scorpiops,Scorpiops_oligotrichus,105,52.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_orioni,103,51.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_orioni,103,51.5
+arachnida,scorpiones,Laos,Scorpiops,Scorpiops_pakseensis,87,43.5
+arachnida,scorpiones,Laos,Scorpiops,Scorpiops_pakseensis,87,43.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_phatoensis,105,52.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_phatoensis,105,52.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_problematicus,97,48.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_problematicus,97,48.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_schumacheri,63,31.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_schumacheri,63,31.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_sherwoodae,104,52
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_sherwoodae,104,52
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_thailandus,147,73.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_thailandus,147,73.5
+arachnida,scorpiones,Vietnam,Scorpiops,Scorpiops_thaomischi,94,47
+arachnida,scorpiones,Vietnam,Scorpiops,Scorpiops_thaomischi,94,47
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_wongpromi,95,47.5
+arachnida,scorpiones,Thailand,Scorpiops,Scorpiops_wongpromi,95,47.5
+arachnida,scorpiones,Australia,Urodacus,Urodacus_elongateus,56,28
