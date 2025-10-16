@@ -1,3 +1,7 @@
+# This script reads in a folder of CSV files and a tree that has tips
+# that match the clade names that are used for each CSV file. It then
+# plots the phylogeny as well as chromosome number for all records as a 
+# beeswarm at the end of each phylogeny tip.
 
 # ---- Load required libraries ----
 library(ape)           # for reading and manipulating phylogenetic trees
@@ -7,12 +11,6 @@ library(ggtreeExtra)   # for adding extra layers (like scatterplots) to ggtree p
 library(dplyr)         # for data wrangling and transformation
 library(purrr)
 library(stringr)
-
-
-
-
-
-
 
 # ---- 2. Load haploid chromosome data from CSV files ----
 file_list <- list.files(path = "../data/chrome/", pattern = "\\.csv$", full.names = TRUE)
