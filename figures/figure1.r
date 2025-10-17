@@ -44,7 +44,7 @@ final_df <- dat_clean %>%
 
 # ---- 6. Add higher classification ----
 # Load classification info and standardize clade names
-class_df <- read.csv("../../../../Downloads/higher_class.csv", stringsAsFactors = FALSE)
+class_df <- read.csv("../data/higher_class.csv", stringsAsFactors = FALSE)
 class_df$Clade <- tolower(str_trim(class_df$Clade))              # clean and lowercase clade names for matching
 
 # Merge classification into the main dataset
