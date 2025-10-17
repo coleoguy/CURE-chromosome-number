@@ -144,3 +144,4 @@ p_final <- p +
 
 # ---- 12. Render final plot ----
 print(p_final)                                                # display the figure
+# exported as 11x6
