@@ -121,9 +121,7 @@ p_final <- p +
     mapping = aes(x = x_text, y = y_pos, label = label_text),
     geom = geom_text,
     size = 2.6,
-    hjust = 0,
-    fontface = "italic",
-    inherit.aes = FALSE
+    hjust = 0
   ) +
   scale_color_manual(
     name = "Higher classification",
