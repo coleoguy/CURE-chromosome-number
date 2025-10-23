@@ -7,18 +7,38 @@ GetTree <- function(x){
   tree <- NULL
   if(file.exists(paste0("../data/trees/",x,".new"))){
     tree <- read.tree(paste0("../data/trees/",x,".new"))
-    dupes <- duplicated(tree$tip.label)
-    tree <- drop.tip(tree, tree$tip.label[dupes])
   }
   if(file.exists(paste0("../data/trees/",x, ".nex"))){
     tree <- read.nexus(paste0("../data/trees/",x,".nex"))
-    if(class(tree) == "multiPhylo"){
-      dupes <- duplicated(tree[[1]]$tip.label)
-      tree <- drop.tip(tree, tree[[1]]$tip.label[dupes])
+  }
+  tree <- GetCleanTree(tree)
+  return(tree)
+}
+
+
+GetCleanTree <- function(tree){
+  duptips <- c()
+  if(class(tree) == "phylo"){
+    valnames <- unique(tree$tip.label)
+    for(i in 1:length(valnames)){
+      duptips <- c(duptips, which(valnames[i] == tree$tip.label)[-1])
     }
+    tree <- drop.tip(tree, duptips)
+  }else{
+    trees <- list()
+    for(j in 1:length(tree)){
+      valnames <- unique(tree[[j]]$tip.label)
+      for(i in 1:length(valnames)){
+        duptips <- c(duptips, which(valnames[i] == tree[[j]]$tip.label)[-1])
+      }
+      trees[[j]] <- drop.tip(tree[[j]], duptips)
+    }
+    tree <- trees
   }
   return(tree)
 }
+
+
 
 # this loop will go through all of the clades and 
 # check various items
@@ -113,3 +133,17 @@ res <- mcmc(lik=conlik, x.init=runif(4),prior=make.prior.exponential(2),nsteps=1
 tree <- read.nexus("data/trees/accipitriformes.nex")
 write.csv(tree$tip.label, file="birdtips.csv")
 foo <- read.csv("birdtips.csv",header=F)[,1]
+
+
+
+
+dat <-read.csv("../data/chrome/carabidae.csv")
+x <- sample(dat$haploid)
+vars <- c()
+for(i in 3:777){
+  vars[i] <- var(x[1:i])/mean(x[1:i])
+}
+plot(vars)
+
+
+
