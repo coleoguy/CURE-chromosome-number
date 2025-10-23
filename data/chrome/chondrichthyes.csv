@@ -1,177 +1,177 @@
-"","class","order","family","species","haploid"
-"1","Chondrichthyes","Rajiformes","Rajidae","amblyraja radiata","49"
-"2","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus acronotus","42"
-"3","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus limbatus","43"
-"4","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus limbatus","43"
-"5","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus obscurus","39"
-"6","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus plumbeus","37"
-"7","Chondrichthyes","Lamniformes","Odontaspididae","carcharias taurus","42"
-"8","Chondrichthyes","Lamniformes","Alopiidae","carcharodon carcharias","41"
-"9","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","cephaloscyllium umbratile","32"
-"10","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","cephaloscyllium ventriosum","32"
-"11","Chondrichthyes","Chimaeriformes","Chimaeridae","chimaera monstrosa","43"
-"12","Chondrichthyes","Hexanchiformes","Chlamydoselachidae","chlamydoselachus anguineus","50"
-"13","Chondrichthyes","Rajiformes","Rajidae","dipturus batis","49"
-"14","Chondrichthyes","Squaliformes","Etmopteridae","etmopterus pusillus","43"
-"15","Chondrichthyes","Squaliformes","Etmopteridae","etmopterus spinax","43"
-"16","Chondrichthyes","Carcharhiniformes","Carcharhinidae","galeocerdo cuvieri","43"
-"17","Chondrichthyes","Carcharhiniformes","Carcharhinidae","galeocerdo cuvieri","43"
-"18","Chondrichthyes","Chimaeriformes","Chimaeridae","hydrolagus colliei","29"
-"19","Chondrichthyes","Myliobatiformes","Myliobatidae","mobula japonica","33"
-"20","Chondrichthyes","Myliobatiformes","Myliobatidae","mobula japonica","33"
-"21","Chondrichthyes","Carcharhiniformes","Triakidae","mustelus canis","40"
-"22","Chondrichthyes","Carcharhiniformes","Triakidae","mustelus manazo","34"
-"23","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis aquila","26"
-"24","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis californica","26"
-"25","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis freminvillii","26"
-"26","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis tobijei","27"
-"27","Chondrichthyes","Torpediniformes","Narcinidae","narcine brasiliensis","14"
-"28","Chondrichthyes","Torpediniformes","Narkidae","narke japonica","27"
-"29","Chondrichthyes","Squaliformes","Oxynotidae","oxynotus centrina","31"
-"30","Chondrichthyes","Myliobatiformes","Potamotrygonidae","paratrygon aiereba","45"
-"31","Chondrichthyes",NA,"Platyrhinidae","platyrhinoidis triseriata","32"
-"32","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon motoro","33"
-"33","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon orbignyi","33"
-"34","Chondrichthyes","Carcharhiniformes","Carcharhinidae","prionace glauca","43"
-"35","Chondrichthyes","Carcharhiniformes","Carcharhinidae","prionace glauca","39"
-"36","Chondrichthyes","Carcharhiniformes","Carcharhinidae","prionace glauca","39"
-"37","Chondrichthyes","Rajiformes","Rajidae","raja asterias","49"
-"38","Chondrichthyes","Rajiformes","Rajidae","raja clavata","49"
-"39","Chondrichthyes","Rajiformes","Rajidae","raja eglanteria","29"
-"40","Chondrichthyes","Rajiformes","Rajidae","raja montagui","48"
-"41","Chondrichthyes","Rajiformes","Rajidae","raja polystigma","48"
-"42","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos hynnicephalus","30"
-"43","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos hynnicephalus","29.5"
-"44","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos lentiginosus","42"
-"45","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos productus","46"
-"46","Chondrichthyes","Myliobatiformes","Myliobatidae","rhinoptera bonasus","32"
-"47","Chondrichthyes","Carcharhiniformes","Carcharhinidae","rhizoprionodon terraenovae","40"
-"48","Chondrichthyes","Carcharhiniformes","Carcharhinidae","rhizoprionodon terraenovae","45"
-"49","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","scyliorhinus canicula","31"
-"50","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","scyliorhinus stellaris","36"
-"51","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","scyliorhinus torazame","32"
-"52","Chondrichthyes","Squaliformes","Squalidae","squalus acanthias","30"
-"53","Chondrichthyes","Squaliformes","Squalidae","squalus acanthias","39"
-"54","Chondrichthyes","Squaliformes","Squalidae","squalus acanthias","32"
-"55","Chondrichthyes","Squaliformes","Squalidae","squalus acanthias","29"
-"56","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo marmorata","43"
-"57","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo marmorata","43"
-"58","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo tokionis","43"
-"59","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo ocellata","33"
-"60","Chondrichthyes","Carcharhiniformes","Triakidae","triakis scyllia","36"
-"61","Chondrichthyes","Myliobatiformes","Urolophidae","urolophus aurantiacus","26"
-"62","Chondrichthyes","Myliobatiformes","Urolophidae","urolophus halleri","36"
-"63","Chondrichthyes",NA,"Squatinidae","squatina californica","44"
-"64","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos schlegehi","31.5"
-"65","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos schlegehi","32"
-"66","Chondrichthyes","Carcharhiniformes","Carcharhinidae","sphyma lewini","39"
-"67","Chondrichthyes","Carcharhiniformes","Carcharhinidae","sphyma lewini","43"
-"68","Chondrichthyes","Carcharhiniformes","Triakidae","triakis sem","36"
-"69","Chondrichthyes","Squaliformes","Squalidae","squalus acanthias","31"
-"70","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","scyliorhinus torazame","32"
-"71","Chondrichthyes","Myliobatiformes","Dasyatidae","dasyatis matsubarai","32"
-"72","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","cephaloscyllium umbratile","32"
-"73","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon orbignyi","33"
-"74","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon motoro","33"
-"75","Chondrichthyes","Carcharhiniformes","Carcharhinidae","prionace glauca","43"
-"76","Chondrichthyes","Carcharhiniformes","Carcharhinidae","sphyrna lewini","43"
-"77","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo tokionis","43"
-"78","Chondrichthyes","Myliobatiformes","Potamotrygonidae","paratrygon aiereba","45"
-"79","Chondrichthyes","Rajiformes","Rajidae","raja radiata","49"
-"80","Chondrichthyes","Rajiformes","Rajidae","raja clavata","49"
-"81","Chondrichthyes","Rajiformes","Rajidae","raja batis","49"
-"82","Chondrichthyes","Orectolobiformes","Stegostomatidae","stegostoma fasciatum","51"
-"83","Chondrichthyes","Orectolobiformes","Rhincodontidae","rhincodon typus","51"
-"84","Chondrichthyes","Orectolobiformes","Hemiscylliidae","chiloscyllium plagiosum","53"
-"85","Chondrichthyes","Orectolobiformes","Hemiscylliidae","chiloscyllium punctatum","53"
-"86","Chondrichthyes","Chimaeriformes","Chimaeridae","chimaera monstrosa","43"
-"87","Chondrichthyes","Chimaeriformes","Chimaeridae","hydrolagus colliei","29"
-"88","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus acronotus","43"
-"89","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus limbatus","43"
-"90","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus obscurus","39"
-"91","Chondrichthyes","Carcharhiniformes","Carcharhinidae","carcharhinus plumbeus","37"
-"92","Chondrichthyes","Carcharhiniformes","Carcharhinidae","prionace glauca","39"
-"93","Chondrichthyes","Carcharhiniformes","Carcharhinidae","rhizoprionodon terraenovae","45"
-"94","Chondrichthyes","Carcharhiniformes","Carcharhinidae","galeocerdo cuvier","43"
-"95","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","atelomycterus marmoratus","38"
-"96","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","cephaloscyllium umbratile","32"
-"97","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","cephaloscyllium ventriosum","32"
-"98","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","scyliorhinus canicula","31"
-"99","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","scyliorhinus stellaris","36"
-"100","Chondrichthyes","Carcharhiniformes","Scyliorhinidae","scyliorhinus torazame","32"
-"101","Chondrichthyes","Carcharhiniformes","Carcharhinidae","sphyrna lewini","41"
-"102","Chondrichthyes","Carcharhiniformes","Triakidae","mustelus canis","40"
-"103","Chondrichthyes","Carcharhiniformes","Triakidae","mustelus manazo","34"
-"104","Chondrichthyes","Carcharhiniformes","Triakidae","triakis scyllium","36"
-"105","Chondrichthyes","Carcharhiniformes","Triakidae","triakis semifasciata","36"
-"106","Chondrichthyes","Heterodontiformes","Heterodontidae","heterodontus francisci","51"
-"107","Chondrichthyes","Heterodontiformes","Heterodontidae","heterodontus japonicus","51"
-"108","Chondrichthyes","Lamniformes","Alopiidae","carcharodon carcharias","41"
-"109","Chondrichthyes","Lamniformes","Odontaspididae","carcharias taurus","42"
-"110","Chondrichthyes","Orectolobiformes","Hemiscylliidae","chiloscyllium punctatum","53"
-"111","Chondrichthyes","Orectolobiformes","Hemiscylliidae","chiloscyllium plagiosum","53"
-"112","Chondrichthyes","Orectolobiformes","Rhincodontidae","rhincodon typus","51"
-"113","Chondrichthyes","Orectolobiformes","Stegostomatidae","stegostoma tigrinum","51"
-"114","Chondrichthyes","Hexanchiformes","Chlamydoselachidae","chlamydoselachus anguineus","50"
-"115","Chondrichthyes","Hexanchiformes","Hexanchidae","notorynchus cepedianus","52"
-"116",NA,NA,NA,"notorynchus maculatus *^*","52"
-"117","Chondrichthyes","Hexanchiformes","Hexanchidae","heptranchias perlo","36"
-"118","Chondrichthyes","Squaliformes","Etmopteridae","etmopterus spinax","43"
-"119","Chondrichthyes","Squaliformes","Etmopteridae","etmopterus pusillus","43"
-"120","Chondrichthyes","Squaliformes","Oxynotidae","oxynotus centrina","31"
-"121","Chondrichthyes","Squaliformes","Squalidae","squalus suckleyi","31"
-"122","Chondrichthyes","Squaliformes","Squalidae","squalus acanthias","31"
-"123","Chondrichthyes",NA,"Squatinidae","squatina californica","44"
-"124","Chondrichthyes",NA,"Platyrhinidae","platyrhinoidis triseriata","32"
-"125","Chondrichthyes","Myliobatiformes","Urolophidae","urolophus aurantiacus","26"
-"126",NA,NA,NA,"urolophus halleri ","36"
-"127","Chondrichthyes","Myliobatiformes","Dasyatidae","dasyatis matsubarai","32"
-"128","Chondrichthyes","Myliobatiformes","Dasyatidae","dasyatis say","34"
-"129","Chondrichthyes","Myliobatiformes","Dasyatidae","hemitrygon akajei","36"
-"130","Chondrichthyes","Myliobatiformes","Dasyatidae","hypanus americanus","39"
-"131",NA,NA,NA,"hypanus sabinus ","34"
-"132","Chondrichthyes","Myliobatiformes","Dasyatidae","pteroplatytrygon violacea","29"
-"133","Chondrichthyes","Myliobatiformes","Potamotrygonidae","taeniura lymma","32"
-"134","Chondrichthyes","Myliobatiformes","Dasyatidae","neotrygon kuhlii","32"
-"135","Chondrichthyes","Myliobatiformes","Potamotrygonidae","paratrygon aiereba","45"
-"136","Chondrichthyes","Myliobatiformes","Potamotrygonidae","plesiotrygon iwamae","37"
-"137",NA,NA,NA,"potamotrygon aff. motoro","33"
-"138",NA,NA,NA,"potamotrygon aff. wallacei","34"
-"139","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon amazona","33"
-"140","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon constellata","33"
-"141","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon falkneri","33"
-"142","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon leopoldi","32"
-"143",NA,NA,NA,"potamotrygon motoro ","33"
-"144",NA,NA,NA,"potamotrygon orbignyi ","33"
-"145","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon scobina","33"
-"146","Chondrichthyes","Myliobatiformes","Potamotrygonidae","potamotrygon wallacei","34"
-"147","Chondrichthyes","Myliobatiformes","Myliobatidae","rhinoptera bonasus","32"
-"148","Chondrichthyes","Myliobatiformes","Gymnuridae","gymnura micrura","28"
-"149","Chondrichthyes","Myliobatiformes","Gymnuridae","gymnura japonica","28"
-"150","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis aquila","26"
-"151","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis californica","26"
-"152","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis freminvillii","26"
-"153","Chondrichthyes","Myliobatiformes","Myliobatidae","myliobatis tobijei","27"
-"154","Chondrichthyes","Myliobatiformes","Myliobatidae","mobula japonica","33"
-"155","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos hynnicephalus","30"
-"156",NA,NA,NA,"rhinobatos productus ","46"
-"157","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos schlegelii","32"
-"158","Chondrichthyes","Pristiformes/Rhiniformes group","Rhinobatidae","rhinobatos lentiginosus","42"
-"159","Chondrichthyes","Rajiformes","Rajidae","amblyraja radiata","49"
-"160","Chondrichthyes","Rajiformes","Rajidae","dipturus batis","49"
-"161","Chondrichthyes","Rajiformes","Rajidae","leucoraja erinacea","49"
-"162","Chondrichthyes","Rajiformes","Rajidae","leucoraja ocellata","46"
-"163","Chondrichthyes","Rajiformes","Rajidae","okamejei meerdervoortii","52"
-"164","Chondrichthyes","Rajiformes","Rajidae","raja asterias","49"
-"165","Chondrichthyes","Rajiformes","Rajidae","raja clavata","49"
-"166","Chondrichthyes","Rajiformes","Rajidae","raja eglanteria","29"
-"167","Chondrichthyes","Rajiformes","Rajidae","raja montagui","48"
-"168","Chondrichthyes","Rajiformes","Rajidae","raja polystigma","48"
-"169","Chondrichthyes","Torpediniformes","Narcinidae","narcine brasiliensis","14"
-"170","Chondrichthyes","Torpediniformes","Narkidae","narke japonica","27"
-"171","Chondrichthyes","Torpediniformes","Torpedinidae","tetronarce californica","41"
-"172","Chondrichthyes","Torpediniformes","Torpedinidae","tetronarce tokionis","43"
-"173","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo marmorata","43"
-"174","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo nobiliana","33"
-"175","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo torpedo","33"
-"176","Chondrichthyes","Torpediniformes","Torpedinidae","torpedo ocellata","33"
+order,family,genus,species,haploid
+Rajiformes,Rajidae,amblyraja,Amblyraja_radiata,49
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_acronotus,42
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_limbatus,43
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_limbatus,43
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_obscurus,39
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_plumbeus,37
+Lamniformes,Odontaspididae,carcharias,Carcharias_taurus,42
+Lamniformes,Alopiidae,carcharodon,Carcharodon_carcharias,41
+Carcharhiniformes,Scyliorhinidae,cephaloscyllium,Cephaloscyllium_umbratile,32
+Carcharhiniformes,Scyliorhinidae,cephaloscyllium,Cephaloscyllium_ventriosum,32
+Chimaeriformes,Chimaeridae,chimaera,Chimaera_monstrosa,43
+Hexanchiformes,Chlamydoselachidae,chlamydoselachus,Chlamydoselachus_anguineus,50
+Rajiformes,Rajidae,dipturus,Dipturus_batis,49
+Squaliformes,Etmopteridae,etmopterus,Etmopterus_pusillus,43
+Squaliformes,Etmopteridae,etmopterus,Etmopterus_spinax,43
+Carcharhiniformes,Carcharhinidae,galeocerdo,Galeocerdo_cuvieri,43
+Carcharhiniformes,Carcharhinidae,galeocerdo,Galeocerdo_cuvieri,43
+Chimaeriformes,Chimaeridae,hydrolagus,Hydrolagus_colliei,29
+Myliobatiformes,Myliobatidae,mobula,Mobula_japonica,33
+Myliobatiformes,Myliobatidae,mobula,Mobula_japonica,33
+Carcharhiniformes,Triakidae,mustelus,Mustelus_canis,40
+Carcharhiniformes,Triakidae,mustelus,Mustelus_manazo,34
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_aquila,26
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_californica,26
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_freminvillii,26
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_tobijei,27
+Torpediniformes,Narcinidae,narcine,Narcine_brasiliensis,14
+Torpediniformes,Narkidae,narke,Narke_japonica,27
+Squaliformes,Oxynotidae,oxynotus,Oxynotus_centrina,31
+Myliobatiformes,Potamotrygonidae,paratrygon,Paratrygon_aiereba,45
+NA,Platyrhinidae,platyrhinoidis,Platyrhinoidis_triseriata,32
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_motoro,33
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_orbignyi,33
+Carcharhiniformes,Carcharhinidae,prionace,Prionace_glauca,43
+Carcharhiniformes,Carcharhinidae,prionace,Prionace_glauca,39
+Carcharhiniformes,Carcharhinidae,prionace,Prionace_glauca,39
+Rajiformes,Rajidae,raja,Raja_asterias,49
+Rajiformes,Rajidae,raja,Raja_clavata,49
+Rajiformes,Rajidae,raja,Raja_eglanteria,29
+Rajiformes,Rajidae,raja,Raja_montagui,48
+Rajiformes,Rajidae,raja,Raja_polystigma,48
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_hynnicephalus,30
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_hynnicephalus,29.5
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_lentiginosus,42
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_productus,46
+Myliobatiformes,Myliobatidae,rhinoptera,Rhinoptera_bonasus,32
+Carcharhiniformes,Carcharhinidae,rhizoprionodon,Rhizoprionodon_terraenovae,40
+Carcharhiniformes,Carcharhinidae,rhizoprionodon,Rhizoprionodon_terraenovae,45
+Carcharhiniformes,Scyliorhinidae,scyliorhinus,Scyliorhinus_canicula,31
+Carcharhiniformes,Scyliorhinidae,scyliorhinus,Scyliorhinus_stellaris,36
+Carcharhiniformes,Scyliorhinidae,scyliorhinus,Scyliorhinus_torazame,32
+Squaliformes,Squalidae,squalus,Squalus_acanthias,30
+Squaliformes,Squalidae,squalus,Squalus_acanthias,39
+Squaliformes,Squalidae,squalus,Squalus_acanthias,32
+Squaliformes,Squalidae,squalus,Squalus_acanthias,29
+Torpediniformes,Torpedinidae,torpedo,Torpedo_marmorata,43
+Torpediniformes,Torpedinidae,torpedo,Torpedo_marmorata,43
+Torpediniformes,Torpedinidae,torpedo,Torpedo_tokionis,43
+Torpediniformes,Torpedinidae,torpedo,Torpedo_ocellata,33
+Carcharhiniformes,Triakidae,triakis,Triakis_scyllia,36
+Myliobatiformes,Urolophidae,urolophus,Urolophus_aurantiacus,26
+Myliobatiformes,Urolophidae,urolophus,Urolophus_halleri,36
+NA,Squatinidae,squatina,Squatina_californica,44
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_schlegehi,31.5
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_schlegehi,32
+Carcharhiniformes,Carcharhinidae,sphyma,Sphyma_lewini,39
+Carcharhiniformes,Carcharhinidae,sphyma,Sphyma_lewini,43
+Carcharhiniformes,Triakidae,triakis,Triakis_sem,36
+Squaliformes,Squalidae,squalus,Squalus_acanthias,31
+Carcharhiniformes,Scyliorhinidae,scyliorhinus,Scyliorhinus_torazame,32
+Myliobatiformes,Dasyatidae,dasyatis,Dasyatis_matsubarai,32
+Carcharhiniformes,Scyliorhinidae,cephaloscyllium,Cephaloscyllium_umbratile,32
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_orbignyi,33
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_motoro,33
+Carcharhiniformes,Carcharhinidae,prionace,Prionace_glauca,43
+Carcharhiniformes,Carcharhinidae,sphyrna,Sphyrna_lewini,43
+Torpediniformes,Torpedinidae,torpedo,Torpedo_tokionis,43
+Myliobatiformes,Potamotrygonidae,paratrygon,Paratrygon_aiereba,45
+Rajiformes,Rajidae,raja,Raja_radiata,49
+Rajiformes,Rajidae,raja,Raja_clavata,49
+Rajiformes,Rajidae,raja,Raja_batis,49
+Orectolobiformes,Stegostomatidae,stegostoma,Stegostoma_fasciatum,51
+Orectolobiformes,Rhincodontidae,rhincodon,Rhincodon_typus,51
+Orectolobiformes,Hemiscylliidae,chiloscyllium,Chiloscyllium_plagiosum,53
+Orectolobiformes,Hemiscylliidae,chiloscyllium,Chiloscyllium_punctatum,53
+Chimaeriformes,Chimaeridae,chimaera,Chimaera_monstrosa,43
+Chimaeriformes,Chimaeridae,hydrolagus,Hydrolagus_colliei,29
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_acronotus,43
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_limbatus,43
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_obscurus,39
+Carcharhiniformes,Carcharhinidae,carcharhinus,Carcharhinus_plumbeus,37
+Carcharhiniformes,Carcharhinidae,prionace,Prionace_glauca,39
+Carcharhiniformes,Carcharhinidae,rhizoprionodon,Rhizoprionodon_terraenovae,45
+Carcharhiniformes,Carcharhinidae,galeocerdo,Galeocerdo_cuvier,43
+Carcharhiniformes,Scyliorhinidae,atelomycterus,Atelomycterus_marmoratus,38
+Carcharhiniformes,Scyliorhinidae,cephaloscyllium,Cephaloscyllium_umbratile,32
+Carcharhiniformes,Scyliorhinidae,cephaloscyllium,Cephaloscyllium_ventriosum,32
+Carcharhiniformes,Scyliorhinidae,scyliorhinus,Scyliorhinus_canicula,31
+Carcharhiniformes,Scyliorhinidae,scyliorhinus,Scyliorhinus_stellaris,36
+Carcharhiniformes,Scyliorhinidae,scyliorhinus,Scyliorhinus_torazame,32
+Carcharhiniformes,Carcharhinidae,sphyrna,Sphyrna_lewini,41
+Carcharhiniformes,Triakidae,mustelus,Mustelus_canis,40
+Carcharhiniformes,Triakidae,mustelus,Mustelus_manazo,34
+Carcharhiniformes,Triakidae,triakis,Triakis_scyllium,36
+Carcharhiniformes,Triakidae,triakis,Triakis_semifasciata,36
+Heterodontiformes,Heterodontidae,heterodontus,Heterodontus_francisci,51
+Heterodontiformes,Heterodontidae,heterodontus,Heterodontus_japonicus,51
+Lamniformes,Alopiidae,carcharodon,Carcharodon_carcharias,41
+Lamniformes,Odontaspididae,carcharias,Carcharias_taurus,42
+Orectolobiformes,Hemiscylliidae,chiloscyllium,Chiloscyllium_punctatum,53
+Orectolobiformes,Hemiscylliidae,chiloscyllium,Chiloscyllium_plagiosum,53
+Orectolobiformes,Rhincodontidae,rhincodon,Rhincodon_typus,51
+Orectolobiformes,Stegostomatidae,stegostoma,Stegostoma_tigrinum,51
+Hexanchiformes,Chlamydoselachidae,chlamydoselachus,Chlamydoselachus_anguineus,50
+Hexanchiformes,Hexanchidae,notorynchus,Notorynchus_cepedianus,52
+NA,NA,notorynchus,Notorynchus_maculatus,52
+Hexanchiformes,Hexanchidae,heptranchias,Heptranchias_perlo,36
+Squaliformes,Etmopteridae,etmopterus,Etmopterus_spinax,43
+Squaliformes,Etmopteridae,etmopterus,Etmopterus_pusillus,43
+Squaliformes,Oxynotidae,oxynotus,Oxynotus_centrina,31
+Squaliformes,Squalidae,squalus,Squalus_suckleyi,31
+Squaliformes,Squalidae,squalus,Squalus_acanthias,31
+NA,Squatinidae,squatina,Squatina_californica,44
+NA,Platyrhinidae,platyrhinoidis,Platyrhinoidis_triseriata,32
+Myliobatiformes,Urolophidae,urolophus,Urolophus_aurantiacus,26
+NA,NA,urolophus,Urolophus_halleri,36
+Myliobatiformes,Dasyatidae,dasyatis,Dasyatis_matsubarai,32
+Myliobatiformes,Dasyatidae,dasyatis,Dasyatis_say,34
+Myliobatiformes,Dasyatidae,hemitrygon,Hemitrygon_akajei,36
+Myliobatiformes,Dasyatidae,hypanus,Hypanus_americanus,39
+NA,NA,hypanus,Hypanus_sabinus,34
+Myliobatiformes,Dasyatidae,pteroplatytrygon,Pteroplatytrygon_violacea,29
+Myliobatiformes,Potamotrygonidae,taeniura,Taeniura_lymma,32
+Myliobatiformes,Dasyatidae,neotrygon,Neotrygon_kuhlii,32
+Myliobatiformes,Potamotrygonidae,paratrygon,Paratrygon_aiereba,45
+Myliobatiformes,Potamotrygonidae,plesiotrygon,Plesiotrygon_iwamae,37
+NA,NA,potamotrygon,Potamotrygon_aff.,33
+NA,NA,potamotrygon,Potamotrygon_aff.,34
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_amazona,33
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_constellata,33
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_falkneri,33
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_leopoldi,32
+NA,NA,potamotrygon,Potamotrygon_motoro,33
+NA,NA,potamotrygon,Potamotrygon_orbignyi,33
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_scobina,33
+Myliobatiformes,Potamotrygonidae,potamotrygon,Potamotrygon_wallacei,34
+Myliobatiformes,Myliobatidae,rhinoptera,Rhinoptera_bonasus,32
+Myliobatiformes,Gymnuridae,gymnura,Gymnura_micrura,28
+Myliobatiformes,Gymnuridae,gymnura,Gymnura_japonica,28
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_aquila,26
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_californica,26
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_freminvillii,26
+Myliobatiformes,Myliobatidae,myliobatis,Myliobatis_tobijei,27
+Myliobatiformes,Myliobatidae,mobula,Mobula_japonica,33
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_hynnicephalus,30
+NA,NA,rhinobatos,Rhinobatos_productus,46
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_schlegelii,32
+Pristiformes/Rhiniformes group,Rhinobatidae,rhinobatos,Rhinobatos_lentiginosus,42
+Rajiformes,Rajidae,amblyraja,Amblyraja_radiata,49
+Rajiformes,Rajidae,dipturus,Dipturus_batis,49
+Rajiformes,Rajidae,leucoraja,Leucoraja_erinacea,49
+Rajiformes,Rajidae,leucoraja,Leucoraja_ocellata,46
+Rajiformes,Rajidae,okamejei,Okamejei_meerdervoortii,52
+Rajiformes,Rajidae,raja,Raja_asterias,49
+Rajiformes,Rajidae,raja,Raja_clavata,49
+Rajiformes,Rajidae,raja,Raja_eglanteria,29
+Rajiformes,Rajidae,raja,Raja_montagui,48
+Rajiformes,Rajidae,raja,Raja_polystigma,48
+Torpediniformes,Narcinidae,narcine,Narcine_brasiliensis,14
+Torpediniformes,Narkidae,narke,Narke_japonica,27
+Torpediniformes,Torpedinidae,tetronarce,Tetronarce_californica,41
+Torpediniformes,Torpedinidae,tetronarce,Tetronarce_tokionis,43
+Torpediniformes,Torpedinidae,torpedo,Torpedo_marmorata,43
+Torpediniformes,Torpedinidae,torpedo,Torpedo_nobiliana,33
+Torpediniformes,Torpedinidae,torpedo,Torpedo_torpedo,33
+Torpediniformes,Torpedinidae,torpedo,Torpedo_ocellata,33

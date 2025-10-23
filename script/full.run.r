@@ -13,10 +13,8 @@ GetTree <- function(x){
   if(file.exists(paste0("../data/trees/",x, ".nex"))){
     tree <- read.nexus(paste0("../data/trees/",x,".nex"))
     if(class(tree) == "multiPhylo"){
-      for(j in 1:length(tree)){
-        dupes <- duplicated(tree[[j]]$tip.label)
-        tree[[j]] <- drop.tip(tree, tree[[j]]$tip.label[dupes])
-      }
+      dupes <- duplicated(tree[[1]]$tip.label)
+      tree <- drop.tip(tree, tree[[1]]$tip.label[dupes])
     }
   }
   return(tree)
