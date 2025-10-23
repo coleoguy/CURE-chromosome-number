@@ -1,1834 +1,1834 @@
-Order,Family,species,Diploid.number,Fundamental.number,haploid
-Anura,Allophrynidae,Allophryne ruthveni,20,40,10
-Anura,Alsodidae,Alsodes aff vittatus,26,52,13
-Anura,Alsodidae,Alsodes barrioi,34,56,17
-Anura,Alsodidae,Alsodes coppingeri,26,52,13
-Anura,Alsodidae,Alsodes gargola,26,52,13
-Anura,Alsodidae,Alsodes hugoi,26,NA,13
-Anura,Alsodidae,Alsodes igneus,26,NA,13
-Anura,Alsodidae,Alsodes montanus,26,52,13
-Anura,Alsodidae,Alsodes monticola,26,52,13
-Anura,Alsodidae,Alsodes neuquensis,26,NA,13
-Anura,Alsodidae,Alsodes nodosus,22,44,11
-Anura,Alsodidae,Alsodes norae,30,52,15
-Anura,Alsodidae,Alsodes pehuenche,26,52,13
-Anura,Alsodidae,Alsodes tumultuosus,26,52,13
-Anura,Alsodidae,Alsodes vanzolinii,26,50,13
-Anura,Alsodidae,Alsodes vanzolinii,26,52,13
-Anura,Alsodidae,Alsodes verrucosus,26,52,13
-Anura,Alsodidae,Alsodes vittatus,28,NA,14
-Anura,Alsodidae,Eupsophus calcaratus,30,46,15
-Anura,Alsodidae,Eupsophus emiliopugini,28,56,14
-Anura,Alsodidae,Eupsophus insularis,30,44,15
-Anura,Alsodidae,Eupsophus migueli,30,44,15
-Anura,Alsodidae,Eupsophus roseus,30,44,15
-Anura,Alsodidae,Eupsophus roseus,30,46,15
-Anura,Alsodidae,Eupsophus roseus,30,44,15
-Anura,Alsodidae,Eupsophus vertebralis,42,56,21
-Anura,Alsodidae,Limnomedusa macroglossa,26,NA,13
-Anura,Alytidae,Alytes cisternasii,38,50,19
-Anura,Alytidae,Alytes muletensis,38,60,19
-Anura,Alytidae,Alytes obstetricans,38,NA,19
-Anura,Alytidae,Discoglossus galganoi galganoi,28,56,14
-Anura,Alytidae,Discoglossus jeanneae,28,56,14
-Anura,Alytidae,Discoglossus montalentii,28,56,14
-Anura,Alytidae,Discoglossus pictus,28,54,14
-Anura,Alytidae,Discoglossus pictus auritus,28,NA,14
-Anura,Alytidae,Discoglossus pictus pictus,28,56,14
-Anura,Alytidae,Discoglossus sardus,28,56,14
-Anura,Aromobatidae,Allobates brunneus,24,46,12
-Anura,Aromobatidae,Allobates caeruleodactylus,22,NA,11
-Anura,Aromobatidae,Allobates chalcopis,22,44,11
-Anura,Aromobatidae,Allobates femoralis,24,48,12
-Anura,Aromobatidae,Allobates marchesianus,22,NA,11
-Anura,Aromobatidae,Allobates nidicola,22,44,11
-Anura,Aromobatidae,Allobates olfersioides,24,48,12
-Anura,Aromobatidae,Allobates talamancae,24,48,12
-Anura,Aromobatidae,Anomaloglossus stepheni,24,46,12
-Anura,Aromobatidae,Aromobates leopardalis,24,48,12
-Anura,Aromobatidae,Mannophryne herminae,24,48,12
-Anura,Aromobatidae,Mannophryne neblina,24,48,12
-Anura,Aromobatidae,Mannophryne olmonae,24,48,12
-Anura,Aromobatidae,Mannophryne trinitatis,24,48,12
-Anura,Aromobatidae,Mannophryne trinitatis,24,NA,12
-Anura,Aromobatidae,Rheobates palmatus,24,48,12
-Anura,Arthroleptidae,Arthroleptis adolfifriederici,14,NA,7
-Anura,Arthroleptidae,Arthroleptis poecilonotus,14,28,7
-Anura,Arthroleptidae,Arthroleptis sp,14,28,7
-Anura,Arthroleptidae,Arthroleptis stenodactylus,14,28,7
-Anura,Arthroleptidae,Astylosternus diadematus,54,68,27
-Anura,Arthroleptidae,Cardioglossa gracilis,16,32,8
-Anura,Arthroleptidae,Cardioglossa leucomystax,18,32,9
-Anura,Arthroleptidae,Leptopelis aubryi,22,44,11
-Anura,Arthroleptidae,Leptopelis bocagii,22,44,11
-Anura,Arthroleptidae,Leptopelis boulengeri,22,44,11
-Anura,Arthroleptidae,Leptopelis calcaratus,24,46,12
-Anura,Arthroleptidae,Leptopelis concolor,24,NA,12
-Anura,Arthroleptidae,Leptopelis gramineus,24,48,12
-Anura,Arthroleptidae,Leptopelis palmatus,24,46,12
-Anura,Arthroleptidae,Leptopelis parkeri,30,40,15
-Anura,Arthroleptidae,Leptopelis vermiculatus,24,46,12
-Anura,Arthroleptidae,Leptopelis viridis,24,44,12
-Anura,Arthroleptidae,Leptopelis viridis,22,44,11
-Anura,Arthroleptidae,Nyctibates corrugatus,28,56,14
-Anura,Ascaphidae,Ascaphus truei,44,NA,22
-Anura,Ascaphidae,Ascaphus truei,46,56,23
-Anura,Batrachylidae,Atelognathus nitoi,26,NA,13
-Anura,Batrachylidae,Atelognathus patagonicus,26,NA,13
-Anura,Batrachylidae,Atelognathus praebasalticus,26,NA,13
-Anura,Batrachylidae,Atelognathus reverberii,26,NA,13
-Anura,Batrachylidae,Batrachyla antartandica,26,50,13
-Anura,Batrachylidae,Batrachyla leptopus,26,52,13
-Anura,Batrachylidae,Batrachyla nibaldoi,26,50,13
-Anura,Batrachylidae,Batrachyla taeniata,26,50,13
-Anura,Batrachylidae,Hylorina sylvatica,26,NA,13
-Anura,Bombinatoridae,Bombina bombina,24,48,12
-Anura,Bombinatoridae,Bombina maxima,28,56,14
-Anura,Bombinatoridae,Bombina microdeladigitora,28,56,14
-Anura,Bombinatoridae,Bombina orientalis,24,48,12
-Anura,Bombinatoridae,Bombina pachypus,24,48,12
-Anura,Bombinatoridae,Bombina variegata,24,48,12
-Anura,Brachycephalidae,Brachycephalus ephippium,22,44,11
-Anura,Brachycephalidae,Ischnocnema guentheri,22,44,11
-Anura,Brachycephalidae,Ischnocnema holti,20,NA,10
-Anura,Brachycephalidae,Ischnocnema holti,20,38,10
-Anura,Brachycephalidae,Ischnocnema juipoca,22,40,11
-Anura,Brachycephalidae,Ischnocnema lactea,20,40,10
-Anura,Brachycephalidae,Ischnocnema lactea,20,NA,10
-Anura,Brevicipitidae,Breviceps gibbosus,24,48,12
-Anura,Brevicipitidae,Callulina kreffti,24,NA,12
-Anura,Bufonidae,Altiphrynoides malcolmi,22,NA,11
-Anura,Bufonidae,Altiphrynoides osgoodi,22,NA,11
-Anura,Bufonidae,Anaxyrus americanus,22,44,11
-Anura,Bufonidae,Anaxyrus boreas,22,NA,11
-Anura,Bufonidae,Anaxyrus boreas,22,44,11
-Anura,Bufonidae,Anaxyrus boreas,22,NA,11
-Anura,Bufonidae,Anaxyrus canorus,22,44,11
-Anura,Bufonidae,Anaxyrus cognatus,22,44,11
-Anura,Bufonidae,Anaxyrus compactilis,22,44,11
-Anura,Bufonidae,Anaxyrus debilis,22,44,11
-Anura,Bufonidae,Anaxyrus fowleri,22,44,11
-Anura,Bufonidae,Anaxyrus hemiophrys,22,44,11
-Anura,Bufonidae,Anaxyrus houstonensis,21,NA,10.5
-Anura,Bufonidae,Anaxyrus houstonensis,22,44,11
-Anura,Bufonidae,Anaxyrus kelloggi,22,44,11
-Anura,Bufonidae,Anaxyrus microscaphus,22,44,11
-Anura,Bufonidae,Anaxyrus nelsoni,22,44,11
-Anura,Bufonidae,Anaxyrus punctatus,22,44,11
-Anura,Bufonidae,Anaxyrus quercicus,22,44,11
-Anura,Bufonidae,Anaxyrus retiformis,22,44,11
-Anura,Bufonidae,Anaxyrus speciosus,22,NA,11
-Anura,Bufonidae,Anaxyrus terrestris,22,44,11
-Anura,Bufonidae,Anaxyrus woodhousii,22,NA,11
-Anura,Bufonidae,Anaxyrus woodhousii,22,44,11
-Anura,Bufonidae,Anaxyrus woodhousii,22,NA,11
-Anura,Bufonidae,Anaxyrus woodhousii,22,44,11
-Anura,Bufonidae,Atelopus ignescens,22,NA,11
-Anura,Bufonidae,Atelopus spumarius,22,44,11
-Anura,Bufonidae,Atelopus varius,22,NA,11
-Anura,Bufonidae,Bufo ailaoanus,22,44,11
-Anura,Bufonidae,Bufo aspinius,22,44,11
-Anura,Bufonidae,Bufo bankorensis,22,NA,11
-Anura,Bufonidae,Bufo bufo,22,44,11
-Anura,Bufonidae,Bufo bufo,22,NA,11
-Anura,Bufonidae,Bufo eichwaldi,22,44,11
-Anura,Bufonidae,Bufo gargarizans,22,44,11
-Anura,Bufonidae,Bufo gargarizans,22,NA,11
-Anura,Bufonidae,Bufo gargarizans gargarizans,22,44,11
-Anura,Bufonidae,Bufo japonicus,22,44,11
-Anura,Bufonidae,Bufo pageoti,22,44,11
-Anura,Bufonidae,Bufo pewzowi,44,88,22
-Anura,Bufonidae,Bufo sp,30,NA,15
-Anura,Bufonidae,Bufo stejnegeri,22,NA,11
-Anura,Bufonidae,Bufo torrenticola,22,44,11
-Anura,Bufonidae,Bufo tuberculatus,22,44,11
-Anura,Bufonidae,Bufo verrucosissimus,22,44,11
-Anura,Bufonidae,Bufotes baturae,33,NA,16.5
-Anura,Bufonidae,Bufotes oblongus,44,88,22
-Anura,Bufonidae,Bufotes oblongus,44,88,22
-Anura,Bufonidae,Bufotes oblongus,44,NA,22
-Anura,Bufonidae,Bufotes oblongus oblongus,44,NA,22
-Anura,Bufonidae,Bufotes pewzowi pewzowi,44,NA,22
-Anura,Bufonidae,Bufotes pewzowi strauchi,44,NA,22
-Anura,Bufonidae,Bufotes pewzowi taxkorensis,44,NA,22
-Anura,Bufonidae,Bufotes pewzowi unicolor,44,NA,22
-Anura,Bufonidae,Bufotes pseudoraddei,33,NA,16.5
-Anura,Bufonidae,Bufotes turanensis,22,44,11
-Anura,Bufonidae,Bufotes turanensis,33,66,16.5
-Anura,Bufonidae,Bufotes variabilis,22,44,11
-Anura,Bufonidae,Bufotes variabilis,44,NA,22
-Anura,Bufonidae,Bufotes viridis,22,44,11
-Anura,Bufonidae,Bufotes viridis,44,88,22
-Anura,Bufonidae,Bufotes viridis,22,44,11
-Anura,Bufonidae,Bufotes zugmayeri,33,NA,16.5
-Anura,Bufonidae,Capensibufo rosei,22,NA,11
-Anura,Bufonidae,Duttaphrynus dhufarensis,22,44,11
-Anura,Bufonidae,Duttaphrynus himalayanus,22,44,11
-Anura,Bufonidae,Duttaphrynus melanostictus,22,44,11
-Anura,Bufonidae,Duttaphrynus stomaticus,22,44,11
-Anura,Bufonidae,Duttaphrynus stomaticus,22,NA,11
-Anura,Bufonidae,Epidalea calamita,22,44,11
-Anura,Bufonidae,Incilius alvarius,22,44,11
-Anura,Bufonidae,Incilius bocourti,22,44,11
-Anura,Bufonidae,Incilius canaliferus,22,44,11
-Anura,Bufonidae,Incilius coccifer,22,NA,11
-Anura,Bufonidae,Incilius coniferus,22,44,11
-Anura,Bufonidae,Incilius holdridgei,22,44,11
-Anura,Bufonidae,Incilius luetkenii,22,44,11
-Anura,Bufonidae,Incilius marmoreus,22,44,11
-Anura,Bufonidae,Incilius mazatlanensis,22,NA,11
-Anura,Bufonidae,Incilius occidentalis,22,44,11
-Anura,Bufonidae,Incilius perplexus,22,44,11
-Anura,Bufonidae,Incilius valliceps,22,44,11
-Anura,Bufonidae,Ingerophrynus biporcatus,22,NA,11
-Anura,Bufonidae,Ingerophrynus parvus,22,44,11
-Anura,Bufonidae,Melanophryniscus atroluteus,22,44,11
-Anura,Bufonidae,Melanophryniscus cf tumifrons,22,44,11
-Anura,Bufonidae,Melanophryniscus cupreuscapularis,22,44,11
-Anura,Bufonidae,Melanophryniscus devincenzii,22,44,11
-Anura,Bufonidae,Melanophryniscus fulvoguttatus,22,44,11
-Anura,Bufonidae,Melanophryniscus klappenbachi,22,44,11
-Anura,Bufonidae,Melanophryniscus krauczuki,22,44,11
-Anura,Bufonidae,Melanophryniscus montevidensis,22,44,11
-Anura,Bufonidae,Melanophryniscus moreirae,22,44,11
-Anura,Bufonidae,Melanophryniscus pachyrhynus,22,44,11
-Anura,Bufonidae,Melanophryniscus paraguayensis,22,44,11
-Anura,Bufonidae,Melanophryniscus rubriventris,22,44,11
-Anura,Bufonidae,Melanophryniscus sanmartini,22,44,11
-Anura,Bufonidae,Melanophryniscus sp aff montevidensis,22,44,11
-Anura,Bufonidae,Melanophryniscus stelzneri,22,44,11
-Anura,Bufonidae,Mertensophryne anotis,22,NA,11
-Anura,Bufonidae,Nannophryne variegata,22,44,11
-Anura,Bufonidae,Nectophryne afra,22,44,11
-Anura,Bufonidae,Nectophrynoides tornieri,22,44,11
-Anura,Bufonidae,Nimbaphrynoides occidentalis,22,44,11
-Anura,Bufonidae,Phrynoidis asper,22,NA,11
-Anura,Bufonidae,Poyntonophrynus fenoulheti,22,NA,11
-Anura,Bufonidae,Rentapia hosii,22,44,11
-Anura,Bufonidae,Rhaebo blombergi,22,NA,11
-Anura,Bufonidae,Rhaebo blombergi,22,44,11
-Anura,Bufonidae,Rhaebo haematiticus,22,44,11
-Anura,Bufonidae,Rhinella achavali,22,44,11
-Anura,Bufonidae,Rhinella arenarum,22,44,11
-Anura,Bufonidae,Rhinella arunco,22,44,11
-Anura,Bufonidae,Rhinella atacamensis,22,44,11
-Anura,Bufonidae,Rhinella crucifer,22,44,11
-Anura,Bufonidae,Rhinella diptycha,22,44,11
-Anura,Bufonidae,Rhinella diptycha,22,44,11
-Anura,Bufonidae,Rhinella dorbignyi,22,NA,11
-Anura,Bufonidae,Rhinella fernandezae,22,44,11
-Anura,Bufonidae,Rhinella fernandezae,22,NA,11
-Anura,Bufonidae,Rhinella granulosa,22,44,11
-Anura,Bufonidae,Rhinella icterica,22,44,11
-Anura,Bufonidae,Rhinella icterica,22,NA,11
-Anura,Bufonidae,Rhinella jimi,22,44,11
-Anura,Bufonidae,Rhinella marina,22,44,11
-Anura,Bufonidae,Rhinella poeppigii,22,44,11
-Anura,Bufonidae,Rhinella rubescens,22,44,11
-Anura,Bufonidae,Rhinella rubropunctata,22,44,11
-Anura,Bufonidae,Rhinella spinulosa,22,44,11
-Anura,Bufonidae,Schismaderma carens,22,44,11
-Anura,Bufonidae,Sclerophrys asmarae,40,NA,20
-Anura,Bufonidae,Sclerophrys blanfordii,20,NA,10
-Anura,Bufonidae,Sclerophrys brauni,20,40,10
-Anura,Bufonidae,Sclerophrys camerunensis,20,NA,10
-Anura,Bufonidae,Sclerophrys capensis,20,40,10
-Anura,Bufonidae,Sclerophrys danielae,20,40,10
-Anura,Bufonidae,Sclerophrys garmani,20,40,10
-Anura,Bufonidae,Sclerophrys gracilipes,22,NA,11
-Anura,Bufonidae,Sclerophrys gutturalis,20,40,10
-Anura,Bufonidae,Sclerophrys kerinyagae,20,NA,10
-Anura,Bufonidae,Sclerophrys latifrons,20,40,10
-Anura,Bufonidae,Sclerophrys maculata,20,40,10
-Anura,Bufonidae,Sclerophrys mauritanica,22,44,11
-Anura,Bufonidae,Sclerophrys pardalis,22,NA,11
-Anura,Bufonidae,Sclerophrys perreti,20,40,10
-Anura,Bufonidae,Sclerophrys poweri,20,40,10
-Anura,Bufonidae,Sclerophrys poweri,30,NA,15
-Anura,Bufonidae,Sclerophrys pusilla,20,NA,10
-Anura,Bufonidae,Sclerophrys regularis,20,40,10
-Anura,Bufonidae,Sclerophrys steindachneri,20,NA,10
-Anura,Bufonidae,Sclerophrys superciliaris,20,NA,10
-Anura,Bufonidae,Sclerophrys tihamica,22,44,11
-Anura,Bufonidae,Sclerophrys xeros,20,40,10
-Anura,Bufonidae,Strauchbufo raddei,22,44,11
-Anura,Bufonidae,Vandijkophrynus gariepensis,22,44,11
-Anura,Bufonidae,Vandijkophrynus inyangae,22,NA,11
-Anura,Bufonidae,Werneria preussi,22,NA,11
-Anura,Bufonidae,Xanthophryne koynayensis,22,NA,11
-Anura,Calyptocephalellidae,Calyptocephalella gayi,26,52,13
-Anura,Calyptocephalellidae,Telmatobufo australis,26,NA,13
-Anura,Calyptocephalellidae,Telmatobufo bullocki,26,NA,13
-Anura,Calyptocephalellidae,Telmatobufo ignotus,26,52,13
-Anura,Calyptocephalellidae,Telmatobufo venustus,26,NA,13
-Anura,Centrolenidae,Centrolene buckleyi,20,NA,10
-Anura,Centrolenidae,Cochranella granulosa,20,40,10
-Anura,Centrolenidae,Espadarana prosoblepon,20,NA,10
-Anura,Centrolenidae,Espadarana prosoblepon,20,40,10
-Anura,Centrolenidae,Hyalinobatrachium colymbiphyllum,20,40,10
-Anura,Centrolenidae,Hyalinobatrachium duranti,20,40,10
-Anura,Centrolenidae,Hyalinobatrachium fleischmanni,20,40,10
-Anura,Centrolenidae,Hyalinobatrachium fragile,20,40,10
-Anura,Centrolenidae,Hyalinobatrachium orientale,20,40,10
-Anura,Centrolenidae,Hyalinobatrachium valerioi,20,40,10
-Anura,Centrolenidae,Sachatamia albomaculata,20,NA,10
-Anura,Centrolenidae,Teratohyla amelie,20,40,10
-Anura,Centrolenidae,Teratohyla midas,20,40,10
-Anura,Centrolenidae,Teratohyla pulverata,20,40,10
-Anura,Centrolenidae,Teratohyla spinosa,20,40,10
-Anura,Centrolenidae,Vitreorana antisthenesi,20,40,10
-Anura,Centrolenidae,Vitreorana eurygnatha,20,40,10
-Anura,Ceratobatrachidae,Cornufer papuensis,22,44,11
-Anura,Ceratobatrachidae,Platymantis dorsalis,20,40,10
-Anura,Ceratobatrachidae,Platymantis hazelae,26,52,13
-Anura,Ceratophryidae,Ceratophrys aurita,26,NA,13
-Anura,Ceratophryidae,Ceratophrys aurita,104,208,52
-Anura,Ceratophryidae,Ceratophrys aurita,104,NA,52
-Anura,Ceratophryidae,Ceratophrys calcarata,26,52,13
-Anura,Ceratophryidae,Ceratophrys cranwelli,26,52,13
-Anura,Ceratophryidae,Ceratophrys joazeirensis,104,NA,52
-Anura,Ceratophryidae,Ceratophrys ornata,26,52,13
-Anura,Ceratophryidae,Ceratophrys ornata,104,208,52
-Anura,Ceratophryidae,Chacophrys pierottii,26,NA,13
-Anura,Ceratophryidae,Lepidobatrachus asper,26,NA,13
-Anura,Ceratophryidae,Lepidobatrachus laevis,26,NA,13
-Anura,Ceratophryidae,Lepidobatrachus llanensis,26,NA,13
-Anura,Conrauidae,Conraua crassipes,26,52,13
-Anura,Craugastoridae,Barycholos cf ternetzi,22,38,11
-Anura,Craugastoridae,Barycholos ternetzi,22,38,11
-Anura,Craugastoridae,Craugastor andi,22,38,11
-Anura,Craugastoridae,Craugastor angelicus,20,36,10
-Anura,Craugastoridae,Craugastor augusti,22,36,11
-Anura,Craugastoridae,Craugastor augusti,22,NA,11
-Anura,Craugastoridae,Craugastor berkenbuschii,22,36,11
-Anura,Craugastoridae,Craugastor bransfordii,20,36,10
-Anura,Craugastoridae,Craugastor bransfordii,18,36,9
-Anura,Craugastoridae,Craugastor bransfordii,20,40,10
-Anura,Craugastoridae,Craugastor bransfordii,18,36,9
-Anura,Craugastoridae,Craugastor bransfordii,20,40,10
-Anura,Craugastoridae,Craugastor crassidigitus,22,40,11
-Anura,Craugastoridae,Craugastor crassidigitus,22,38,11
-Anura,Craugastoridae,Craugastor crassidigitus,22,38,11
-Anura,Craugastoridae,Craugastor crassidigitus,22,40,11
-Anura,Craugastoridae,Craugastor crassidigitus,22,36,11
-Anura,Craugastoridae,Craugastor decoratus,22,NA,11
-Anura,Craugastoridae,Craugastor emcelae,22,36,11
-Anura,Craugastoridae,Craugastor escoces,20,NA,10
-Anura,Craugastoridae,Craugastor escoces,20,36,10
-Anura,Craugastoridae,Craugastor fitzingeri,22,38,11
-Anura,Craugastoridae,Craugastor fitzingeri,22,36,11
-Anura,Craugastoridae,Craugastor fleischmanni,20,36,10
-Anura,Craugastoridae,Craugastor gollmeri,22,36,11
-Anura,Craugastoridae,Craugastor greggi,22,40,11
-Anura,Craugastoridae,Craugastor gulosus,20,NA,10
-Anura,Craugastoridae,Craugastor gulosus,20,38,10
-Anura,Craugastoridae,Craugastor loki,18,36,9
-Anura,Craugastoridae,Craugastor longirostris,22,38,11
-Anura,Craugastoridae,Craugastor longirostris,22,36,11
-Anura,Craugastoridae,Craugastor megacephalus,20,36,10
-Anura,Craugastoridae,Craugastor megacephalus,20,38,10
-Anura,Craugastoridae,Craugastor melanostictus,22,36,11
-Anura,Craugastoridae,Craugastor melanostictus,22,38,11
-Anura,Craugastoridae,Craugastor milesi,22,44,11
-Anura,Craugastoridae,Craugastor mimus,20,36,10
-Anura,Craugastoridae,Craugastor obesus,22,36,11
-Anura,Craugastoridae,Craugastor opimus,20,NA,10
-Anura,Craugastoridae,Craugastor opimus,20,36,10
-Anura,Craugastoridae,Craugastor podiciferus,18,36,9
-Anura,Craugastoridae,Craugastor punctariolus,24,36,12
-Anura,Craugastoridae,Craugastor punctariolus,20,36,10
-Anura,Craugastoridae,Craugastor raniformis,22,38,11
-Anura,Craugastoridae,Craugastor ranoides,22,NA,11
-Anura,Craugastoridae,Craugastor ranoides,20,36,10
-Anura,Craugastoridae,Craugastor rayo,22,36,11
-Anura,Craugastoridae,Craugastor rhodopis,18,36,9
-Anura,Craugastoridae,Craugastor rhyacobatrachus,20,36,10
-Anura,Craugastoridae,Craugastor rugosus,20,38,10
-Anura,Craugastoridae,Craugastor rugulosus,22,36,11
-Anura,Craugastoridae,Craugastor rugulosus,20,36,10
-Anura,Craugastoridae,Craugastor stejnegerianus,18,36,9
-Anura,Craugastoridae,Craugastor talamancae,22,36,11
-Anura,Craugastoridae,Craugastor talamancae,22,34,11
-Anura,Craugastoridae,Craugastor taurus,20,36,10
-Anura,Craugastoridae,Craugastor underwoodi,18,36,9
-Anura,Craugastoridae,Craugastor vocalis,22,NA,11
-Anura,Craugastoridae,Euparkerella brasiliensis,20,40,10
-Anura,Craugastoridae,Haddadus binotatus,22,38,11
-Anura,Craugastoridae,Holoaden bradei,18,36,9
-Anura,Craugastoridae,Holoaden luederwaldti,27,NA,13.5
-Anura,Craugastoridae,Holoaden luederwaldti,18,34,9
-Anura,Craugastoridae,Oreobates barituensis,22,44,11
-Anura,Craugastoridae,Oreobates berdemenos,22,44,11
-Anura,Craugastoridae,Oreobates crepitans,22,44,11
-Anura,Craugastoridae,Oreobates discoidalis,22,NA,11
-Anura,Craugastoridae,Oreobates discoidalis,22,44,11
-Anura,Craugastoridae,Pristimantis aff dundeei,28,28,14
-Anura,Craugastoridae,Pristimantis altae,26,46,13
-Anura,Craugastoridae,Pristimantis altamazonicus,34,36,17
-Anura,Craugastoridae,Pristimantis boconoensis,32,NA,16
-Anura,Craugastoridae,Pristimantis bogotensis,34,36,17
-Anura,Craugastoridae,Pristimantis caryophyllaceus,32,32,16
-Anura,Craugastoridae,Pristimantis charlottevillensis,36,36,18
-Anura,Craugastoridae,Pristimantis conspicillatus,34,40,17
-Anura,Craugastoridae,Pristimantis conspicillatus,34,36,17
-Anura,Craugastoridae,Pristimantis cruentus,32,32,16
-Anura,Craugastoridae,Pristimantis cruentus,20,36,10
-Anura,Craugastoridae,Pristimantis curtipes,34,NA,17
-Anura,Craugastoridae,Pristimantis duellmani,36,NA,18
-Anura,Craugastoridae,Pristimantis dundeei,28,28,14
-Anura,Craugastoridae,Pristimantis euphronides,32,34,16
-Anura,Craugastoridae,Pristimantis euphronides,32,32,16
-Anura,Craugastoridae,Pristimantis fenestratus,34,34,17
-Anura,Craugastoridae,Pristimantis gaigei,34,NA,17
-Anura,Craugastoridae,Pristimantis hoogmoedi,26,NA,13
-Anura,Craugastoridae,Pristimantis lacrimosus,34,36,17
-Anura,Craugastoridae,Pristimantis lanthanites,36,NA,18
-Anura,Craugastoridae,Pristimantis lanthanites,36,36,18
-Anura,Craugastoridae,Pristimantis nubisilva,36,NA,18
-Anura,Craugastoridae,Pristimantis paulodutrai,22,NA,11
-Anura,Craugastoridae,Pristimantis paulodutrai,30,32,15
-Anura,Craugastoridae,Pristimantis paulodutrai,30,30,15
-Anura,Craugastoridae,Pristimantis pulvinatus,36,NA,18
-Anura,Craugastoridae,Pristimantis ramagii,30,30,15
-Anura,Craugastoridae,Pristimantis ridens,34,36,17
-Anura,Craugastoridae,Pristimantis riveroi,36,36,18
-Anura,Craugastoridae,Pristimantis riveroi,35,36,17.5
-Anura,Craugastoridae,Pristimantis shrevei,32,36,16
-Anura,Craugastoridae,Pristimantis shrevei,32,32,16
-Anura,Craugastoridae,Pristimantis sp. n. H,36,NA,18
-Anura,Craugastoridae,Pristimantis sp. n. H,35,NA,17.5
-Anura,Craugastoridae,Pristimantis terraebolivaris,36,NA,18
-Anura,Craugastoridae,Pristimantis terraebolivaris,36,36,18
-Anura,Craugastoridae,Pristimantis unistrigatus,34,NA,17
-Anura,Craugastoridae,Pristimantis unistrigatus,33,NA,16.5
-Anura,Craugastoridae,Pristimantis urichi,30,NA,15
-Anura,Craugastoridae,Pristimantis variabilis,34,36,17
-Anura,Craugastoridae,Pristimantis variabilis,34,NA,17
-Anura,Craugastoridae,Pristimantis ventrimarmoratus,36,36,18
-Anura,Craugastoridae,Strabomantis biporcatus,36,42,18
-Anura,Craugastoridae,Strabomantis biporcatus,35,42,17.5
-Anura,Craugastoridae,Strabomantis biporcatus,20,NA,10
-Anura,Craugastoridae,Strabomantis biporcatus,36,42,18
-Anura,Craugastoridae,Strabomantis biporcatus,36,42,18
-Anura,Craugastoridae,Strabomantis bufoniformis,22,NA,11
-Anura,Craugastoridae,Strabomantis sulcatus,22,38,11
-Anura,Cycloramphidae,Cycloramphus acangatan,26,52,13
-Anura,Cycloramphidae,Cycloramphus asper,26,52,13
-Anura,Cycloramphidae,Cycloramphus boraceiensis,26,50,13
-Anura,Cycloramphidae,Cycloramphus brasiliensis,26,52,13
-Anura,Cycloramphidae,Cycloramphus carvalhoi,26,52,13
-Anura,Cycloramphidae,Cycloramphus dubius,26,50,13
-Anura,Cycloramphidae,Cycloramphus eleutherodactylus,26,50,13
-Anura,Cycloramphidae,Cycloramphus fuliginosus,26,52,13
-Anura,Cycloramphidae,Cycloramphus lutzorum,26,52,13
-Anura,Cycloramphidae,Cycloramphus rhyakonastes,26,52,13
-Anura,Cycloramphidae,Thoropa miliaris,26,52,13
-Anura,Cycloramphidae,Zachaenus parvulus,26,52,13
-Anura,Dendrobatidae,Adelphobates castaneoticus,18,36,9
-Anura,Dendrobatidae,Adelphobates galactonotus,18,36,9
-Anura,Dendrobatidae,Adelphobates quinquevittatus,20,38,10
-Anura,Dendrobatidae,Adelphobates quinquevittatus,18,36,9
-Anura,Dendrobatidae,Ameerega bilinguis,24,48,12
-Anura,Dendrobatidae,Ameerega flavopicta,24,42,12
-Anura,Dendrobatidae,Ameerega hahneli,24,42,12
-Anura,Dendrobatidae,Ameerega hahneli,24,48,12
-Anura,Dendrobatidae,Ameerega picta,24,48,12
-Anura,Dendrobatidae,Ameerega picta,24,44,12
-Anura,Dendrobatidae,Ameerega trivittata,24,44,12
-Anura,Dendrobatidae,Ameerega trivittata,24,NA,12
-Anura,Dendrobatidae,Andinobates opisthomelas,22,42,11
-Anura,Dendrobatidae,Colostethus femoralis,24,48,12
-Anura,Dendrobatidae,Colostethus inguinalis,24,NA,12
-Anura,Dendrobatidae,Colostethus sp 1,22,NA,11
-Anura,Dendrobatidae,Colostethus sp 2,22,NA,11
-Anura,Dendrobatidae,Dendrobates auratus,18,36,9
-Anura,Dendrobatidae,Dendrobates tinctorius,18,36,9
-Anura,Dendrobatidae,Dendrobates truncatus,18,36,9
-Anura,Dendrobatidae,Hyloxalus subpunctatus,24,38,12
-Anura,Dendrobatidae,Hyloxalus vertebralis,24,48,12
-Anura,Dendrobatidae,Leucostethus fraterdanieli,24,40,12
-Anura,Dendrobatidae,Oophaga granulifera,20,40,10
-Anura,Dendrobatidae,Oophaga histrionica,20,40,10
-Anura,Dendrobatidae,Oophaga pumilio,20,40,10
-Anura,Dendrobatidae,Oophaga pumilio,20,NA,10
-Anura,Dendrobatidae,Phyllobates lugubris,24,44,12
-Anura,Dicroglossidae,Euphlyctis cyanophlyctis,26,52,13
-Anura,Dicroglossidae,Euphlyctis hexadactylus,26,NA,13
-Anura,Dicroglossidae,Fejervarya cancrivora,26,NA,13
-Anura,Dicroglossidae,Fejervarya cf limnocharis,26,52,13
-Anura,Dicroglossidae,Fejervarya limnocharis,26,52,13
-Anura,Dicroglossidae,Fejervarya limnocharis,26,NA,13
-Anura,Dicroglossidae,Fejervarya limnocharis,26,52,13
-Anura,Dicroglossidae,Fejervarya multistriata,26,52,13
-Anura,Dicroglossidae,Hoplobatrachus crassus,26,NA,13
-Anura,Dicroglossidae,Hoplobatrachus occipitalis,26,52,13
-Anura,Dicroglossidae,Hoplobatrachus occipitalis,52,104,26
-Anura,Dicroglossidae,Hoplobatrachus occipitalis,52,NA,26
-Anura,Dicroglossidae,Hoplobatrachus rugulosus,26,52,13
-Anura,Dicroglossidae,Hoplobatrachus tigerinus,26,52,13
-Anura,Dicroglossidae,Hoplobatrachus tigerinus,26,52,13
-Anura,Dicroglossidae,Limnonectes acanthi,24,NA,12
-Anura,Dicroglossidae,Limnonectes blythii,24,NA,12
-Anura,Dicroglossidae,Limnonectes fujianensis,22,44,11
-Anura,Dicroglossidae,Limnonectes kuhlii,22,44,11
-Anura,Dicroglossidae,Limnonectes macrodon,24,48,12
-Anura,Dicroglossidae,Limnonectes namiyei,22,44,11
-Anura,Dicroglossidae,Limnonectes visayanus,24,NA,12
-Anura,Dicroglossidae,Minervarya cf brevipalmata,26,52,13
-Anura,Dicroglossidae,Minervarya cf keralensis,26,52,13
-Anura,Dicroglossidae,Minervarya rufescens,26,52,13
-Anura,Dicroglossidae,Minervarya sahyadris,26,52,13
-Anura,Dicroglossidae,Nanorana chayuensis,26,52,13
-Anura,Dicroglossidae,Nanorana maculosa,26,52,13
-Anura,Dicroglossidae,Nanorana parkeri,26,52,13
-Anura,Dicroglossidae,Nanorana phrynoides,64,NA,32
-Anura,Dicroglossidae,Nanorana pleskei,26,52,13
-Anura,Dicroglossidae,Nanorana quadranus,26,52,13
-Anura,Dicroglossidae,Nanorana sichuanensis,64,64,32
-Anura,Dicroglossidae,Nanorana taihangnica,26,52,13
-Anura,Dicroglossidae,Nanorana unculuanus,40,78,20
-Anura,Dicroglossidae,Nanorana ventripunctata,26,52,13
-Anura,Dicroglossidae,Nanorana yunnanensis,64,64,32
-Anura,Dicroglossidae,Occidozyga laevis,26,52,13
-Anura,Dicroglossidae,Occidozyga lima,26,52,13
-Anura,Dicroglossidae,Occidozyga lima,26,NA,13
-Anura,Dicroglossidae,Occidozyga martensii,26,52,13
-Anura,Dicroglossidae,Quasipaa boulengeri,26,50,13
-Anura,Dicroglossidae,Quasipaa boulengeri,26,52,13
-Anura,Dicroglossidae,Quasipaa boulengeri,26,NA,13
-Anura,Dicroglossidae,Quasipaa exilispinosa,26,52,13
-Anura,Dicroglossidae,Quasipaa jiulongensis,26,52,13
-Anura,Dicroglossidae,Quasipaa spinosa,26,52,13
-Anura,Dicroglossidae,Quasipaa yei,26,52,13
-Anura,Eleutherodactylidae,Diasporus diastema,20,36,10
-Anura,Eleutherodactylidae,Diasporus diastema,18,36,9
-Anura,Eleutherodactylidae,Diasporus vocator,18,31,9
-Anura,Eleutherodactylidae,Eleutherodactylus abbotti,18,36,9
-Anura,Eleutherodactylidae,Eleutherodactylus alticola,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus amplinympha,28,34,14
-Anura,Eleutherodactylidae,Eleutherodactylus andrewsi,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus antillensis,26,50,13
-Anura,Eleutherodactylidae,Eleutherodactylus antillensis,26,46,13
-Anura,Eleutherodactylidae,Eleutherodactylus antillensis,26,52,13
-Anura,Eleutherodactylidae,Eleutherodactylus atkinsi,28,36,14
-Anura,Eleutherodactylidae,Eleutherodactylus auriculatus,18,36,9
-Anura,Eleutherodactylidae,Eleutherodactylus bakeri,28,32,14
-Anura,Eleutherodactylidae,Eleutherodactylus bakeri,27,32,13.5
-Anura,Eleutherodactylidae,Eleutherodactylus brittoni,26,42,13
-Anura,Eleutherodactylidae,Eleutherodactylus brittoni,26,52,13
-Anura,Eleutherodactylidae,Eleutherodactylus cavernicola,30,36,15
-Anura,Eleutherodactylidae,Eleutherodactylus cochranae,26,42,13
-Anura,Eleutherodactylidae,Eleutherodactylus cooki,26,50,13
-Anura,Eleutherodactylidae,Eleutherodactylus coqui,26,52,13
-Anura,Eleutherodactylidae,Eleutherodactylus cubanus,22,44,11
-Anura,Eleutherodactylidae,Eleutherodactylus cundalli,30,36,15
-Anura,Eleutherodactylidae,Eleutherodactylus cundalli,29,36,14.5
-Anura,Eleutherodactylidae,Eleutherodactylus cuneatus,32,NA,16
-Anura,Eleutherodactylidae,Eleutherodactylus dimidiatus,30,32,15
-Anura,Eleutherodactylidae,Eleutherodactylus eneidae,26,52,13
-Anura,Eleutherodactylidae,Eleutherodactylus fuscus,28,38,14
-Anura,Eleutherodactylidae,Eleutherodactylus glandulifer,31,32,15.5
-Anura,Eleutherodactylidae,Eleutherodactylus glaucoreius,30,36,15
-Anura,Eleutherodactylidae,Eleutherodactylus glaucoreius,29,36,14.5
-Anura,Eleutherodactylidae,Eleutherodactylus goini,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus gossei,26,38,13
-Anura,Eleutherodactylidae,Eleutherodactylus grabhami,30,56,15
-Anura,Eleutherodactylidae,Eleutherodactylus griphus,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus gryllus,26,50,13
-Anura,Eleutherodactylidae,Eleutherodactylus hedricki,26,46,13
-Anura,Eleutherodactylidae,Eleutherodactylus hedricki,26,52,13
-Anura,Eleutherodactylidae,Eleutherodactylus heminota,28,32,14
-Anura,Eleutherodactylidae,Eleutherodactylus heminota,27,32,13.5
-Anura,Eleutherodactylidae,Eleutherodactylus heminota,30,NA,15
-Anura,Eleutherodactylidae,Eleutherodactylus ionthus,26,NA,13
-Anura,Eleutherodactylidae,Eleutherodactylus jamaicensis,30,42,15
-Anura,Eleutherodactylidae,Eleutherodactylus jasperi,26,NA,13
-Anura,Eleutherodactylidae,Eleutherodactylus johnstonei,28,36,14
-Anura,Eleutherodactylidae,Eleutherodactylus junori,24,38,12
-Anura,Eleutherodactylidae,Eleutherodactylus karlschmidti,30,40,15
-Anura,Eleutherodactylidae,Eleutherodactylus klinikowskii,32,38,16
-Anura,Eleutherodactylidae,Eleutherodactylus leprus,26,36,13
-Anura,Eleutherodactylidae,Eleutherodactylus limbatus,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus locustus,26,48,13
-Anura,Eleutherodactylidae,Eleutherodactylus luteolus,28,30,14
-Anura,Eleutherodactylidae,Eleutherodactylus mariposa,22,NA,11
-Anura,Eleutherodactylidae,Eleutherodactylus marnockii,26,NA,13
-Anura,Eleutherodactylidae,Eleutherodactylus martinicensis,28,34,14
-Anura,Eleutherodactylidae,Eleutherodactylus nitidus,22,NA,11
-Anura,Eleutherodactylidae,Eleutherodactylus nortoni,30,NA,15
-Anura,Eleutherodactylidae,Eleutherodactylus nubicola,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus orcutti,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus pantoni,26,36,13
-Anura,Eleutherodactylidae,Eleutherodactylus patriciae,22,34,11
-Anura,Eleutherodactylidae,Eleutherodactylus pentasyringos,28,36,14
-Anura,Eleutherodactylidae,Eleutherodactylus planirostris,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus planirostris,32,38,16
-Anura,Eleutherodactylidae,Eleutherodactylus planirostris goinii,32,NA,16
-Anura,Eleutherodactylidae,Eleutherodactylus planirostris planirostris,32,NA,16
-Anura,Eleutherodactylidae,Eleutherodactylus portoricensis,26,52,13
-Anura,Eleutherodactylidae,Eleutherodactylus portoricensis,26,42,13
-Anura,Eleutherodactylidae,Eleutherodactylus richmondi,30,48,15
-Anura,Eleutherodactylidae,Eleutherodactylus riparius,32,36,16
-Anura,Eleutherodactylidae,Eleutherodactylus sisyphodemus,32,46,16
-Anura,Eleutherodactylidae,Eleutherodactylus sp 1,26,NA,13
-Anura,Eleutherodactylidae,Eleutherodactylus sp 2,22,40,11
-Anura,Eleutherodactylidae,Eleutherodactylus unicolor,30,36,15
-Anura,Eleutherodactylidae,Eleutherodactylus varians,18,36,9
-Anura,Eleutherodactylidae,Eleutherodactylus varians,34,36,17
-Anura,Eleutherodactylidae,Eleutherodactylus varleyi,32,NA,16
-Anura,Eleutherodactylidae,Eleutherodactylus wightmanae,26,50,13
-Anura,Eleutherodactylidae,Eleutherodactylus zugi,32,38,16
-Anura,Eleutherodactylidae,Eleutherodactylus zugi,30,36,15
-Anura,Eleutherodactylidae,Syrrhophus marnocki,30,36,15
-Anura,Heleophrynidae,Heleophryne purcelli,26,52,13
-Anura,Hemiphractidae,Cryptobatrachus boulengeri,26,52,13
-Anura,Hemiphractidae,Flectonotus fitzgeraldi,28,28,14
-Anura,Hemiphractidae,Flectonotus pygmaeus,28,NA,14
-Anura,Hemiphractidae,Flectonotus pygmaeus,28,28,14
-Anura,Hemiphractidae,Fritziana fissilis,30,44,15
-Anura,Hemiphractidae,Fritziana goeldii,26,42,13
-Anura,Hemiphractidae,Fritziana ohausi,28,44,14
-Anura,Hemiphractidae,Gastrotheca andaquiensis,26,46,13
-Anura,Hemiphractidae,Gastrotheca cornuta,28,NA,14
-Anura,Hemiphractidae,Gastrotheca espeletia,26,36,13
-Anura,Hemiphractidae,Gastrotheca fissipes,26,NA,13
-Anura,Hemiphractidae,Gastrotheca gracilis,26,52,13
-Anura,Hemiphractidae,Gastrotheca griswoldi,26,52,13
-Anura,Hemiphractidae,Gastrotheca megacephala,26,52,13
-Anura,Hemiphractidae,Gastrotheca microdiscus,24,NA,12
-Anura,Hemiphractidae,Gastrotheca monticola,26,52,13
-Anura,Hemiphractidae,Gastrotheca nicefori,26,50,13
-Anura,Hemiphractidae,Gastrotheca ovifera,26,52,13
-Anura,Hemiphractidae,Gastrotheca peruana,26,50,13
-Anura,Hemiphractidae,Gastrotheca pseustes,26,52,13
-Anura,Hemiphractidae,Gastrotheca riobambae,26,38,13
-Anura,Hemiphractidae,Gastrotheca sp A,26,52,13
-Anura,Hemiphractidae,Gastrotheca sp B,26,52,13
-Anura,Hemiphractidae,Gastrotheca sp C,26,52,13
-Anura,Hemiphractidae,Gastrotheca walkeri,26,48,13
-Anura,Hemiphractidae,Stefania evansi,26,52,13
-Anura,Hemisotidae,Hemisus marmoratus,24,46,12
-Anura,Hemisotidae,Hemisus sp,24,48,12
-Anura,Hylidae,Acris crepitans,22,44,11
-Anura,Hylidae,Acris crepitans blanchardi,22,NA,11
-Anura,Hylidae,Acris gryllus,22,44,11
-Anura,Hylidae,Aparasphenodon bokermanni,24,48,12
-Anura,Hylidae,Aparasphenodon brunoi,24,48,12
-Anura,Hylidae,Aplastodiscus albofrenatus,22,NA,11
-Anura,Hylidae,Aplastodiscus albofrenatus,24,NA,12
-Anura,Hylidae,Aplastodiscus albofrenatus,22,44,11
-Anura,Hylidae,Aplastodiscus albosignatus,18,36,9
-Anura,Hylidae,Aplastodiscus albosignatus,20,40,10
-Anura,Hylidae,Aplastodiscus albosignatus,20,40,10
-Anura,Hylidae,Aplastodiscus albosignatus,20,40,10
-Anura,Hylidae,Aplastodiscus arildae,22,44,11
-Anura,Hylidae,Aplastodiscus cochranae,24,48,12
-Anura,Hylidae,Aplastodiscus ehrhardti,22,44,11
-Anura,Hylidae,Aplastodiscus eugenioi,22,44,11
-Anura,Hylidae,Aplastodiscus leucopygius,18,36,9
-Anura,Hylidae,Aplastodiscus perviridis,24,48,12
-Anura,Hylidae,Boana aff semiguttata,24,48,12
-Anura,Hylidae,Boana albomarginata,24,NA,12
-Anura,Hylidae,Boana albomarginata,24,48,12
-Anura,Hylidae,Boana albonigra,24,NA,12
-Anura,Hylidae,Boana albopunctata,22,44,11
-Anura,Hylidae,Boana alemani,24,48,12
-Anura,Hylidae,Boana almendarizae,24,NA,12
-Anura,Hylidae,Boana atlantica,24,48,12
-Anura,Hylidae,Boana bischoffi,24,NA,12
-Anura,Hylidae,Boana bischoffi,24,48,12
-Anura,Hylidae,Boana bischoffi,24,NA,12
-Anura,Hylidae,Boana bischoffi,24,48,12
-Anura,Hylidae,Boana boans,24,48,12
-Anura,Hylidae,Boana boans,24,NA,12
-Anura,Hylidae,Boana caingua,24,NA,12
-Anura,Hylidae,Boana caingua,24,NA,12
-Anura,Hylidae,Boana calcarata,24,48,12
-Anura,Hylidae,Boana cf alfaroi,22,NA,11
-Anura,Hylidae,Boana cf lanciformis,24,NA,12
-Anura,Hylidae,Boana cf semilineata,24,NA,12
-Anura,Hylidae,Boana cinerascens,24,NA,12
-Anura,Hylidae,Boana cinerascens,24,48,12
-Anura,Hylidae,Boana cinerascens,24,NA,12
-Anura,Hylidae,Boana cipoensis,24,NA,12
-Anura,Hylidae,Boana cordobae,24,48,12
-Anura,Hylidae,Boana cordobae,24,NA,12
-Anura,Hylidae,Boana crepitans,24,48,12
-Anura,Hylidae,Boana curupi,24,NA,12
-Anura,Hylidae,Boana faber,24,NA,12
-Anura,Hylidae,Boana faber,24,48,12
-Anura,Hylidae,Boana faber,24,NA,12
-Anura,Hylidae,Boana fasciata,24,NA,12
-Anura,Hylidae,Boana geographica,24,48,12
-Anura,Hylidae,Boana guentheri,24,48,12
-Anura,Hylidae,Boana heilprini,24,NA,12
-Anura,Hylidae,Boana joaquini,24,48,12
-Anura,Hylidae,Boana joaquini,24,NA,12
-Anura,Hylidae,Boana lanciformis,22,44,11
-Anura,Hylidae,Boana leucocheila,22,NA,11
-Anura,Hylidae,Boana lundii,24,48,12
-Anura,Hylidae,Boana marginata,24,48,12
-Anura,Hylidae,Boana marianitae,24,NA,12
-Anura,Hylidae,Boana multifasciata,24,48,12
-Anura,Hylidae,Boana multifasciata,22,NA,11
-Anura,Hylidae,Boana multifasciata,24,NA,12
-Anura,Hylidae,Boana pardalis,24,NA,12
-Anura,Hylidae,Boana pardalis,24,48,12
-Anura,Hylidae,Boana pellucens,24,NA,12
-Anura,Hylidae,Boana polytaenia,24,48,12
-Anura,Hylidae,Boana pombali,24,48,12
-Anura,Hylidae,Boana prasina,24,NA,12
-Anura,Hylidae,Boana pulchella,24,48,12
-Anura,Hylidae,Boana pulchella,24,NA,12
-Anura,Hylidae,Boana pulchella,24,48,12
-Anura,Hylidae,Boana punctata,24,48,12
-Anura,Hylidae,Boana punctata,24,NA,12
-Anura,Hylidae,Boana raniceps,24,NA,12
-Anura,Hylidae,Boana raniceps,24,48,12
-Anura,Hylidae,Boana riojana,24,NA,12
-Anura,Hylidae,Boana rosenbergi,24,NA,12
-Anura,Hylidae,Boana rufitela,24,NA,12
-Anura,Hylidae,Boana semiguttata,24,48,12
-Anura,Hylidae,Boana semilineata,24,48,12
-Anura,Hylidae,Boana stellae,24,NA,12
-Anura,Hylidae,Boana wavrini,24,48,12
-Anura,Hylidae,Boana wavrini,24,NA,12
-Anura,Hylidae,Bokermannohyla aff circumdata,24,NA,12
-Anura,Hylidae,Bokermannohyla ahenea,24,48,12
-Anura,Hylidae,Bokermannohyla alvarengai,24,48,12
-Anura,Hylidae,Bokermannohyla circumdata,24,48,12
-Anura,Hylidae,Bokermannohyla hylax,24,48,12
-Anura,Hylidae,Bokermannohyla ibitiguara,24,48,12
-Anura,Hylidae,Bokermannohyla luctuosa,24,48,12
-Anura,Hylidae,Bokermannohyla martinsi,24,48,12
-Anura,Hylidae,Bokermannohyla saxicola,24,48,12
-Anura,Hylidae,Bokermannohyla sp 1,24,48,12
-Anura,Hylidae,Bokermannohyla sp 2,24,48,12
-Anura,Hylidae,Bokermannohyla sp 3,24,48,12
-Anura,Hylidae,Bokermannohyla sp 4,24,48,12
-Anura,Hylidae,Charadrahyla chaneque,24,NA,12
-Anura,Hylidae,Corythomantis greeningi,24,48,12
-Anura,Hylidae,Dendropsophus anceps,30,58,15
-Anura,Hylidae,Dendropsophus berthalutzae,30,52,15
-Anura,Hylidae,Dendropsophus bipunctatus,30,58,15
-Anura,Hylidae,Dendropsophus cruzi,30,54,15
-Anura,Hylidae,Dendropsophus decipiens,30,56,15
-Anura,Hylidae,Dendropsophus ebraccatus,30,NA,15
-Anura,Hylidae,Dendropsophus elegans,30,56,15
-Anura,Hylidae,Dendropsophus elegans,30,52,15
-Anura,Hylidae,Dendropsophus elianeae,30,54,15
-Anura,Hylidae,Dendropsophus jimi,30,50,15
-Anura,Hylidae,Dendropsophus leali,30,58,15
-Anura,Hylidae,Dendropsophus leucophyllatus,30,52,15
-Anura,Hylidae,Dendropsophus luteoocellatus,30,54,15
-Anura,Hylidae,Dendropsophus mathiassoni,30,56,15
-Anura,Hylidae,Dendropsophus melanargyreus,30,NA,15
-Anura,Hylidae,Dendropsophus meridianus,30,NA,15
-Anura,Hylidae,Dendropsophus microcephalus,30,NA,15
-Anura,Hylidae,Dendropsophus microcephalus,30,NA,15
-Anura,Hylidae,Dendropsophus microcephalus,30,60,15
-Anura,Hylidae,Dendropsophus microps,30,52,15
-Anura,Hylidae,Dendropsophus minutus,30,60,15
-Anura,Hylidae,Dendropsophus molitor,30,50,15
-Anura,Hylidae,Dendropsophus nahdereri,30,50,15
-Anura,Hylidae,Dendropsophus nanus,30,52,15
-Anura,Hylidae,Dendropsophus novaisi,30,50,15
-Anura,Hylidae,Dendropsophus parviceps,30,52,15
-Anura,Hylidae,Dendropsophus phlebodes,30,NA,15
-Anura,Hylidae,Dendropsophus rhodopeplus,30,58,15
-Anura,Hylidae,Dendropsophus rubicundulus,30,54,15
-Anura,Hylidae,Dendropsophus rubicundulus,30,58,15
-Anura,Hylidae,Dendropsophus rubicundulus,30,56,15
-Anura,Hylidae,Dendropsophus sanborni,30,50,15
-Anura,Hylidae,Dendropsophus seniculus,30,50,15
-Anura,Hylidae,Dendropsophus seniculus,30,50,15
-Anura,Hylidae,Dendropsophus soaresi,30,50,15
-Anura,Hylidae,Dendropsophus sp.,30,60,15
-Anura,Hylidae,Dendropsophus sp. 1,30,56,15
-Anura,Hylidae,Dendropsophus sp. 2,30,50,15
-Anura,Hylidae,Dendropsophus sp. 3,30,60,15
-Anura,Hylidae,Dendropsophus sp. 4,30,60,15
-Anura,Hylidae,Dendropsophus subocularis,30,NA,15
-Anura,Hylidae,Dendropsophus walfordi,30,52,15
-Anura,Hylidae,Dendropsophus werneri,30,60,15
-Anura,Hylidae,Dryophytes andersonii,24,48,12
-Anura,Hylidae,Dryophytes arenicolor,24,48,12
-Anura,Hylidae,Dryophytes avivoca,24,48,12
-Anura,Hylidae,Dryophytes chrysoscelis,24,48,12
-Anura,Hylidae,Dryophytes chrysoscelis,36,NA,18
-Anura,Hylidae,Dryophytes cinereus,24,48,12
-Anura,Hylidae,Dryophytes euphorbiaceus,24,48,12
-Anura,Hylidae,Dryophytes eximius,24,48,12
-Anura,Hylidae,Dryophytes femoralis,24,48,12
-Anura,Hylidae,Dryophytes femoralis,24,44,12
-Anura,Hylidae,Dryophytes gratiosus,24,48,12
-Anura,Hylidae,Dryophytes immaculatus,24,48,12
-Anura,Hylidae,Dryophytes immaculatus,24,NA,12
-Anura,Hylidae,Dryophytes japonicus,24,48,12
-Anura,Hylidae,Dryophytes japonicus,24,48,12
-Anura,Hylidae,Dryophytes plicatus,24,NA,12
-Anura,Hylidae,Dryophytes squirellus,24,48,12
-Anura,Hylidae,Dryophytes versicolor,48,96,24
-Anura,Hylidae,Duellmanohyla ignicolor,24,NA,12
-Anura,Hylidae,Duellmanohyla rufioculis,24,NA,12
-Anura,Hylidae,Duellmanohyla uranochroa,24,NA,12
-Anura,Hylidae,Exerodonta smaragdina,24,NA,12
-Anura,Hylidae,Hyla annectans,24,NA,12
-Anura,Hylidae,Hyla arborea,24,48,12
-Anura,Hylidae,Hyla chinensis,24,48,12
-Anura,Hylidae,Hyla hallowellii,24,48,12
-Anura,Hylidae,Hyla meridionalis,24,48,12
-Anura,Hylidae,Hyla raniceps,24,NA,12
-Anura,Hylidae,Hyla sanchiangensis,24,48,12
-Anura,Hylidae,Hyla savignyi,24,48,12
-Anura,Hylidae,Hyla tsinlingensis,24,48,12
-Anura,Hylidae,Hyloscirtus alytolylax,20,NA,10
-Anura,Hylidae,Hyloscirtus jahni,24,48,12
-Anura,Hylidae,Hyloscirtus larinopygion,24,NA,12
-Anura,Hylidae,Hyloscirtus palmeri,24,NA,12
-Anura,Hylidae,Isthmohyla angustilineata,24,NA,12
-Anura,Hylidae,Isthmohyla lancasteri,24,48,12
-Anura,Hylidae,Isthmohyla pictipes,24,NA,12
-Anura,Hylidae,Isthmohyla pseudopuma,24,NA,12
-Anura,Hylidae,Isthmohyla rivularis,24,NA,12
-Anura,Hylidae,Isthmohyla tica,24,NA,12
-Anura,Hylidae,Isthmohyla zeteki,24,48,12
-Anura,Hylidae,Itapotihyla langsdorffii,24,48,12
-Anura,Hylidae,Julianus uruguayus,24,48,12
-Anura,Hylidae,Lysapsus laevis,24,NA,12
-Anura,Hylidae,Lysapsus limellum,24,NA,12
-Anura,Hylidae,Ololygon albicans,24,48,12
-Anura,Hylidae,Ololygon arduous,24,48,12
-Anura,Hylidae,Ololygon argyreornata,24,48,12
-Anura,Hylidae,Ololygon ariadne,24,48,12
-Anura,Hylidae,Ololygon aromothyella,24,48,12
-Anura,Hylidae,Ololygon belloni,24,48,12
-Anura,Hylidae,Ololygon berthae,24,48,12
-Anura,Hylidae,Ololygon boulengeri,24,NA,12
-Anura,Hylidae,Ololygon brieni,24,NA,12
-Anura,Hylidae,Ololygon brieni,24,48,12
-Anura,Hylidae,Ololygon caissara,24,48,12
-Anura,Hylidae,Ololygon canastrensis,24,48,12
-Anura,Hylidae,Ololygon catharinae,24,NA,12
-Anura,Hylidae,Ololygon catharinae,24,48,12
-Anura,Hylidae,Ololygon cosenzai,24,48,12
-Anura,Hylidae,Ololygon hiemalis,24,48,12
-Anura,Hylidae,Ololygon littoralis,24,48,12
-Anura,Hylidae,Ololygon longilinea,24,48,12
-Anura,Hylidae,Ololygon obtriangulata,24,48,12
-Anura,Hylidae,Ololygon perpusilla,24,NA,12
-Anura,Hylidae,Ololygon perpusilla,24,48,12
-Anura,Hylidae,Ololygon rizibilis,24,48,12
-Anura,Hylidae,Ololygon trapicheiroi,24,48,12
-Anura,Hylidae,Ololygon tripui,24,48,12
-Anura,Hylidae,Ololygon v-signata,24,48,12
-Anura,Hylidae,Osteocephalus oophagus,24,NA,12
-Anura,Hylidae,Osteopilus ocellatus,34,NA,17
-Anura,Hylidae,Osteopilus ocellatus,34,48,17
-Anura,Hylidae,Osteopilus septentrionalis,24,NA,12
-Anura,Hylidae,Osteopilus septentrionalis,24,48,12
-Anura,Hylidae,Phyllodytes edelmoi,22,44,11
-Anura,Hylidae,Phyllodytes luteolus,22,44,11
-Anura,Hylidae,Plectrohyla ixil,24,NA,12
-Anura,Hylidae,Plectrohyla sagorum,24,NA,12
-Anura,Hylidae,Pseudacris brachyphona,24,48,12
-Anura,Hylidae,Pseudacris brimleyi,26,NA,13
-Anura,Hylidae,Pseudacris brimleyi,24,48,12
-Anura,Hylidae,Pseudacris cadaverina,24,NA,12
-Anura,Hylidae,Pseudacris cadaverina,24,48,12
-Anura,Hylidae,Pseudacris clarkii,24,48,12
-Anura,Hylidae,Pseudacris crucifer,24,48,12
-Anura,Hylidae,Pseudacris feriarum,24,NA,12
-Anura,Hylidae,Pseudacris kalmi,24,NA,12
-Anura,Hylidae,Pseudacris nigrita,24,48,12
-Anura,Hylidae,Pseudacris ocularis ,24,48,12
-Anura,Hylidae,Pseudacris ornata,24,48,12
-Anura,Hylidae,Pseudacris regilla,24,NA,12
-Anura,Hylidae,Pseudacris streckeri,24,48,12
-Anura,Hylidae,Pseudacris triseriata,24,48,12
-Anura,Hylidae,Pseudacris triseriata triseriata,24,NA,12
-Anura,Hylidae,Pseudis aff minuta,28,48,14
-Anura,Hylidae,Pseudis bolbodactyla,24,48,12
-Anura,Hylidae,Pseudis fusca,24,48,12
-Anura,Hylidae,Pseudis minuta,24,NA,12
-Anura,Hylidae,Pseudis minuta,24,48,12
-Anura,Hylidae,Pseudis paradoxa,24,48,12
-Anura,Hylidae,Pseudis platensis,24,48,12
-Anura,Hylidae,Pseudis tocantins,24,48,12
-Anura,Hylidae,Ptychohyla legleri,24,NA,12
-Anura,Hylidae,Ptychohyla leonhardschultzei,24,NA,12
-Anura,Hylidae,Quilticohyla erythromma,24,NA,12
-Anura,Hylidae,Sarcohyla arborescandens,24,NA,12
-Anura,Hylidae,Sarcohyla bistincta,24,NA,12
-Anura,Hylidae,Sarcohyla hazelae,24,NA,12
-Anura,Hylidae,Sarcohyla pentheter,24,NA,12
-Anura,Hylidae,Sarcohyla robertsorum,24,NA,12
-Anura,Hylidae,Scarthyla goinorum,22,NA,11
-Anura,Hylidae,Scinax acuminatus,24,48,12
-Anura,Hylidae,Scinax alter,24,48,12
-Anura,Hylidae,Scinax auratus,24,48,12
-Anura,Hylidae,Scinax baumgardneri,24,48,12
-Anura,Hylidae,Scinax boesemani,24,48,12
-Anura,Hylidae,Scinax camposseabrai,24,48,12
-Anura,Hylidae,Scinax curicica,24,48,12
-Anura,Hylidae,Scinax duartei,24,48,12
-Anura,Hylidae,Scinax elaeochroa,24,48,12
-Anura,Hylidae,Scinax eurydice,24,48,12
-Anura,Hylidae,Scinax funereus,24,NA,12
-Anura,Hylidae,Scinax fuscomarginatus,24,NA,12
-Anura,Hylidae,Scinax fuscomarginatus,24,NA,12
-Anura,Hylidae,Scinax fuscomarginatus,24,48,12
-Anura,Hylidae,Scinax fuscovarius,24,48,12
-Anura,Hylidae,Scinax fuscovarius,24,NA,12
-Anura,Hylidae,Scinax fuscovarius,24,48,12
-Anura,Hylidae,Scinax fuscovarius,24,NA,12
-Anura,Hylidae,Scinax garbei,24,NA,12
-Anura,Hylidae,Scinax garbei,24,48,12
-Anura,Hylidae,Scinax granulatus,24,48,12
-Anura,Hylidae,Scinax hayii,24,NA,12
-Anura,Hylidae,Scinax hayii,24,48,12
-Anura,Hylidae,Scinax hayii,24,NA,12
-Anura,Hylidae,Scinax nasicus,24,48,12
-Anura,Hylidae,Scinax pachycrus,24,48,12
-Anura,Hylidae,Scinax perereca,24,48,12
-Anura,Hylidae,Scinax rostratus,24,NA,12
-Anura,Hylidae,Scinax rostratus,24,48,12
-Anura,Hylidae,Scinax ruber,24,NA,12
-Anura,Hylidae,Scinax ruber,24,48,12
-Anura,Hylidae,Scinax similis,24,48,12
-Anura,Hylidae,Scinax sp,24,48,12
-Anura,Hylidae,Scinax squalirostris,24,NA,12
-Anura,Hylidae,Scinax squalirostris,24,48,12
-Anura,Hylidae,Scinax squalirostris,24,NA,12
-Anura,Hylidae,Scinax staufferi,24,48,12
-Anura,Hylidae,Scinax x-signatus,24,48,12
-Anura,Hylidae,Smilisca baudinii,24,48,12
-Anura,Hylidae,Smilisca cyanosticta,24,NA,12
-Anura,Hylidae,Smilisca fodiens,24,48,12
-Anura,Hylidae,Smilisca phaeota,24,NA,12
-Anura,Hylidae,Smilisca puma,24,NA,12
-Anura,Hylidae,Smilisca sila,24,NA,12
-Anura,Hylidae,Smilisca sordida,24,48,12
-Anura,Hylidae,Sphaenorhynchus caramaschii,24,NA,12
-Anura,Hylidae,Sphaenorhynchus carneus,26,NA,13
-Anura,Hylidae,Sphaenorhynchus dorisae,24,NA,12
-Anura,Hylidae,Sphaenorhynchus lacteus,24,NA,12
-Anura,Hylidae,Tlalocohyla loquax,24,NA,12
-Anura,Hylidae,Tlalocohyla smithii,24,NA,12
-Anura,Hylidae,Tlalocohyla smithii,30,52,15
-Anura,Hylidae,"Trachycephalus ""vermiculatus""",24,NA,12
-Anura,Hylidae,Trachycephalus mesophaeus,24,48,12
-Anura,Hylidae,Trachycephalus sp,24,48,12
-Anura,Hylidae,Trachycephalus typhonius,24,NA,12
-Anura,Hylidae,Trachycephalus typhonius,24,48,12
-Anura,Hylidae,Trachycephalus typhonius,22,NA,11
-Anura,Hylidae,Triprion petasatus,24,48,12
-Anura,Hylidae,Triprion spatulatus,24,NA,12
-Anura,Hylidae,Triprion spinosus,24,48,12
-Anura,Hylidae,Triprion spinosus,26,NA,13
-Anura,Hylidae,Xenohyla truncata,24,NA,12
-Anura,Hylodidae,Crossodactylus cf caramaschi,26,52,13
-Anura,Hylodidae,Crossodactylus dispar,26,NA,13
-Anura,Hylodidae,Crossodactylus gaudichaudii,26,52,13
-Anura,Hylodidae,Crossodactylus gaudichaudii,22,NA,11
-Anura,Hylodidae,Crossodactylus grandis,26,52,13
-Anura,Hylodidae,Crossodactylus sp,26,52,13
-Anura,Hylodidae,Hylodes asper,26,52,13
-Anura,Hylodidae,Hylodes glaber,26,NA,13
-Anura,Hylodidae,Hylodes glaber,26,NA,13
-Anura,Hylodidae,Hylodes lateristrigatus,26,NA,13
-Anura,Hylodidae,Hylodes nasus,24,46,12
-Anura,Hylodidae,Hylodes ornatus,26,NA,13
-Anura,Hylodidae,Hylodes phyllodes,26,48,13
-Anura,Hylodidae,Megaelosia boticariana,30,60,15
-Anura,Hylodidae,Megaelosia lutzae,32,58,16
-Anura,Hylodidae,Megaelosia massarti,28,56,14
-Anura,Hyperoliidae,Afrixalus dorsalis,24,48,12
-Anura,Hyperoliidae,Afrixalus fornasini,24,48,12
-Anura,Hyperoliidae,Afrixalus fulvovittatus,24,48,12
-Anura,Hyperoliidae,Afrixalus osorioi,24,NA,12
-Anura,Hyperoliidae,Afrixalus quadrivittatus,24,NA,12
-Anura,Hyperoliidae,Afrixalus uluguruensis,24,NA,12
-Anura,Hyperoliidae,Heterixalus betsileo,24,48,12
-Anura,Hyperoliidae,Heterixalus tricolor,24,48,12
-Anura,Hyperoliidae,Hyperolius argus,26,52,13
-Anura,Hyperoliidae,Hyperolius bolifambae,24,NA,12
-Anura,Hyperoliidae,Hyperolius concolor,24,48,12
-Anura,Hyperoliidae,Hyperolius kivuensis,24,NA,12
-Anura,Hyperoliidae,Hyperolius madagascariensis,24,48,12
-Anura,Hyperoliidae,Hyperolius marginatus,26,52,13
-Anura,Hyperoliidae,Hyperolius mariae,24,48,12
-Anura,Hyperoliidae,Hyperolius marmoratus,24,NA,12
-Anura,Hyperoliidae,Hyperolius nasutus,24,48,12
-Anura,Hyperoliidae,Hyperolius ocellatus,24,NA,12
-Anura,Hyperoliidae,Hyperolius parallelus,24,NA,12
-Anura,Hyperoliidae,Hyperolius picturatus,24,NA,12
-Anura,Hyperoliidae,Hyperolius pictus,24,NA,12
-Anura,Hyperoliidae,Hyperolius platyceps,24,NA,12
-Anura,Hyperoliidae,Hyperolius pusillus,24,NA,12
-Anura,Hyperoliidae,Hyperolius steindachneri,24,48,12
-Anura,Hyperoliidae,Hyperolius tuberculatus,24,48,12
-Anura,Hyperoliidae,Kassina senegalensis,24,48,12
-Anura,Hyperoliidae,Kassina sp,24,48,12
-Anura,Hyperoliidae,Opisthothylax immaculatus,24,48,12
-Anura,Hyperoliidae,Phlyctimantis leonardi,24,48,12
-Anura,Hyperoliidae,Semnodactylus wealii,24,48,12
-Anura,Hyperoliidae,Tachycnemis seychellensis,24,48,12
-Anura,Leiopelmatidae,Leiopelma archeyi,18,36,9
-Anura,Leiopelmatidae,Leiopelma hochstetteri,22,32,11
-Anura,Leiopelmatidae,Leiopelma pakeka,18,34,9
-Anura,Leptodactylidae,Adenomera aff bokermanni,23,36,11.5
-Anura,Leptodactylidae,Adenomera andreae,26,34,13
-Anura,Leptodactylidae,Adenomera andreae,26,40,13
-Anura,Leptodactylidae,Adenomera cf bokermanni,23,34,11.5
-Anura,Leptodactylidae,Adenomera cf marmorata,24,34,12
-Anura,Leptodactylidae,Adenomera cf marmorata,24,48,12
-Anura,Leptodactylidae,Adenomera diptyx,26,34,13
-Anura,Leptodactylidae,Adenomera hylaedactyla,26,34,13
-Anura,Leptodactylidae,Adenomera hylaedactyla,26,34,13
-Anura,Leptodactylidae,Adenomera lutzi,26,NA,13
-Anura,Leptodactylidae,Edalorhina perezi,22,NA,11
-Anura,Leptodactylidae,Engystomops coloradorum,30,NA,15
-Anura,Leptodactylidae,Engystomops coloradorum,20,40,10
-Anura,Leptodactylidae,Engystomops freibergi,22,NA,11
-Anura,Leptodactylidae,Engystomops guayaco,20,40,10
-Anura,Leptodactylidae,Engystomops montubio,20,40,10
-Anura,Leptodactylidae,Engystomops petersi,22,NA,11
-Anura,Leptodactylidae,Engystomops pustulatus,20,NA,10
-Anura,Leptodactylidae,Engystomops pustulosus,22,NA,11
-Anura,Leptodactylidae,Engystomops puyango,20,NA,10
-Anura,Leptodactylidae,Engystomops randi,20,40,10
-Anura,Leptodactylidae,Leptodactylus albilabris,22,44,11
-Anura,Leptodactylidae,Leptodactylus bolivianus,22,44,11
-Anura,Leptodactylidae,Leptodactylus bolivianus,22,44,11
-Anura,Leptodactylidae,Leptodactylus bufonius,22,44,11
-Anura,Leptodactylidae,Leptodactylus cf marmoratus,24,34,12
-Anura,Leptodactylidae,Leptodactylus chaquensis,22,44,11
-Anura,Leptodactylidae,Leptodactylus discodactylus,22,NA,11
-Anura,Leptodactylidae,Leptodactylus elenae,22,44,11
-Anura,Leptodactylidae,Leptodactylus fragilis,22,NA,11
-Anura,Leptodactylidae,Leptodactylus fuscus,22,44,11
-Anura,Leptodactylidae,Leptodactylus gracilis,22,44,11
-Anura,Leptodactylidae,Leptodactylus gracilis delattini,22,44,11
-Anura,Leptodactylidae,Leptodactylus gracilis gracilis,22,44,11
-Anura,Leptodactylidae,Leptodactylus griseigularis,22,36,11
-Anura,Leptodactylidae,Leptodactylus insularum,22,NA,11
-Anura,Leptodactylidae,Leptodactylus knudseni,22,44,11
-Anura,Leptodactylidae,Leptodactylus labyrinthicus,22,44,11
-Anura,Leptodactylidae,Leptodactylus laticeps,22,44,11
-Anura,Leptodactylidae,Leptodactylus latinasus,22,42,11
-Anura,Leptodactylidae,Leptodactylus latinasus,22,NA,11
-Anura,Leptodactylidae,Leptodactylus latrans,22,44,11
-Anura,Leptodactylidae,Leptodactylus leptodactyloides,22,36,11
-Anura,Leptodactylidae,Leptodactylus macrosternum,22,42,11
-Anura,Leptodactylidae,Leptodactylus macrosternum,22,44,11
-Anura,Leptodactylidae,Leptodactylus marmoratus,24,34,12
-Anura,Leptodactylidae,Leptodactylus melanonotus,22,44,11
-Anura,Leptodactylidae,Leptodactylus mystaceus,22,44,11
-Anura,Leptodactylidae,Leptodactylus mystacinus,22,44,11
-Anura,Leptodactylidae,Leptodactylus mystacinus,22,44,11
-Anura,Leptodactylidae,Leptodactylus natalensis,22,38,11
-Anura,Leptodactylidae,Leptodactylus notoaktites,22,44,11
-Anura,Leptodactylidae,Leptodactylus paraensis,22,44,11
-Anura,Leptodactylidae,Leptodactylus pentadactylus,22,42,11
-Anura,Leptodactylidae,Leptodactylus pentadactylus,22,44,11
-Anura,Leptodactylidae,Leptodactylus petersii,22,42,11
-Anura,Leptodactylidae,Leptodactylus petersii,22,44,11
-Anura,Leptodactylidae,Leptodactylus plaumanni,22,NA,11
-Anura,Leptodactylidae,Leptodactylus plaumanni,22,44,11
-Anura,Leptodactylidae,Leptodactylus podicipinus,22,34,11
-Anura,Leptodactylidae,Leptodactylus podicipinus,22,38,11
-Anura,Leptodactylidae,Leptodactylus podicipinus,22,36,11
-Anura,Leptodactylidae,Leptodactylus pustulatus,22,44,11
-Anura,Leptodactylidae,Leptodactylus rhodomystax,22,44,11
-Anura,Leptodactylidae,Leptodactylus rhodonotus,22,44,11
-Anura,Leptodactylidae,Leptodactylus riveroi,22,42,11
-Anura,Leptodactylidae,Leptodactylus silvanimbus,24,48,12
-Anura,Leptodactylidae,Leptodactylus syphax,22,44,11
-Anura,Leptodactylidae,Leptodactylus troglodytes,22,44,11
-Anura,Leptodactylidae,Leptodactylus wagneri,22,36,11
-Anura,Leptodactylidae,Lithodytes lineatus,18,NA,9
-Anura,Leptodactylidae,Paratelmatobius cardosoi,24,NA,12
-Anura,Leptodactylidae,Paratelmatobius lutzii,24,48,12
-Anura,Leptodactylidae,Paratelmatobius poecilogaster,24,48,12
-Anura,Leptodactylidae,Physalaemus aguirrei,22,44,11
-Anura,Leptodactylidae,Physalaemus albifrons,22,44,11
-Anura,Leptodactylidae,Physalaemus albonotatus,22,44,11
-Anura,Leptodactylidae,Physalaemus barrioi,22,44,11
-Anura,Leptodactylidae,Physalaemus biligonigerus,22,44,11
-Anura,Leptodactylidae,Physalaemus biligonigerus,22,44,11
-Anura,Leptodactylidae,Physalaemus centralis,22,44,11
-Anura,Leptodactylidae,Physalaemus cicada,22,44,11
-Anura,Leptodactylidae,Physalaemus cuqui,22,44,11
-Anura,Leptodactylidae,Physalaemus cuvieri,22,44,11
-Anura,Leptodactylidae,Physalaemus ephippifer,22,44,11
-Anura,Leptodactylidae,Physalaemus fernandezae,22,44,11
-Anura,Leptodactylidae,Physalaemus gracilis,22,44,11
-Anura,Leptodactylidae,Physalaemus henselii,22,44,11
-Anura,Leptodactylidae,Physalaemus kroyeri,22,44,11
-Anura,Leptodactylidae,Physalaemus marmoratus,22,NA,11
-Anura,Leptodactylidae,Physalaemus nattereri,22,42,11
-Anura,Leptodactylidae,Physalaemus nattereri,22,44,11
-Anura,Leptodactylidae,Physalaemus olfersii,22,44,11
-Anura,Leptodactylidae,Physalaemus riograndensis,22,44,11
-Anura,Leptodactylidae,Physalaemus santafecinus,22,44,11
-Anura,Leptodactylidae,Physalaemus signifer,22,44,11
-Anura,Leptodactylidae,Physalaemus soaresi,22,44,11
-Anura,Leptodactylidae,Physalaemus sp,22,44,11
-Anura,Leptodactylidae,Pleurodema bibroni,22,NA,11
-Anura,Leptodactylidae,Pleurodema bibroni,44,88,22
-Anura,Leptodactylidae,Pleurodema borellii,22,NA,11
-Anura,Leptodactylidae,Pleurodema bufonina,22,44,11
-Anura,Leptodactylidae,Pleurodema cinereum,22,NA,11
-Anura,Leptodactylidae,Pleurodema cinereum,22,44,11
-Anura,Leptodactylidae,Pleurodema cordobae,88,NA,44
-Anura,Leptodactylidae,Pleurodema cordobae sp. nov.,88,NA,44
-Anura,Leptodactylidae,Pleurodema diplolister,22,42,11
-Anura,Leptodactylidae,Pleurodema guayapae,22,44,11
-Anura,Leptodactylidae,Pleurodema kriegi,44,88,22
-Anura,Leptodactylidae,Pleurodema marmoratum,22,NA,11
-Anura,Leptodactylidae,Pleurodema nebulosum,22,44,11
-Anura,Leptodactylidae,Pleurodema somuncurense,22,NA,11
-Anura,Leptodactylidae,Pleurodema thaul,22,44,11
-Anura,Leptodactylidae,Pleurodema tucumanum,22,44,11
-Anura,Leptodactylidae,Pseudopaludicola ameghini,20,NA,10
-Anura,Leptodactylidae,Pseudopaludicola atragula,18,NA,9
-Anura,Leptodactylidae,Pseudopaludicola boliviana,20,NA,10
-Anura,Leptodactylidae,Pseudopaludicola canga,18,32,9
-Anura,Leptodactylidae,Pseudopaludicola facureae,18,NA,9
-Anura,Leptodactylidae,Pseudopaludicola falcipes,22,NA,11
-Anura,Leptodactylidae,Pseudopaludicola falcipes,18,NA,9
-Anura,Leptodactylidae,Pseudopaludicola ibisoroca,18,32,9
-Anura,Leptodactylidae,Pseudopaludicola jaredi,22,NA,11
-Anura,Leptodactylidae,Pseudopaludicola mineira,22,44,11
-Anura,Leptodactylidae,Pseudopaludicola murundu,22,NA,11
-Anura,Leptodactylidae,Pseudopaludicola mystacalis,16,NA,8
-Anura,Leptodactylidae,Pseudopaludicola saltica,22,42,11
-Anura,Leptodactylidae,Pseudopaludicola ternetzi,20,NA,10
-Anura,Leptodactylidae,Pseudopaludicola ternetzi,18,NA,9
-Anura,Leptodactylidae,Pseudopaludicola ternetzi,16,NA,8
-Anura,Leptodactylidae,Scythrophrys sawayae,24,48,12
-Anura,Leptodactylidae,Scythrophrys sp,24,NA,12
-Anura,Limnodynastidae,Adelotus brevis,24,48,12
-Anura,Limnodynastidae,Heleioporus albopunctatus,24,48,12
-Anura,Limnodynastidae,Heleioporus australiacus,24,NA,12
-Anura,Limnodynastidae,Heleioporus barycragus,24,48,12
-Anura,Limnodynastidae,Heleioporus eyrei,24,48,12
-Anura,Limnodynastidae,Heleioporus inornatus,24,48,12
-Anura,Limnodynastidae,Heleioporus psammophilus,24,48,12
-Anura,Limnodynastidae,Kyarranus kundagungan,24,48,12
-Anura,Limnodynastidae,Lechriodus aganoposis,22,44,11
-Anura,Limnodynastidae,Lechriodus fletcheri,22,44,11
-Anura,Limnodynastidae,Lechriodus melanopyga,22,44,11
-Anura,Limnodynastidae,Limnodynastes convexiusculus,24,48,12
-Anura,Limnodynastidae,Limnodynastes dorsalis,22,44,11
-Anura,Limnodynastidae,Limnodynastes dumerilii,22,44,11
-Anura,Limnodynastidae,Limnodynastes fletcheri,24,48,12
-Anura,Limnodynastidae,Limnodynastes interioris,22,44,11
-Anura,Limnodynastidae,Limnodynastes lignarius,24,48,12
-Anura,Limnodynastidae,Limnodynastes peronii,24,48,12
-Anura,Limnodynastidae,Limnodynastes peronii,22,NA,11
-Anura,Limnodynastidae,Limnodynastes salmini,22,44,11
-Anura,Limnodynastidae,Limnodynastes tasmaniensis,24,48,12
-Anura,Limnodynastidae,Limnodynastes terraereginae,22,44,11
-Anura,Limnodynastidae,Neobatrachus aquilonius,48,92,24
-Anura,Limnodynastidae,Neobatrachus aquilonius,24,48,12
-Anura,Limnodynastidae,Neobatrachus fulvus,24,48,12
-Anura,Limnodynastidae,Neobatrachus kunapalari,48,96,24
-Anura,Limnodynastidae,Neobatrachus pelobatoides,24,48,12
-Anura,Limnodynastidae,Neobatrachus pictus,24,48,12
-Anura,Limnodynastidae,Neobatrachus sudelli,24,48,12
-Anura,Limnodynastidae,Neobatrachus sudelli,48,96,24
-Anura,Limnodynastidae,Neobatrachus sudelli,48,NA,24
-Anura,Limnodynastidae,Neobatrachus sutor,48,48,24
-Anura,Limnodynastidae,Neobatrachus wilsmorei,24,48,12
-Anura,Limnodynastidae,Notaden bennettii,24,48,12
-Anura,Limnodynastidae,Notaden melanoscaphus,24,48,12
-Anura,Limnodynastidae,Notaden nichollsi,24,48,12
-Anura,Limnodynastidae,Philoria frosti,24,48,12
-Anura,Limnodynastidae,Philoria loveridgei,24,48,12
-Anura,Limnodynastidae,Philoria sphagnicolus,24,48,12
-Anura,Limnodynastidae,Platyplectrum ornatum,24,NA,12
-Anura,Limnodynastidae,Platyplectrum ornatum,22,44,11
-Anura,Limnodynastidae,Platyplectrum ornatum,22,NA,11
-Anura,Limnodynastidae,Platyplectrum spenceri,22,NA,11
-Anura,Mantellidae,Aglyptodactylus madagascariensis,26,52,13
-Anura,Mantellidae,Blommersia blommersae,26,52,13
-Anura,Mantellidae,Blommersia grandisonae,26,NA,13
-Anura,Mantellidae,Blommersia wittei,26,52,13
-Anura,Mantellidae,Boophis aff erythrodactylus,26,52,13
-Anura,Mantellidae,Boophis aff idae,26,52,13
-Anura,Mantellidae,Boophis aff majori,26,52,13
-Anura,Mantellidae,Boophis aff tephraeomystax,26,52,13
-Anura,Mantellidae,Boophis erythrodactylus,26,52,13
-Anura,Mantellidae,Boophis goudotii,26,52,13
-Anura,Mantellidae,Boophis luteus,26,52,13
-Anura,Mantellidae,Boophis madagascariensis,26,52,13
-Anura,Mantellidae,Boophis microtympanum,26,52,13
-Anura,Mantellidae,Boophis microtympanum,26,52,13
-Anura,Mantellidae,Boophis opisthodon,26,52,13
-Anura,Mantellidae,Boophis tephraeomystax,26,52,13
-Anura,Mantellidae,Boophis williamsi,26,52,13
-Anura,Mantellidae,Gephyromantis asper,26,44,13
-Anura,Mantellidae,Gephyromantis eiselti,26,NA,13
-Anura,Mantellidae,Gephyromantis luteus,26,45,13
-Anura,Mantellidae,Guibemantis aff bicalcaratus,26,52,13
-Anura,Mantellidae,Guibemantis aff pulcher,26,52,13
-Anura,Mantellidae,Guibemantis bicalcaratus,26,52,13
-Anura,Mantellidae,Guibemantis cf punctatus,26,NA,13
-Anura,Mantellidae,Guibemantis depressiceps,26,NA,13
-Anura,Mantellidae,Guibemantis depressiceps,26,52,13
-Anura,Mantellidae,Guibemantis flavobrunneus,26,NA,13
-Anura,Mantellidae,Guibemantis liber,26,52,13
-Anura,Mantellidae,Guibemantis pulcher ,26,52,13
-Anura,Mantellidae,Guibemantis punctatus,26,NA,13
-Anura,Mantellidae,Guibemantis tornieri,26,52,13
-Anura,Mantellidae,Laliostoma labrosum,26,52,13
-Anura,Mantellidae,Mantella aurantiaca,26,52,13
-Anura,Mantellidae,Mantella baroni,26,NA,13
-Anura,Mantellidae,Mantella betsileo,26,52,13
-Anura,Mantellidae,Mantella cf betsileo,26,NA,13
-Anura,Mantellidae,Mantella cowanii,26,52,13
-Anura,Mantellidae,Mantella expectata,26,NA,13
-Anura,Mantellidae,Mantella laevigata,26,NA,13
-Anura,Mantellidae,Mantella madagascariensis,26,NA,13
-Anura,Mantellidae,Mantella nigricans,26,NA,13
-Anura,Mantellidae,Mantella pulchra,26,NA,13
-Anura,Mantellidae,Mantella viridis,26,NA,13
-Anura,Mantellidae,Mantidactylus aerumnalis,26,50,13
-Anura,Mantellidae,Mantidactylus aerumnalis,26,51,13
-Anura,Mantellidae,Mantidactylus aerumnalis,26,52,13
-Anura,Mantellidae,Mantidactylus ambohimitombi,24,48,12
-Anura,Mantellidae,Mantidactylus betsileanus,24,46,12
-Anura,Mantellidae,Mantidactylus biporus,24,48,12
-Anura,Mantellidae,Mantidactylus curtus,24,48,12
-Anura,Mantellidae,Mantidactylus femoralis,26,50,13
-Anura,Mantellidae,Mantidactylus grandidieri,26,NA,13
-Anura,Mantellidae,Mantidactylus guttulatus,26,52,13
-Anura,Mantellidae,Mantidactylus lugubris,26,50,13
-Anura,Mantellidae,Mantidactylus opiparis,26,52,13
-Anura,Mantellidae,Mantidactylus ulcerosus,24,44,12
-Anura,Mantellidae,Spinomantis aglavei,24,48,12
-Anura,Mantellidae,Spinomantis peraccae,26,52,13
-Anura,Megophryidae,Leptobrachella alpina,24,42,12
-Anura,Megophryidae,Leptobrachella lateralis,26,52,13
-Anura,Megophryidae,Leptobrachella lateralis,26,50,13
-Anura,Megophryidae,Leptobrachella liui,24,40,12
-Anura,Megophryidae,Leptobrachella pelodytoides,24,44,12
-Anura,Megophryidae,Leptobrachella ventripunctata,22,42,11
-Anura,Megophryidae,Leptobrachium ailaonicum,26,52,13
-Anura,Megophryidae,Leptobrachium boringii,26,52,13
-Anura,Megophryidae,Leptobrachium hasseltii,26,48,13
-Anura,Megophryidae,Leptobrachium huashen,24,48,12
-Anura,Megophryidae,Leptobrachium huashen,26,52,13
-Anura,Megophryidae,Leptobrachium leishanense,26,52,13
-Anura,Megophryidae,Leptobrachium liui,26,52,13
-Anura,Megophryidae,Leptobrachium liui,26,NA,13
-Anura,Megophryidae,Leptobrachium nigrops,26,NA,13
-Anura,Megophryidae,Leptobrachium smithi,24,48,12
-Anura,Megophryidae,Megalophrys feae,26,50,13
-Anura,Megophryidae,Megophrys boettgeri,26,50,13
-Anura,Megophryidae,Megophrys boettgeri,26,52,13
-Anura,Megophryidae,Megophrys carinense,26,46,13
-Anura,Megophryidae,Megophrys carinense,28,48,14
-Anura,Megophryidae,Megophrys carinense,30,52,15
-Anura,Megophryidae,Megophrys daweimontis,26,50,13
-Anura,Megophryidae,Megophrys daweimontis,26,52,13
-Anura,Megophryidae,Megophrys feae,26,50,13
-Anura,Megophryidae,Megophrys gigantica,26,52,13
-Anura,Megophryidae,Megophrys gigantica,26,50,13
-Anura,Megophryidae,Megophrys giganticus,26,48,13
-Anura,Megophryidae,Megophrys giganticus,26,50,13
-Anura,Megophryidae,Megophrys glandulosa,26,52,13
-Anura,Megophryidae,Megophrys huangshanensis,26,52,13
-Anura,Megophryidae,Megophrys jingdongensis,26,52,13
-Anura,Megophryidae,Megophrys koui,26,NA,13
-Anura,Megophryidae,Megophrys kuatunensis,24,48,12
-Anura,Megophryidae,Megophrys major,26,50,13
-Anura,Megophryidae,Megophrys microstoma,26,48,13
-Anura,Megophryidae,Megophrys microstoma,26,52,13
-Anura,Megophryidae,Megophrys minor,26,52,13
-Anura,Megophryidae,Megophrys minor,30,56,15
-Anura,Megophryidae,Megophrys minor,26,50,13
-Anura,Megophryidae,Megophrys montana,26,NA,13
-Anura,Megophryidae,Megophrys monticola,26,NA,13
-Anura,Megophryidae,Megophrys nasuta,26,50,13
-Anura,Megophryidae,Megophrys nasuta,26,50,13
-Anura,Megophryidae,Megophrys nasuta,26,46,13
-Anura,Megophryidae,Megophrys omeimontis,26,52,13
-Anura,Megophryidae,Megophrys omeimontis,26,48,13
-Anura,Megophryidae,Megophrys palpebralespinosa,26,50,13
-Anura,Megophryidae,Megophrys palpebralespinosa,26,52,13
-Anura,Megophryidae,Megophrys parva,26,46,13
-Anura,Megophryidae,Megophrys parva,26,48,13
-Anura,Megophryidae,Megophrys shapingensis,26,52,13
-Anura,Megophryidae,Megophrys shuichengensis,26,52,13
-Anura,Megophryidae,Megophrys sp,28,48,14
-Anura,Megophryidae,Megophrys sp,26,44,13
-Anura,Megophryidae,Megophrys wuliangshanensis,26,52,13
-Anura,Megophryidae,Megophrys wuliangshanensis,30,56,15
-Anura,Megophryidae,Ophryophryne pachyprocta,26,52,13
-Anura,Megophryidae,Oreolalax chuanbeiensis,26,52,13
-Anura,Megophryidae,Oreolalax granulosus,26,52,13
-Anura,Megophryidae,Oreolalax jingdongensis,26,52,13
-Anura,Megophryidae,Oreolalax liangbeiensis,26,52,13
-Anura,Megophryidae,Oreolalax liangbeiensis,28,52,14
-Anura,Megophryidae,Oreolalax lichuanensis,26,52,13
-Anura,Megophryidae,Oreolalax major,26,52,13
-Anura,Megophryidae,Oreolalax omeimontis,26,52,13
-Anura,Megophryidae,Oreolalax pingii,26,52,13
-Anura,Megophryidae,Oreolalax popei,26,52,13
-Anura,Megophryidae,Oreolalax rhodostigmatus,26,52,13
-Anura,Megophryidae,Oreolalax rugosus,26,52,13
-Anura,Megophryidae,Oreolalax schmidti,26,50,13
-Anura,Megophryidae,Oreolalax xiangchengensis,26,52,13
-Anura,Megophryidae,Scutiger boulengeri,26,52,13
-Anura,Megophryidae,Scutiger glandulatus,26,52,13
-Anura,Megophryidae,Scutiger pingwuensis,26,52,13
-Anura,Megophryidae,Scutiger tuberculatus,26,52,13
-Anura,Microhylidae,Anodonthyla boulengerii,26,52,13
-Anura,Microhylidae,Anodonthyla montana,26,52,13
-Anura,Microhylidae,Aphantophryne pansa,52,NA,26
-Anura,Microhylidae,Aphantophryne pansa,52,NA,26
-Anura,Microhylidae,Arcovomer passarellii,22,42,11
-Anura,Microhylidae,Asterophrys sp,26,52,13
-Anura,Microhylidae,Austrochaperina palmipes,26,NA,13
-Anura,Microhylidae,Austrochaperina robusta,26,52,13
-Anura,Microhylidae,Barygenys atra,26,NA,13
-Anura,Microhylidae,Barygenys flavigularis,32,NA,16
-Anura,Microhylidae,Callulops stictogaster,26,NA,13
-Anura,Microhylidae,Chiasmocleis bicegoi,24,46,12
-Anura,Microhylidae,Chiasmocleis leucosticta,48,NA,24
-Anura,Microhylidae,Choerophryne variegata,26,NA,13
-Anura,Microhylidae,Cophixalus cryptotympanum,26,52,13
-Anura,Microhylidae,Cophixalus kaindiensis,26,NA,13
-Anura,Microhylidae,Cophixalus parkeri,26,NA,13
-Anura,Microhylidae,Cophixalus riparius,26,52,13
-Anura,Microhylidae,Cophixalus shellyi,26,NA,13
-Anura,Microhylidae,Cophixalus sphagnicola,26,NA,13
-Anura,Microhylidae,Cophyla barbouri ,26,NA,13
-Anura,Microhylidae,Cophyla barbouri ,26,48,13
-Anura,Microhylidae,Cophyla cowanii,26,NA,13
-Anura,Microhylidae,Cophyla grandis,26,50,13
-Anura,Microhylidae,Cophyla pollicaris,26,50,13
-Anura,Microhylidae,Cophyla tuberifera,26,50,13
-Anura,Microhylidae,Copiula fistulans,26,NA,13
-Anura,Microhylidae,Copiula oxyrhina,26,NA,13
-Anura,Microhylidae,Ctenophryne aequatorialis,26,52,13
-Anura,Microhylidae,Ctenophryne aterrima,26,NA,13
-Anura,Microhylidae,Dermatonotus muelleri,22,42,11
-Anura,Microhylidae,Dyscophus antongilii,26,52,13
-Anura,Microhylidae,Dyscophus guineti,26,52,13
-Anura,Microhylidae,Dyscophus insularis,26,52,13
-Anura,Microhylidae,Dyscophus sp,26,52,13
-Anura,Microhylidae,Elachistocleis ovalis,22,42,11
-Anura,Microhylidae,Gastrophryne carolinensis,22,42,11
-Anura,Microhylidae,Gastrophryne olivacea,22,42,11
-Anura,Microhylidae,Glyphoglossus yunnanensis,26,52,13
-Anura,Microhylidae,Hamptophryne boliviana,22,42,11
-Anura,Microhylidae,Hylophorbus rufescens,26,52,13
-Anura,Microhylidae,Hypopachus barberi,22,42,11
-Anura,Microhylidae,Hypopachus variolosus,22,NA,11
-Anura,Microhylidae,Kalophrynus interlineatus,26,52,13
-Anura,Microhylidae,Kalophrynus pleurostigma,26,NA,13
-Anura,Microhylidae,Kaloula borealis,28,NA,14
-Anura,Microhylidae,Kaloula borealis,28,56,14
-Anura,Microhylidae,Kaloula picta,28,56,14
-Anura,Microhylidae,Kaloula pulchra,24,48,12
-Anura,Microhylidae,Kaloula pulchra,28,56,14
-Anura,Microhylidae,Kaloula rugifera,28,54,14
-Anura,Microhylidae,Kaloula verrucosa,28,56,14
-Anura,Microhylidae,Mantophryne lateralis,26,NA,13
-Anura,Microhylidae,Microhyla butleri,22,44,11
-Anura,Microhylidae,Microhyla fissipes,24,48,12
-Anura,Microhylidae,Microhyla heymonsi,24,48,12
-Anura,Microhylidae,Microhyla mixtura,24,48,12
-Anura,Microhylidae,Microhyla mymensinghensis,24,48,12
-Anura,Microhylidae,Microhyla ornata,26,52,13
-Anura,Microhylidae,Microhyla ornata,24,NA,12
-Anura,Microhylidae,Microhyla pulchra,24,48,12
-Anura,Microhylidae,Microhyla rubra,26,NA,13
-Anura,Microhylidae,Micryletta inornata,26,52,13
-Anura,Microhylidae,Oreophryne biroi,26,NA,13
-Anura,Microhylidae,Oreophryne brachypus,26,NA,13
-Anura,Microhylidae,Oreophryne cf anulata,22,44,11
-Anura,Microhylidae,Otophryne robusta,26,52,13
-Anura,Microhylidae,Phrynomantis bifasciatus,26,52,13
-Anura,Microhylidae,Plethodontohyla alluaudi,26,NA,13
-Anura,Microhylidae,Plethodontohyla alluaudi,26,50,13
-Anura,Microhylidae,Plethodontohyla notosticta,26,48,13
-Anura,Microhylidae,Plethodontohyla tuberata,26,48,13
-Anura,Microhylidae,Scaphiophryne gottlebei,52,NA,26
-Anura,Microhylidae,Scaphiophryne madagascariensis,26,NA,13
-Anura,Microhylidae,Sphenophryne brevicrus,26,NA,13
-Anura,Microhylidae,Sphenophryne cornuta,26,NA,13
-Anura,Microhylidae,Sphenophryne rhododactyla,26,NA,13
-Anura,Microhylidae,Stereocyclops incrassatus,22,42,11
-Anura,Microhylidae,Uperodon globulosus,26,52,13
-Anura,Microhylidae,Uperodon montanus,26,52,13
-Anura,Microhylidae,Uperodon rohani,26,NA,13
-Anura,Microhylidae,Uperodon systoma,26,NA,13
-Anura,Myobatrachidae,Arenophryne rotunda,24,48,12
-Anura,Myobatrachidae,Assa darlingtoni,24,48,12
-Anura,Myobatrachidae,Crinia bilingua,24,48,12
-Anura,Myobatrachidae,Crinia bilingua,24,48,12
-Anura,Myobatrachidae,Crinia georgiana,24,48,12
-Anura,Myobatrachidae,Crinia glauerti,24,48,12
-Anura,Myobatrachidae,Crinia insignifera,24,48,12
-Anura,Myobatrachidae,Crinia insignifera,24,NA,12
-Anura,Myobatrachidae,Crinia parinsignifera,24,48,12
-Anura,Myobatrachidae,Crinia pseudinsignifera,24,48,12
-Anura,Myobatrachidae,Crinia remota,24,48,12
-Anura,Myobatrachidae,Crinia riparia,24,48,12
-Anura,Myobatrachidae,Crinia signifera,24,48,12
-Anura,Myobatrachidae,Crinia sloanei,24,48,12
-Anura,Myobatrachidae,Crinia tasmaniensis,24,48,12
-Anura,Myobatrachidae,Geocrinia laevis,24,NA,12
-Anura,Myobatrachidae,Geocrinia leai,24,48,12
-Anura,Myobatrachidae,Geocrinia lutea,24,48,12
-Anura,Myobatrachidae,Geocrinia rosea,24,48,12
-Anura,Myobatrachidae,Geocrinia victoriana,24,48,12
-Anura,Myobatrachidae,Metacrinia nichollsi,24,48,12
-Anura,Myobatrachidae,Mixophyes balbus,24,48,12
-Anura,Myobatrachidae,Mixophyes fasciolatus,24,48,12
-Anura,Myobatrachidae,Mixophyes iteratus,24,48,12
-Anura,Myobatrachidae,Mixophyes schevilli,24,48,12
-Anura,Myobatrachidae,Myobatrachus gouldii,24,48,12
-Anura,Myobatrachidae,Paracrinia haswelli,24,48,12
-Anura,Myobatrachidae,Pseudophryne australis,24,48,12
-Anura,Myobatrachidae,Pseudophryne bibronii,24,48,12
-Anura,Myobatrachidae,Pseudophryne coriacea,24,48,12
-Anura,Myobatrachidae,Pseudophryne corroboree,24,48,12
-Anura,Myobatrachidae,Pseudophryne dendyi,24,48,12
-Anura,Myobatrachidae,Pseudophryne guentheri,24,48,12
-Anura,Myobatrachidae,Pseudophryne major,24,48,12
-Anura,Myobatrachidae,Pseudophryne occidentalis,24,48,12
-Anura,Myobatrachidae,Pseudophryne semimarmorata,24,48,12
-Anura,Myobatrachidae,Rheobatrachus silus,24,42,12
-Anura,Myobatrachidae,Rheobatrachus vitellinus,24,40,12
-Anura,Myobatrachidae,Taudactylus acutirostris,24,48,12
-Anura,Myobatrachidae,Taudactylus diurnus,24,48,12
-Anura,Myobatrachidae,Taudactylus eungellensis,24,48,12
-Anura,Myobatrachidae,Taudactylus liemi,24,48,12
-Anura,Myobatrachidae,Taudactylus rheophilus,24,48,12
-Anura,Myobatrachidae,Uperoleia crassa,24,48,12
-Anura,Myobatrachidae,Uperoleia glandulosa,24,48,12
-Anura,Myobatrachidae,Uperoleia inundata,24,48,12
-Anura,Myobatrachidae,Uperoleia laevigata,24,48,12
-Anura,Myobatrachidae,Uperoleia lithomoda,24,48,12
-Anura,Myobatrachidae,Uperoleia marmorata,24,48,12
-Anura,Myobatrachidae,Uperoleia rugosa,24,48,12
-Anura,Odontobatrachidae,Odontobatrachus natator,26,52,13
-Anura,Odontophrynidae,Macrogenioglottus alipioi,22,44,11
-Anura,Odontophrynidae,Odontophrynus americanus,22,44,11
-Anura,Odontophrynidae,Odontophrynus americanus,50,NA,25
-Anura,Odontophrynidae,Odontophrynus americanus,42,NA,21
-Anura,Odontophrynidae,Odontophrynus americanus,44,88,22
-Anura,Odontophrynidae,Odontophrynus barrioi,22,NA,11
-Anura,Odontophrynidae,Odontophrynus carvalhoi,22,44,11
-Anura,Odontophrynidae,Odontophrynus cordobae,44,NA,22
-Anura,Odontophrynidae,Odontophrynus cordobae sp. nov.,22,NA,11
-Anura,Odontophrynidae,Odontophrynus cultripes,22,44,11
-Anura,Odontophrynidae,Odontophrynus juquinha,22,44,11
-Anura,Odontophrynidae,Odontophrynus maisuma,22,44,11
-Anura,Odontophrynidae,Odontophrynus occidentalis,22,44,11
-Anura,Odontophrynidae,Proceratophrys appendiculata,22,44,11
-Anura,Odontophrynidae,Proceratophrys boiei,22,44,11
-Anura,Pelobatidae,Pelobates cultripes,26,52,13
-Anura,Pelobatidae,Pelobates fuscus,26,52,13
-Anura,Pelobatidae,Pelobates syriacus,26,52,13
-Anura,Pelobatidae,Pelobates vespertinus,26,52,13
-Anura,Pelobatidae,Pelodytes caucasicus,24,48,12
-Anura,Pelobatidae,Pelodytes punctatus,24,48,12
-Anura,Pelodryadidae,Litoria adelaidensis,26,52,13
-Anura,Pelodryadidae,Litoria amboinensis,26,NA,13
-Anura,Pelodryadidae,Litoria angiana,30,NA,15
-Anura,Pelodryadidae,Litoria angiana,26,NA,13
-Anura,Pelodryadidae,Litoria arfakiana,26,NA,13
-Anura,Pelodryadidae,Litoria bicolor,26,52,13
-Anura,Pelodryadidae,Litoria congenita,26,NA,13
-Anura,Pelodryadidae,Litoria contrastens,26,NA,13
-Anura,Pelodryadidae,Litoria cooloolensis,26,52,13
-Anura,Pelodryadidae,Litoria coplandi,26,52,13
-Anura,Pelodryadidae,Litoria darlingtoni,26,NA,13
-Anura,Pelodryadidae,Litoria dentata,26,52,13
-Anura,Pelodryadidae,Litoria ewingii,26,52,13
-Anura,Pelodryadidae,Litoria fallax,26,52,13
-Anura,Pelodryadidae,Litoria freycineti,26,52,13
-Anura,Pelodryadidae,Litoria inermis,26,52,13
-Anura,Pelodryadidae,Litoria jervisiensis,26,52,13
-Anura,Pelodryadidae,Litoria latopalmata,26,52,13
-Anura,Pelodryadidae,Litoria meiriana,26,52,13
-Anura,Pelodryadidae,Litoria microbelos,26,52,13
-Anura,Pelodryadidae,Litoria modica,26,52,13
-Anura,Pelodryadidae,Litoria nasuta,26,52,13
-Anura,Pelodryadidae,Litoria nigrofrenata,26,52,13
-Anura,Pelodryadidae,Litoria nigropunctata,26,NA,13
-Anura,Pelodryadidae,Litoria olongburensis,26,52,13
-Anura,Pelodryadidae,Litoria pallida,26,52,13
-Anura,Pelodryadidae,Litoria peronii,26,52,13
-Anura,Pelodryadidae,Litoria personata,26,52,13
-Anura,Pelodryadidae,Litoria pygmaea,26,NA,13
-Anura,Pelodryadidae,Litoria rothii,26,52,13
-Anura,Pelodryadidae,Litoria rubella,26,52,13
-Anura,Pelodryadidae,Litoria thesaurensis,26,NA,13
-Anura,Pelodryadidae,Litoria timida,26,NA,13
-Anura,Pelodryadidae,Litoria tornieri,26,52,13
-Anura,Pelodryadidae,Litoria tyleri,26,52,13
-Anura,Pelodryadidae,Litoria vocivincens,26,NA,13
-Anura,Pelodryadidae,Litoria wollastoni,26,NA,13
-Anura,Pelodryadidae,Litoria wotjulumensis,26,52,13
-Anura,Pelodryadidae,Nyctimystes cheesmani,26,NA,13
-Anura,Pelodryadidae,Nyctimystes cheesmani,26,NA,13
-Anura,Pelodryadidae,Nyctimystes daymani,26,NA,13
-Anura,Pelodryadidae,Nyctimystes foricula,26,NA,13
-Anura,Pelodryadidae,Nyctimystes humeralis,26,NA,13
-Anura,Pelodryadidae,Nyctimystes infrafrenatus,24,48,12
-Anura,Pelodryadidae,Nyctimystes kubori,26,NA,13
-Anura,Pelodryadidae,Nyctimystes papua,26,NA,13
-Anura,Pelodryadidae,Nyctimystes pulcher,26,NA,13
-Anura,Pelodryadidae,Nyctimystes semipalmatus,26,NA,13
-Anura,Pelodryadidae,Ranoidea alboguttata,26,52,13
-Anura,Pelodryadidae,Ranoidea aurea,26,52,13
-Anura,Pelodryadidae,Ranoidea australis,26,52,13
-Anura,Pelodryadidae,Ranoidea barringtonensis,26,52,13
-Anura,Pelodryadidae,Ranoidea becki,26,NA,13
-Anura,Pelodryadidae,Ranoidea booroolongensis,26,NA,13
-Anura,Pelodryadidae,Ranoidea brevipes,26,52,13
-Anura,Pelodryadidae,Ranoidea caerulea,26,52,13
-Anura,Pelodryadidae,Ranoidea chloris,26,52,13
-Anura,Pelodryadidae,Ranoidea citropa,26,52,13
-Anura,Pelodryadidae,Ranoidea cryptotis,26,52,13
-Anura,Pelodryadidae,Ranoidea dahlii,26,52,13
-Anura,Pelodryadidae,Ranoidea dayi,26,52,13
-Anura,Pelodryadidae,Ranoidea eucnemis,26,52,13
-Anura,Pelodryadidae,Ranoidea genimaculata,26,52,13
-Anura,Pelodryadidae,Ranoidea gracilenta,26,52,13
-Anura,Pelodryadidae,Ranoidea impura,26,NA,13
-Anura,Pelodryadidae,Ranoidea jungguy,26,NA,13
-Anura,Pelodryadidae,Ranoidea lesueurii,26,52,13
-Anura,Pelodryadidae,Ranoidea longipes,26,52,13
-Anura,Pelodryadidae,Ranoidea maini,26,52,13
-Anura,Pelodryadidae,Ranoidea moorei,26,52,13
-Anura,Pelodryadidae,Ranoidea nannotis,26,52,13
-Anura,Pelodryadidae,Ranoidea novaehollandiae,26,52,13
-Anura,Pelodryadidae,Ranoidea nyakalensis,26,52,13
-Anura,Pelodryadidae,Ranoidea pearsoniana,26,52,13
-Anura,Pelodryadidae,Ranoidea phyllochroa,26,52,13
-Anura,Pelodryadidae,Ranoidea platycephala,26,52,13
-Anura,Pelodryadidae,Ranoidea raniformis,26,52,13
-Anura,Pelodryadidae,Ranoidea rheocola,26,52,13
-Anura,Pelodryadidae,Ranoidea serrata,26,52,13
-Anura,Pelodryadidae,Ranoidea subglandulosa,26,52,13
-Anura,Pelodryadidae,Ranoidea vagitus,26,52,13
-Anura,Pelodryadidae,Ranoidea verrucosa,26,52,13
-Anura,Pelodryadidae,Ranoidea wilcoxii,26,NA,13
-Anura,Petropedetidae,Petropedetes cameronensis,26,52,13
-Anura,Petropedetidae,Petropedetes sp,26,NA,13
-Anura,Phrynobatrachidae,Phrynobatrachus acridoides,18,36,9
-Anura,Phrynobatrachidae,Phrynobatrachus africanus,24,36,12
-Anura,Phrynobatrachidae,Phrynobatrachus calcaratus,16,32,8
-Anura,Phrynobatrachidae,Phrynobatrachus gutturosus,16,32,8
-Anura,Phrynobatrachidae,Phrynobatrachus latifrons,16,32,8
-Anura,Phrynobatrachidae,Phrynobatrachus natalensis,18,36,9
-Anura,Phrynobatrachidae,Phrynobatrachus sp,20,40,10
-Anura,Phyllomedusidae,Agalychnis annae,26,NA,13
-Anura,Phyllomedusidae,Agalychnis callidryas,26,NA,13
-Anura,Phyllomedusidae,Agalychnis dacnicolor,26,52,13
-Anura,Phyllomedusidae,Agalychnis lemur,26,NA,13
-Anura,Phyllomedusidae,Cruziohyla calcarifer,26,NA,13
-Anura,Phyllomedusidae,Cruziohyla calcarifer,26,NA,13
-Anura,Phyllomedusidae,Phasmahyla cochranae,26,52,13
-Anura,Phyllomedusidae,Phyllomedusa bahiana,26,NA,13
-Anura,Phyllomedusidae,Phyllomedusa boliviana,26,NA,13
-Anura,Phyllomedusidae,Phyllomedusa burmeisteri,26,52,13
-Anura,Phyllomedusidae,Phyllomedusa burmeisteri,52,104,26
-Anura,Phyllomedusidae,Phyllomedusa camba,26,52,13
-Anura,Phyllomedusidae,Phyllomedusa distincta,26,52,13
-Anura,Phyllomedusidae,Phyllomedusa sauvagii,26,NA,13
-Anura,Phyllomedusidae,Phyllomedusa tarsius,26,52,13
-Anura,Phyllomedusidae,Phyllomedusa tetraploidea,52,NA,26
-Anura,Phyllomedusidae,Phyllomedusa trinitatis,26,48,13
-Anura,Phyllomedusidae,Phyllomedusa venusta,26,NA,13
-Anura,Phyllomedusidae,Pithecopus hypochondrialis,26,NA,13
-Anura,Phyllomedusidae,Pithecopus nordestinus,26,NA,13
-Anura,Phyllomedusidae,Pithecopus palliatus,26,52,13
-Anura,Phyllomedusidae,Pithecopus rohdei,26,52,13
-Anura,Pipidae,Hymenochirus boettgeri,24,NA,12
-Anura,Pipidae,Pipa carvalhoi,20,NA,10
-Anura,Pipidae,Pipa parva,30,30,15
-Anura,Pipidae,Pipa pipa,22,30,11
-Anura,Pipidae,Xenopus allofraseri,36,NA,18
-Anura,Pipidae,Xenopus amieti,72,NA,36
-Anura,Pipidae,Xenopus andrei,72,NA,36
-Anura,Pipidae,Xenopus borealis,36,NA,18
-Anura,Pipidae,Xenopus boumbaensis,72,NA,36
-Anura,Pipidae,Xenopus calcaratus,40,NA,20
-Anura,Pipidae,Xenopus cf. boumbaensis,108,NA,54
-Anura,Pipidae,Xenopus clivii,36,72,18
-Anura,Pipidae,Xenopus epitropicalis,40,72,20
-Anura,Pipidae,Xenopus eysoole,108,NA,54
-Anura,Pipidae,Xenopus fischbergi,36,NA,18
-Anura,Pipidae,Xenopus fraseri,36,72,18
-Anura,Pipidae,Xenopus gilli,36,72,18
-Anura,Pipidae,Xenopus itombwensis,72,NA,36
-Anura,Pipidae,Xenopus kobeli,108,NA,54
-Anura,Pipidae,Xenopus laevis,36,NA,18
-Anura,Pipidae,Xenopus largeni,36,NA,18
-Anura,Pipidae,Xenopus lenduensis,72,NA,36
-Anura,Pipidae,Xenopus longipes,108,NA,54
-Anura,Pipidae,Xenopus mellotropicalis,40,NA,20
-Anura,Pipidae,Xenopus muelleri,36,72,18
-Anura,Pipidae,Xenopus parafraseri,36,NA,18
-Anura,Pipidae,Xenopus petersii,36,NA,18
-Anura,Pipidae,Xenopus petersii,36,72,18
-Anura,Pipidae,Xenopus poweri,36,NA,18
-Anura,Pipidae,Xenopus poweri,36,NA,18
-Anura,Pipidae,Xenopus pygmaeus,36,NA,18
-Anura,Pipidae,Xenopus ruwenzoriensis,108,216,54
-Anura,Pipidae,Xenopus sp.nov X,72,NA,36
-Anura,Pipidae,Xenopus tropicalis,20,40,10
-Anura,Pipidae,Xenopus tropicalis,NA,NA,#VALUE!
-Anura,Pipidae,Xenopus tropicalis,NA,NA,#VALUE!
-Anura,Pipidae,Xenopus tropicalis,30,NA,15
-Anura,Pipidae,Xenopus vestitus,72,144,36
-Anura,Pipidae,Xenopus victorianus,72,NA,36
-Anura,Pipidae,Xenopus victorianus,36,NA,18
-Anura,Pipidae,Xenopus victorianus,36,72,18
-Anura,Ptychadenidae,Ptychadena anchietae,24,48,12
-Anura,Ptychadenidae,Ptychadena cooperi,24,NA,12
-Anura,Ptychadenidae,Ptychadena erlangeri,24,48,12
-Anura,Ptychadenidae,Ptychadena mascareniensis,24,48,12
-Anura,Ptychadenidae,Ptychadena perreti,24,48,12
-Anura,Ptychadenidae,Ptychadena sp,24,NA,12
-Anura,Pyxicephalidae,Amietia angolensis,26,52,13
-Anura,Pyxicephalidae,Amietia fuscigula,26,52,13
-Anura,Pyxicephalidae,Anhydrophryne rattrayi,26,NA,13
-Anura,Pyxicephalidae,Poyntonia paludicola,24,NA,12
-Anura,Pyxicephalidae,Pyxicephalus adspersus,26,48,13
-Anura,Pyxicephalidae,Tomopterna delalandii,26,52,13
-Anura,Pyxicephalidae,Tomopterna delalandii,52,104,26
-Anura,Pyxicephalidae,Tomopterna tandyi,52,NA,26
-Anura,Ranidae,Amnirana albolabris,26,NA,13
-Anura,Ranidae,Amnirana nicobariensis,26,NA,13
-Anura,Ranidae,Amolops granulosus,26,NA,13
-Anura,Ranidae,Amolops granulosus,26,52,13
-Anura,Ranidae,Amolops granulosus,27,NA,13.5
-Anura,Ranidae,Amolops hongkongensis,26,52,13
-Anura,Ranidae,Amolops jinjiangensis,26,NA,13
-Anura,Ranidae,Amolops liangshanensis,26,NA,13
-Anura,Ranidae,Amolops lifanensis,26,52,13
-Anura,Ranidae,Amolops loloensis,26,52,13
-Anura,Ranidae,Amolops mantzorum,26,NA,13
-Anura,Ranidae,Amolops mantzorum,26,52,13
-Anura,Ranidae,Amolops mantzorum,27,54,13.5
-Anura,Ranidae,Amolops panhai,26,52,13
-Anura,Ranidae,Amolops ricketti,26,52,13
-Anura,Ranidae,Amolops tuberodepressus,26,NA,13
-Anura,Ranidae,Amolops viridimaculatus,26,52,13
-Anura,Ranidae,Amolops wuyiensis,26,52,13
-Anura,Ranidae,Babina holsti,26,52,13
-Anura,Ranidae,Babina subaspera,26,52,13
-Anura,Ranidae,Chalcorana chalconota,26,NA,13
-Anura,Ranidae,Clinotarsus curtipes,26,NA,13
-Anura,Ranidae,Glandirana emeljanovi,26,50,13
-Anura,Ranidae,Glandirana minima,26,52,13
-Anura,Ranidae,Glandirana rugosa,26,52,13
-Anura,Ranidae,Glandirana rugosa,39,NA,19.5
-Anura,Ranidae,Glandirana tientaiensis,26,52,13
-Anura,Ranidae,Hydrophylax malabaricus,26,NA,13
-Anura,Ranidae,Hylarana erythraea,26,52,13
-Anura,Ranidae,Hylarana lateralis,26,52,13
-Anura,Ranidae,Hylarana latouchii,26,52,13
-Anura,Ranidae,Hylarana narina,26,52,13
-Anura,Ranidae,Hylarana sp,26,52,13
-Anura,Ranidae,Hylarana taipehensis,26,52,13
-Anura,Ranidae,Indosylvirana milleti,26,52,13
-Anura,Ranidae,Indosylvirana temporalis,26,NA,13
-Anura,Ranidae,Lithobates areolatus,26,52,13
-Anura,Ranidae,Lithobates blairi,26,52,13
-Anura,Ranidae,Lithobates catesbeianus,26,52,13
-Anura,Ranidae,Lithobates chiricahuensis,26,NA,13
-Anura,Ranidae,Lithobates chiricahuensis x pipiens,36,NA,18
-Anura,Ranidae,Lithobates clamitans,26,52,13
-Anura,Ranidae,Lithobates forreri,26,NA,13
-Anura,Ranidae,Lithobates magnaocularis,26,NA,13
-Anura,Ranidae,Lithobates palmipes,26,52,13
-Anura,Ranidae,Lithobates palustris,26,52,13
-Anura,Ranidae,Lithobates pipiens,39,NA,19.5
-Anura,Ranidae,Lithobates pipiens,26,52,13
-Anura,Ranidae,Lithobates septentrionalis,26,52,13
-Anura,Ranidae,Lithobates sphenocephalus,26,52,13
-Anura,Ranidae,Lithobates sylvaticus,26,NA,13
-Anura,Ranidae,Lithobates vibicarius,26,NA,13
-Anura,Ranidae,Lithobates virgatipes,26,52,13
-Anura,Ranidae,Lithobates warszewitschii,26,NA,13
-Anura,Ranidae,Nidirana adenopleura,26,52,13
-Anura,Ranidae,Nidirana daunchina,26,52,13
-Anura,Ranidae,Nidirana okinavana,26,52,13
-Anura,Ranidae,Nidirana pleuraden,26,52,13
-Anura,Ranidae,Odorrana andersoni,26,52,13
-Anura,Ranidae,Odorrana exiliversabilis,26,52,13
-Anura,Ranidae,Odorrana grahami,26,52,13
-Anura,Ranidae,Odorrana hainanensis,26,52,13
-Anura,Ranidae,Odorrana ishikawae,26,52,13
-Anura,Ranidae,Odorrana jingdongensis,26,52,13
-Anura,Ranidae,Odorrana junlianensis,26,52,13
-Anura,Ranidae,Odorrana kuangwuensis,26,52,13
-Anura,Ranidae,Odorrana livida,26,52,13
-Anura,Ranidae,Odorrana margaretae,26,52,13
-Anura,Ranidae,Odorrana narina,26,52,13
-Anura,Ranidae,Odorrana nasuta,26,52,13
-Anura,Ranidae,Odorrana schmackeri,26,52,13
-Anura,Ranidae,Odorrana swinhoana,26,52,13
-Anura,Ranidae,Odorrana versabilis,26,NA,13
-Anura,Ranidae,Odorrana wuchuanensis,26,52,13
-Anura,Ranidae,Papurana daemeli,26,52,13
-Anura,Ranidae,Papurana garritor,26,52,13
-Anura,Ranidae,Papurana grisea,26,52,13
-Anura,Ranidae,Papurana papua,26,NA,13
-Anura,Ranidae,Pelophylax bedriagae,26,52,13
-Anura,Ranidae,Pelophylax chosenicus,26,NA,13
-Anura,Ranidae,Pelophylax fukienensis,26,52,13
-Anura,Ranidae,Pelophylax hubeiensis,26,52,13
-Anura,Ranidae,Pelophylax lessonae,52,NA,26
-Anura,Ranidae,Pelophylax lessonae,39,NA,19.5
-Anura,Ranidae,Pelophylax lessonae,26,52,13
-Anura,Ranidae,Pelophylax lessonae,26,52,13
-Anura,Ranidae,Pelophylax lessonae,26,NA,13
-Anura,Ranidae,Pelophylax lessonae,39,NA,19.5
-Anura,Ranidae,Pelophylax lessonae,52,NA,26
-Anura,Ranidae,Pelophylax lessonae,65,NA,32.5
-Anura,Ranidae,Pelophylax nigromaculatus,39,NA,19.5
-Anura,Ranidae,Pelophylax nigromaculatus,52,NA,26
-Anura,Ranidae,Pelophylax nigromaculatus,78,NA,39
-Anura,Ranidae,Pelophylax nigromaculatus,26,52,13
-Anura,Ranidae,Pelophylax plancyi,26,52,13
-Anura,Ranidae,Pelophylax porosus,26,NA,13
-Anura,Ranidae,Pelophylax porosus,26,52,13
-Anura,Ranidae,Pelophylax ridibundus,26,52,13
-Anura,Ranidae,Pelophylax saharicus,26,52,13
-Anura,Ranidae,Pelophylax sp,26,52,13
-Anura,Ranidae,Pelophylax terentievi,26,52,13
-Anura,Ranidae,Pseudorana weiningensis,26,52,13
-Anura,Ranidae,Rana amurensis,26,52,13
-Anura,Ranidae,Rana amurensis coreana,26,NA,13
-Anura,Ranidae,Rana arvalis,24,48,12
-Anura,Ranidae,Rana arvalis,24,48,12
-Anura,Ranidae,Rana asiatica,26,52,13
-Anura,Ranidae,Rana aurora,26,52,13
-Anura,Ranidae,Rana aurora draytoni,26,NA,13
-Anura,Ranidae,Rana boylii,26,52,13
-Anura,Ranidae,Rana cascadae,26,52,13
-Anura,Ranidae,Rana chaochiaoensis,26,52,13
-Anura,Ranidae,Rana chensinensis,24,48,12
-Anura,Ranidae,Rana chensinensis,24,48,12
-Anura,Ranidae,Rana coreana,26,NA,13
-Anura,Ranidae,Rana dalmatina,26,52,13
-Anura,Ranidae,Rana dybowskii,24,48,12
-Anura,Ranidae,Rana graeca,26,52,13
-Anura,Ranidae,Rana hanluica,26,52,13
-Anura,Ranidae,Rana huanrenensis,24,48,12
-Anura,Ranidae,Rana iberica,26,52,13
-Anura,Ranidae,Rana italica,26,NA,13
-Anura,Ranidae,Rana japonica,26,52,13
-Anura,Ranidae,Rana japonica,39,NA,19.5
-Anura,Ranidae,Rana japonica chaochiaoensis,26,NA,13
-Anura,Ranidae,Rana kukunoris,24,48,12
-Anura,Ranidae,Rana latastei,26,52,13
-Anura,Ranidae,Rana longicrus,26,52,13
-Anura,Ranidae,Rana macrocnemis,26,52,13
-Anura,Ranidae,Rana muscosa,26,46,13
-Anura,Ranidae,Rana neba,42,78,21
-Anura,Ranidae,Rana neba,28,52,14
-Anura,Ranidae,Rana omeimontis,26,52,13
-Anura,Ranidae,Rana ornativentris,24,48,12
-Anura,Ranidae,Rana pretiosa,26,52,13
-Anura,Ranidae,Rana sakuraii,26,52,13
-Anura,Ranidae,Rana sauteri,26,NA,13
-Anura,Ranidae,Rana shuchinae,26,52,13
-Anura,Ranidae,Rana tagoi,26,52,13
-Anura,Ranidae,Rana temporaria,26,52,13
-Anura,Ranidae,Rana temporaria,26,NA,13
-Anura,Ranidae,Rana tsushimensis,26,NA,13
-Anura,Ranidae,Rana zhenhaiensis,26,52,13
-Anura,Ranidae,Sanguirana everetti,26,NA,13
-Anura,Ranidae,Sanguirana sanguinea,26,NA,13
-Anura,Ranidae,Staurois latopalmatus,26,52,13
-Anura,Ranidae,Staurois natator,26,NA,13
-Anura,Ranidae,Sylvirana cubitalis,26,52,13
-Anura,Ranidae,Sylvirana guentheri,26,52,13
-Anura,Ranidae,Sylvirana nigrovittata,24,48,12
-Anura,Ranidae,Sylvirana nigrovittata,26,52,13
-Anura,Ranidae,Sylvirana spinulosa,26,52,13
-Anura,Rhacophoridae,Buergeria buergeri,26,NA,13
-Anura,Rhacophoridae,Buergeria japonica,26,52,13
-Anura,Rhacophoridae,Buergeria oxycephala,26,52,13
-Anura,Rhacophoridae,Buergeria robusta,26,52,13
-Anura,Rhacophoridae,Chiromantis doriae,26,52,13
-Anura,Rhacophoridae,Chiromantis doriae,16,32,8
-Anura,Rhacophoridae,Chiromantis petersi,26,52,13
-Anura,Rhacophoridae,Chiromantis rufescens,26,52,13
-Anura,Rhacophoridae,Chiromantis xerampelina,26,52,13
-Anura,Rhacophoridae,Feihyla palpebralis,26,52,13
-Anura,Rhacophoridae,Feihyla vittata,26,52,13
-Anura,Rhacophoridae,Kurixalus eiffingeri,26,52,13
-Anura,Rhacophoridae,Kurixalus eiffingeri,26,52,13
-Anura,Rhacophoridae,Kurixalus idiootocus,26,52,13
-Anura,Rhacophoridae,Kurixalus odontotarsus,26,52,13
-Anura,Rhacophoridae,Polypedates leucomystax,26,NA,13
-Anura,Rhacophoridae,Polypedates leucomystax,26,52,13
-Anura,Rhacophoridae,Polypedates maculatus,26,52,13
-Anura,Rhacophoridae,Polypedates megacephalus,26,52,13
-Anura,Rhacophoridae,Polypedates mutus,26,52,13
-Anura,Rhacophoridae,Pseudophilautus wynaadensis,26,52,13
-Anura,Rhacophoridae,Rhacophorus arboreus,26,52,13
-Anura,Rhacophoridae,Rhacophorus burmanus,26,52,13
-Anura,Rhacophoridae,Rhacophorus chenfui,26,52,13
-Anura,Rhacophoridae,Rhacophorus dennysi,26,52,13
-Anura,Rhacophoridae,Rhacophorus dugritei,26,52,13
-Anura,Rhacophoridae,Rhacophorus feae,26,52,13
-Anura,Rhacophoridae,Rhacophorus malabaricus,26,52,13
-Anura,Rhacophoridae,Rhacophorus moltrechti,26,52,13
-Anura,Rhacophoridae,Rhacophorus nigropunctatus,26,52,13
-Anura,Rhacophoridae,Rhacophorus omeimontis,26,52,13
-Anura,Rhacophoridae,Rhacophorus owstoni,26,52,13
-Anura,Rhacophoridae,Rhacophorus prasinatus,26,52,13
-Anura,Rhacophoridae,Rhacophorus reinwardtii,26,52,13
-Anura,Rhacophoridae,Rhacophorus rhodopus,26,52,13
-Anura,Rhacophoridae,Rhacophorus schlegelii,26,52,13
-Anura,Rhacophoridae,Rhacophorus smaragdinus,26,52,13
-Anura,Rhacophoridae,Rhacophorus taipeianus,26,52,13
-Anura,Rhinodermatidae,Insuetophrynus acarpicus,26,52,13
-Anura,Rhinodermatidae,Rhinoderma darwinii,26,48,13
-Anura,Rhinodermatidae,Rhinoderma rufum,26,48,13
-Anura,Rhinophrynidae,Rhinophrynus dorsalis,22,NA,11
-Anura,Scaphiopodidae,Scaphiopus couchii,26,52,13
-Anura,Scaphiopodidae,Scaphiopus holbrookii,26,50,13
-Anura,Scaphiopodidae,Scaphiopus hurterii,26,NA,13
-Anura,Scaphiopodidae,Spea bombifrons,26,52,13
-Anura,Scaphiopodidae,Spea hammondii,26,52,13
-Anura,Scaphiopodidae,Spea multiplicata,26,NA,13
-Anura,Sooglossidae,Sechellophryne gardineri,26,42,13
-Anura,Sooglossidae,Sooglossus sechellensis,26,44,13
-Anura,Sooglossidae,Sooglossus thomasseti,26,44,13
-Anura,Strabomantidae,Geobatrachus walkeri,20,NA,10
-Anura,Telmatobiidae,Telmatobius arequipensis,26,52,13
-Anura,Telmatobiidae,Telmatobius carrillae,26,52,13
-Anura,Telmatobiidae,Telmatobius ceiorum,26,52,13
-Anura,Telmatobiidae,Telmatobius chusmisensis,26,52,13
-Anura,Telmatobiidae,Telmatobius dankoi,26,52,13
-Anura,Telmatobiidae,Telmatobius jelskii,26,52,13
-Anura,Telmatobiidae,Telmatobius laticeps,26,52,13
-Anura,Telmatobiidae,Telmatobius marmoratus,26,52,13
-Anura,Telmatobiidae,Telmatobius oxycephalus,26,52,13
-Anura,Telmatobiidae,Telmatobius pefauri,26,52,13
-Anura,Telmatobiidae,Telmatobius pefauri,26,52,13
-Anura,Telmatobiidae,Telmatobius peruvianus,26,NA,13
-Anura,Telmatobiidae,Telmatobius phillippii,26,52,13
-Anura,Telmatobiidae,Telmatobius rimac,26,52,13
-Anura,Telmatobiidae,Telmatobius rubigo,26,52,13
-Anura,Telmatobiidae,Telmatobius schreiteri,26,NA,13
-Anura,Telmatobiidae,Telmatobius sp,22,NA,11
-Anura,Telmatobiidae,Telmatobius stephani,26,52,13
-Anura,Telmatobiidae,Telmatobius vilamensis,26,52,13
+"Order","Family","species","Diploid.number","Fundamental.number","haploid"
+"Anura","Allophrynidae","allophryne_ruthveni",20,40,"10"
+"Anura","Alsodidae","alsodes_aff_vittatus",26,52,"13"
+"Anura","Alsodidae","alsodes_barrioi",34,56,"17"
+"Anura","Alsodidae","alsodes_coppingeri",26,52,"13"
+"Anura","Alsodidae","alsodes_gargola",26,52,"13"
+"Anura","Alsodidae","alsodes_hugoi",26,NA,"13"
+"Anura","Alsodidae","alsodes_igneus",26,NA,"13"
+"Anura","Alsodidae","alsodes_montanus",26,52,"13"
+"Anura","Alsodidae","alsodes_monticola",26,52,"13"
+"Anura","Alsodidae","alsodes_neuquensis",26,NA,"13"
+"Anura","Alsodidae","alsodes_nodosus",22,44,"11"
+"Anura","Alsodidae","alsodes_norae",30,52,"15"
+"Anura","Alsodidae","alsodes_pehuenche",26,52,"13"
+"Anura","Alsodidae","alsodes_tumultuosus",26,52,"13"
+"Anura","Alsodidae","alsodes_vanzolinii",26,50,"13"
+"Anura","Alsodidae","alsodes_vanzolinii",26,52,"13"
+"Anura","Alsodidae","alsodes_verrucosus",26,52,"13"
+"Anura","Alsodidae","alsodes_vittatus",28,NA,"14"
+"Anura","Alsodidae","eupsophus_calcaratus",30,46,"15"
+"Anura","Alsodidae","eupsophus_emiliopugini",28,56,"14"
+"Anura","Alsodidae","eupsophus_insularis",30,44,"15"
+"Anura","Alsodidae","eupsophus_migueli",30,44,"15"
+"Anura","Alsodidae","eupsophus_roseus",30,44,"15"
+"Anura","Alsodidae","eupsophus_roseus",30,46,"15"
+"Anura","Alsodidae","eupsophus_roseus",30,44,"15"
+"Anura","Alsodidae","eupsophus_vertebralis",42,56,"21"
+"Anura","Alsodidae","limnomedusa_macroglossa",26,NA,"13"
+"Anura","Alytidae","alytes_cisternasii",38,50,"19"
+"Anura","Alytidae","alytes_muletensis",38,60,"19"
+"Anura","Alytidae","alytes_obstetricans",38,NA,"19"
+"Anura","Alytidae","discoglossus_galganoi_galganoi",28,56,"14"
+"Anura","Alytidae","discoglossus_jeanneae",28,56,"14"
+"Anura","Alytidae","discoglossus_montalentii",28,56,"14"
+"Anura","Alytidae","discoglossus_pictus",28,54,"14"
+"Anura","Alytidae","discoglossus_pictus_auritus",28,NA,"14"
+"Anura","Alytidae","discoglossus_pictus_pictus",28,56,"14"
+"Anura","Alytidae","discoglossus_sardus",28,56,"14"
+"Anura","Aromobatidae","allobates_brunneus",24,46,"12"
+"Anura","Aromobatidae","allobates_caeruleodactylus",22,NA,"11"
+"Anura","Aromobatidae","allobates_chalcopis",22,44,"11"
+"Anura","Aromobatidae","allobates_femoralis",24,48,"12"
+"Anura","Aromobatidae","allobates_marchesianus",22,NA,"11"
+"Anura","Aromobatidae","allobates_nidicola",22,44,"11"
+"Anura","Aromobatidae","allobates_olfersioides",24,48,"12"
+"Anura","Aromobatidae","allobates_talamancae",24,48,"12"
+"Anura","Aromobatidae","anomaloglossus_stepheni",24,46,"12"
+"Anura","Aromobatidae","aromobates_leopardalis",24,48,"12"
+"Anura","Aromobatidae","mannophryne_herminae",24,48,"12"
+"Anura","Aromobatidae","mannophryne_neblina",24,48,"12"
+"Anura","Aromobatidae","mannophryne_olmonae",24,48,"12"
+"Anura","Aromobatidae","mannophryne_trinitatis",24,48,"12"
+"Anura","Aromobatidae","mannophryne_trinitatis",24,NA,"12"
+"Anura","Aromobatidae","rheobates_palmatus",24,48,"12"
+"Anura","Arthroleptidae","arthroleptis_adolfifriederici",14,NA,"7"
+"Anura","Arthroleptidae","arthroleptis_poecilonotus",14,28,"7"
+"Anura","Arthroleptidae","arthroleptis_sp",14,28,"7"
+"Anura","Arthroleptidae","arthroleptis_stenodactylus",14,28,"7"
+"Anura","Arthroleptidae","astylosternus_diadematus",54,68,"27"
+"Anura","Arthroleptidae","cardioglossa_gracilis",16,32,"8"
+"Anura","Arthroleptidae","cardioglossa_leucomystax",18,32,"9"
+"Anura","Arthroleptidae","leptopelis_aubryi",22,44,"11"
+"Anura","Arthroleptidae","leptopelis_bocagii",22,44,"11"
+"Anura","Arthroleptidae","leptopelis_boulengeri",22,44,"11"
+"Anura","Arthroleptidae","leptopelis_calcaratus",24,46,"12"
+"Anura","Arthroleptidae","leptopelis_concolor",24,NA,"12"
+"Anura","Arthroleptidae","leptopelis_gramineus",24,48,"12"
+"Anura","Arthroleptidae","leptopelis_palmatus",24,46,"12"
+"Anura","Arthroleptidae","leptopelis_parkeri",30,40,"15"
+"Anura","Arthroleptidae","leptopelis_vermiculatus",24,46,"12"
+"Anura","Arthroleptidae","leptopelis_viridis",24,44,"12"
+"Anura","Arthroleptidae","leptopelis_viridis",22,44,"11"
+"Anura","Arthroleptidae","nyctibates_corrugatus",28,56,"14"
+"Anura","Ascaphidae","ascaphus_truei",44,NA,"22"
+"Anura","Ascaphidae","ascaphus_truei",46,56,"23"
+"Anura","Batrachylidae","atelognathus_nitoi",26,NA,"13"
+"Anura","Batrachylidae","atelognathus_patagonicus",26,NA,"13"
+"Anura","Batrachylidae","atelognathus_praebasalticus",26,NA,"13"
+"Anura","Batrachylidae","atelognathus_reverberii",26,NA,"13"
+"Anura","Batrachylidae","batrachyla_antartandica",26,50,"13"
+"Anura","Batrachylidae","batrachyla_leptopus",26,52,"13"
+"Anura","Batrachylidae","batrachyla_nibaldoi",26,50,"13"
+"Anura","Batrachylidae","batrachyla_taeniata",26,50,"13"
+"Anura","Batrachylidae","hylorina_sylvatica",26,NA,"13"
+"Anura","Bombinatoridae","bombina_bombina",24,48,"12"
+"Anura","Bombinatoridae","bombina_maxima",28,56,"14"
+"Anura","Bombinatoridae","bombina_microdeladigitora",28,56,"14"
+"Anura","Bombinatoridae","bombina_orientalis",24,48,"12"
+"Anura","Bombinatoridae","bombina_pachypus",24,48,"12"
+"Anura","Bombinatoridae","bombina_variegata",24,48,"12"
+"Anura","Brachycephalidae","brachycephalus_ephippium",22,44,"11"
+"Anura","Brachycephalidae","ischnocnema_guentheri",22,44,"11"
+"Anura","Brachycephalidae","ischnocnema_holti",20,NA,"10"
+"Anura","Brachycephalidae","ischnocnema_holti",20,38,"10"
+"Anura","Brachycephalidae","ischnocnema_juipoca",22,40,"11"
+"Anura","Brachycephalidae","ischnocnema_lactea",20,40,"10"
+"Anura","Brachycephalidae","ischnocnema_lactea",20,NA,"10"
+"Anura","Brevicipitidae","breviceps_gibbosus",24,48,"12"
+"Anura","Brevicipitidae","callulina_kreffti",24,NA,"12"
+"Anura","Bufonidae","altiphrynoides_malcolmi",22,NA,"11"
+"Anura","Bufonidae","altiphrynoides_osgoodi",22,NA,"11"
+"Anura","Bufonidae","anaxyrus_americanus",22,44,"11"
+"Anura","Bufonidae","anaxyrus_boreas",22,NA,"11"
+"Anura","Bufonidae","anaxyrus_boreas",22,44,"11"
+"Anura","Bufonidae","anaxyrus_boreas",22,NA,"11"
+"Anura","Bufonidae","anaxyrus_canorus",22,44,"11"
+"Anura","Bufonidae","anaxyrus_cognatus",22,44,"11"
+"Anura","Bufonidae","anaxyrus_compactilis",22,44,"11"
+"Anura","Bufonidae","anaxyrus_debilis",22,44,"11"
+"Anura","Bufonidae","anaxyrus_fowleri",22,44,"11"
+"Anura","Bufonidae","anaxyrus_hemiophrys",22,44,"11"
+"Anura","Bufonidae","anaxyrus_houstonensis",21,NA,"10.5"
+"Anura","Bufonidae","anaxyrus_houstonensis",22,44,"11"
+"Anura","Bufonidae","anaxyrus_kelloggi",22,44,"11"
+"Anura","Bufonidae","anaxyrus_microscaphus",22,44,"11"
+"Anura","Bufonidae","anaxyrus_nelsoni",22,44,"11"
+"Anura","Bufonidae","anaxyrus_punctatus",22,44,"11"
+"Anura","Bufonidae","anaxyrus_quercicus",22,44,"11"
+"Anura","Bufonidae","anaxyrus_retiformis",22,44,"11"
+"Anura","Bufonidae","anaxyrus_speciosus",22,NA,"11"
+"Anura","Bufonidae","anaxyrus_terrestris",22,44,"11"
+"Anura","Bufonidae","anaxyrus_woodhousii",22,NA,"11"
+"Anura","Bufonidae","anaxyrus_woodhousii",22,44,"11"
+"Anura","Bufonidae","anaxyrus_woodhousii",22,NA,"11"
+"Anura","Bufonidae","anaxyrus_woodhousii",22,44,"11"
+"Anura","Bufonidae","atelopus_ignescens",22,NA,"11"
+"Anura","Bufonidae","atelopus_spumarius",22,44,"11"
+"Anura","Bufonidae","atelopus_varius",22,NA,"11"
+"Anura","Bufonidae","bufo_ailaoanus",22,44,"11"
+"Anura","Bufonidae","bufo_aspinius",22,44,"11"
+"Anura","Bufonidae","bufo_bankorensis",22,NA,"11"
+"Anura","Bufonidae","bufo_bufo",22,44,"11"
+"Anura","Bufonidae","bufo_bufo",22,NA,"11"
+"Anura","Bufonidae","bufo_eichwaldi",22,44,"11"
+"Anura","Bufonidae","bufo_gargarizans",22,44,"11"
+"Anura","Bufonidae","bufo_gargarizans",22,NA,"11"
+"Anura","Bufonidae","bufo_gargarizans_gargarizans",22,44,"11"
+"Anura","Bufonidae","bufo_japonicus",22,44,"11"
+"Anura","Bufonidae","bufo_pageoti",22,44,"11"
+"Anura","Bufonidae","bufo_pewzowi",44,88,"22"
+"Anura","Bufonidae","bufo_sp",30,NA,"15"
+"Anura","Bufonidae","bufo_stejnegeri",22,NA,"11"
+"Anura","Bufonidae","bufo_torrenticola",22,44,"11"
+"Anura","Bufonidae","bufo_tuberculatus",22,44,"11"
+"Anura","Bufonidae","bufo_verrucosissimus",22,44,"11"
+"Anura","Bufonidae","bufotes_baturae",33,NA,"16.5"
+"Anura","Bufonidae","bufotes_oblongus",44,88,"22"
+"Anura","Bufonidae","bufotes_oblongus",44,88,"22"
+"Anura","Bufonidae","bufotes_oblongus",44,NA,"22"
+"Anura","Bufonidae","bufotes_oblongus_oblongus",44,NA,"22"
+"Anura","Bufonidae","bufotes_pewzowi_pewzowi",44,NA,"22"
+"Anura","Bufonidae","bufotes_pewzowi_strauchi",44,NA,"22"
+"Anura","Bufonidae","bufotes_pewzowi_taxkorensis",44,NA,"22"
+"Anura","Bufonidae","bufotes_pewzowi_unicolor",44,NA,"22"
+"Anura","Bufonidae","bufotes_pseudoraddei",33,NA,"16.5"
+"Anura","Bufonidae","bufotes_turanensis",22,44,"11"
+"Anura","Bufonidae","bufotes_turanensis",33,66,"16.5"
+"Anura","Bufonidae","bufotes_variabilis",22,44,"11"
+"Anura","Bufonidae","bufotes_variabilis",44,NA,"22"
+"Anura","Bufonidae","bufotes_viridis",22,44,"11"
+"Anura","Bufonidae","bufotes_viridis",44,88,"22"
+"Anura","Bufonidae","bufotes_viridis",22,44,"11"
+"Anura","Bufonidae","bufotes_zugmayeri",33,NA,"16.5"
+"Anura","Bufonidae","capensibufo_rosei",22,NA,"11"
+"Anura","Bufonidae","duttaphrynus_dhufarensis",22,44,"11"
+"Anura","Bufonidae","duttaphrynus_himalayanus",22,44,"11"
+"Anura","Bufonidae","duttaphrynus_melanostictus",22,44,"11"
+"Anura","Bufonidae","duttaphrynus_stomaticus",22,44,"11"
+"Anura","Bufonidae","duttaphrynus_stomaticus",22,NA,"11"
+"Anura","Bufonidae","epidalea_calamita",22,44,"11"
+"Anura","Bufonidae","incilius_alvarius",22,44,"11"
+"Anura","Bufonidae","incilius_bocourti",22,44,"11"
+"Anura","Bufonidae","incilius_canaliferus",22,44,"11"
+"Anura","Bufonidae","incilius_coccifer",22,NA,"11"
+"Anura","Bufonidae","incilius_coniferus",22,44,"11"
+"Anura","Bufonidae","incilius_holdridgei",22,44,"11"
+"Anura","Bufonidae","incilius_luetkenii",22,44,"11"
+"Anura","Bufonidae","incilius_marmoreus",22,44,"11"
+"Anura","Bufonidae","incilius_mazatlanensis",22,NA,"11"
+"Anura","Bufonidae","incilius_occidentalis",22,44,"11"
+"Anura","Bufonidae","incilius_perplexus",22,44,"11"
+"Anura","Bufonidae","incilius_valliceps",22,44,"11"
+"Anura","Bufonidae","ingerophrynus_biporcatus",22,NA,"11"
+"Anura","Bufonidae","ingerophrynus_parvus",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_atroluteus",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_cf_tumifrons",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_cupreuscapularis",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_devincenzii",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_fulvoguttatus",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_klappenbachi",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_krauczuki",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_montevidensis",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_moreirae",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_pachyrhynus",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_paraguayensis",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_rubriventris",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_sanmartini",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_sp_aff_montevidensis",22,44,"11"
+"Anura","Bufonidae","melanophryniscus_stelzneri",22,44,"11"
+"Anura","Bufonidae","mertensophryne_anotis",22,NA,"11"
+"Anura","Bufonidae","nannophryne_variegata",22,44,"11"
+"Anura","Bufonidae","nectophryne_afra",22,44,"11"
+"Anura","Bufonidae","nectophrynoides_tornieri",22,44,"11"
+"Anura","Bufonidae","nimbaphrynoides_occidentalis",22,44,"11"
+"Anura","Bufonidae","phrynoidis_asper",22,NA,"11"
+"Anura","Bufonidae","poyntonophrynus_fenoulheti",22,NA,"11"
+"Anura","Bufonidae","rentapia_hosii",22,44,"11"
+"Anura","Bufonidae","rhaebo_blombergi",22,NA,"11"
+"Anura","Bufonidae","rhaebo_blombergi",22,44,"11"
+"Anura","Bufonidae","rhaebo_haematiticus",22,44,"11"
+"Anura","Bufonidae","rhinella_achavali",22,44,"11"
+"Anura","Bufonidae","rhinella_arenarum",22,44,"11"
+"Anura","Bufonidae","rhinella_arunco",22,44,"11"
+"Anura","Bufonidae","rhinella_atacamensis",22,44,"11"
+"Anura","Bufonidae","rhinella_crucifer",22,44,"11"
+"Anura","Bufonidae","rhinella_diptycha",22,44,"11"
+"Anura","Bufonidae","rhinella_diptycha",22,44,"11"
+"Anura","Bufonidae","rhinella_dorbignyi",22,NA,"11"
+"Anura","Bufonidae","rhinella_fernandezae",22,44,"11"
+"Anura","Bufonidae","rhinella_fernandezae",22,NA,"11"
+"Anura","Bufonidae","rhinella_granulosa",22,44,"11"
+"Anura","Bufonidae","rhinella_icterica",22,44,"11"
+"Anura","Bufonidae","rhinella_icterica",22,NA,"11"
+"Anura","Bufonidae","rhinella_jimi",22,44,"11"
+"Anura","Bufonidae","rhinella_marina",22,44,"11"
+"Anura","Bufonidae","rhinella_poeppigii",22,44,"11"
+"Anura","Bufonidae","rhinella_rubescens",22,44,"11"
+"Anura","Bufonidae","rhinella_rubropunctata",22,44,"11"
+"Anura","Bufonidae","rhinella_spinulosa",22,44,"11"
+"Anura","Bufonidae","schismaderma_carens",22,44,"11"
+"Anura","Bufonidae","sclerophrys_asmarae",40,NA,"20"
+"Anura","Bufonidae","sclerophrys_blanfordii",20,NA,"10"
+"Anura","Bufonidae","sclerophrys_brauni",20,40,"10"
+"Anura","Bufonidae","sclerophrys_camerunensis",20,NA,"10"
+"Anura","Bufonidae","sclerophrys_capensis",20,40,"10"
+"Anura","Bufonidae","sclerophrys_danielae",20,40,"10"
+"Anura","Bufonidae","sclerophrys_garmani",20,40,"10"
+"Anura","Bufonidae","sclerophrys_gracilipes",22,NA,"11"
+"Anura","Bufonidae","sclerophrys_gutturalis",20,40,"10"
+"Anura","Bufonidae","sclerophrys_kerinyagae",20,NA,"10"
+"Anura","Bufonidae","sclerophrys_latifrons",20,40,"10"
+"Anura","Bufonidae","sclerophrys_maculata",20,40,"10"
+"Anura","Bufonidae","sclerophrys_mauritanica",22,44,"11"
+"Anura","Bufonidae","sclerophrys_pardalis",22,NA,"11"
+"Anura","Bufonidae","sclerophrys_perreti",20,40,"10"
+"Anura","Bufonidae","sclerophrys_poweri",20,40,"10"
+"Anura","Bufonidae","sclerophrys_poweri",30,NA,"15"
+"Anura","Bufonidae","sclerophrys_pusilla",20,NA,"10"
+"Anura","Bufonidae","sclerophrys_regularis",20,40,"10"
+"Anura","Bufonidae","sclerophrys_steindachneri",20,NA,"10"
+"Anura","Bufonidae","sclerophrys_superciliaris",20,NA,"10"
+"Anura","Bufonidae","sclerophrys_tihamica",22,44,"11"
+"Anura","Bufonidae","sclerophrys_xeros",20,40,"10"
+"Anura","Bufonidae","strauchbufo_raddei",22,44,"11"
+"Anura","Bufonidae","vandijkophrynus_gariepensis",22,44,"11"
+"Anura","Bufonidae","vandijkophrynus_inyangae",22,NA,"11"
+"Anura","Bufonidae","werneria_preussi",22,NA,"11"
+"Anura","Bufonidae","xanthophryne_koynayensis",22,NA,"11"
+"Anura","Calyptocephalellidae","calyptocephalella_gayi",26,52,"13"
+"Anura","Calyptocephalellidae","telmatobufo_australis",26,NA,"13"
+"Anura","Calyptocephalellidae","telmatobufo_bullocki",26,NA,"13"
+"Anura","Calyptocephalellidae","telmatobufo_ignotus",26,52,"13"
+"Anura","Calyptocephalellidae","telmatobufo_venustus",26,NA,"13"
+"Anura","Centrolenidae","centrolene_buckleyi",20,NA,"10"
+"Anura","Centrolenidae","cochranella_granulosa",20,40,"10"
+"Anura","Centrolenidae","espadarana_prosoblepon",20,NA,"10"
+"Anura","Centrolenidae","espadarana_prosoblepon",20,40,"10"
+"Anura","Centrolenidae","hyalinobatrachium_colymbiphyllum",20,40,"10"
+"Anura","Centrolenidae","hyalinobatrachium_duranti",20,40,"10"
+"Anura","Centrolenidae","hyalinobatrachium_fleischmanni",20,40,"10"
+"Anura","Centrolenidae","hyalinobatrachium_fragile",20,40,"10"
+"Anura","Centrolenidae","hyalinobatrachium_orientale",20,40,"10"
+"Anura","Centrolenidae","hyalinobatrachium_valerioi",20,40,"10"
+"Anura","Centrolenidae","sachatamia_albomaculata",20,NA,"10"
+"Anura","Centrolenidae","teratohyla_amelie",20,40,"10"
+"Anura","Centrolenidae","teratohyla_midas",20,40,"10"
+"Anura","Centrolenidae","teratohyla_pulverata",20,40,"10"
+"Anura","Centrolenidae","teratohyla_spinosa",20,40,"10"
+"Anura","Centrolenidae","vitreorana_antisthenesi",20,40,"10"
+"Anura","Centrolenidae","vitreorana_eurygnatha",20,40,"10"
+"Anura","Ceratobatrachidae","cornufer_papuensis",22,44,"11"
+"Anura","Ceratobatrachidae","platymantis_dorsalis",20,40,"10"
+"Anura","Ceratobatrachidae","platymantis_hazelae",26,52,"13"
+"Anura","Ceratophryidae","ceratophrys_aurita",26,NA,"13"
+"Anura","Ceratophryidae","ceratophrys_aurita",104,208,"52"
+"Anura","Ceratophryidae","ceratophrys_aurita",104,NA,"52"
+"Anura","Ceratophryidae","ceratophrys_calcarata",26,52,"13"
+"Anura","Ceratophryidae","ceratophrys_cranwelli",26,52,"13"
+"Anura","Ceratophryidae","ceratophrys_joazeirensis",104,NA,"52"
+"Anura","Ceratophryidae","ceratophrys_ornata",26,52,"13"
+"Anura","Ceratophryidae","ceratophrys_ornata",104,208,"52"
+"Anura","Ceratophryidae","chacophrys_pierottii",26,NA,"13"
+"Anura","Ceratophryidae","lepidobatrachus_asper",26,NA,"13"
+"Anura","Ceratophryidae","lepidobatrachus_laevis",26,NA,"13"
+"Anura","Ceratophryidae","lepidobatrachus_llanensis",26,NA,"13"
+"Anura","Conrauidae","conraua_crassipes",26,52,"13"
+"Anura","Craugastoridae","barycholos_cf_ternetzi",22,38,"11"
+"Anura","Craugastoridae","barycholos_ternetzi",22,38,"11"
+"Anura","Craugastoridae","craugastor_andi",22,38,"11"
+"Anura","Craugastoridae","craugastor_angelicus",20,36,"10"
+"Anura","Craugastoridae","craugastor_augusti",22,36,"11"
+"Anura","Craugastoridae","craugastor_augusti",22,NA,"11"
+"Anura","Craugastoridae","craugastor_berkenbuschii",22,36,"11"
+"Anura","Craugastoridae","craugastor_bransfordii",20,36,"10"
+"Anura","Craugastoridae","craugastor_bransfordii",18,36,"9"
+"Anura","Craugastoridae","craugastor_bransfordii",20,40,"10"
+"Anura","Craugastoridae","craugastor_bransfordii",18,36,"9"
+"Anura","Craugastoridae","craugastor_bransfordii",20,40,"10"
+"Anura","Craugastoridae","craugastor_crassidigitus",22,40,"11"
+"Anura","Craugastoridae","craugastor_crassidigitus",22,38,"11"
+"Anura","Craugastoridae","craugastor_crassidigitus",22,38,"11"
+"Anura","Craugastoridae","craugastor_crassidigitus",22,40,"11"
+"Anura","Craugastoridae","craugastor_crassidigitus",22,36,"11"
+"Anura","Craugastoridae","craugastor_decoratus",22,NA,"11"
+"Anura","Craugastoridae","craugastor_emcelae",22,36,"11"
+"Anura","Craugastoridae","craugastor_escoces",20,NA,"10"
+"Anura","Craugastoridae","craugastor_escoces",20,36,"10"
+"Anura","Craugastoridae","craugastor_fitzingeri",22,38,"11"
+"Anura","Craugastoridae","craugastor_fitzingeri",22,36,"11"
+"Anura","Craugastoridae","craugastor_fleischmanni",20,36,"10"
+"Anura","Craugastoridae","craugastor_gollmeri",22,36,"11"
+"Anura","Craugastoridae","craugastor_greggi",22,40,"11"
+"Anura","Craugastoridae","craugastor_gulosus",20,NA,"10"
+"Anura","Craugastoridae","craugastor_gulosus",20,38,"10"
+"Anura","Craugastoridae","craugastor_loki",18,36,"9"
+"Anura","Craugastoridae","craugastor_longirostris",22,38,"11"
+"Anura","Craugastoridae","craugastor_longirostris",22,36,"11"
+"Anura","Craugastoridae","craugastor_megacephalus",20,36,"10"
+"Anura","Craugastoridae","craugastor_megacephalus",20,38,"10"
+"Anura","Craugastoridae","craugastor_melanostictus",22,36,"11"
+"Anura","Craugastoridae","craugastor_melanostictus",22,38,"11"
+"Anura","Craugastoridae","craugastor_milesi",22,44,"11"
+"Anura","Craugastoridae","craugastor_mimus",20,36,"10"
+"Anura","Craugastoridae","craugastor_obesus",22,36,"11"
+"Anura","Craugastoridae","craugastor_opimus",20,NA,"10"
+"Anura","Craugastoridae","craugastor_opimus",20,36,"10"
+"Anura","Craugastoridae","craugastor_podiciferus",18,36,"9"
+"Anura","Craugastoridae","craugastor_punctariolus",24,36,"12"
+"Anura","Craugastoridae","craugastor_punctariolus",20,36,"10"
+"Anura","Craugastoridae","craugastor_raniformis",22,38,"11"
+"Anura","Craugastoridae","craugastor_ranoides",22,NA,"11"
+"Anura","Craugastoridae","craugastor_ranoides",20,36,"10"
+"Anura","Craugastoridae","craugastor_rayo",22,36,"11"
+"Anura","Craugastoridae","craugastor_rhodopis",18,36,"9"
+"Anura","Craugastoridae","craugastor_rhyacobatrachus",20,36,"10"
+"Anura","Craugastoridae","craugastor_rugosus",20,38,"10"
+"Anura","Craugastoridae","craugastor_rugulosus",22,36,"11"
+"Anura","Craugastoridae","craugastor_rugulosus",20,36,"10"
+"Anura","Craugastoridae","craugastor_stejnegerianus",18,36,"9"
+"Anura","Craugastoridae","craugastor_talamancae",22,36,"11"
+"Anura","Craugastoridae","craugastor_talamancae",22,34,"11"
+"Anura","Craugastoridae","craugastor_taurus",20,36,"10"
+"Anura","Craugastoridae","craugastor_underwoodi",18,36,"9"
+"Anura","Craugastoridae","craugastor_vocalis",22,NA,"11"
+"Anura","Craugastoridae","euparkerella_brasiliensis",20,40,"10"
+"Anura","Craugastoridae","haddadus_binotatus",22,38,"11"
+"Anura","Craugastoridae","holoaden_bradei",18,36,"9"
+"Anura","Craugastoridae","holoaden_luederwaldti",27,NA,"13.5"
+"Anura","Craugastoridae","holoaden_luederwaldti",18,34,"9"
+"Anura","Craugastoridae","oreobates_barituensis",22,44,"11"
+"Anura","Craugastoridae","oreobates_berdemenos",22,44,"11"
+"Anura","Craugastoridae","oreobates_crepitans",22,44,"11"
+"Anura","Craugastoridae","oreobates_discoidalis",22,NA,"11"
+"Anura","Craugastoridae","oreobates_discoidalis",22,44,"11"
+"Anura","Craugastoridae","pristimantis_aff_dundeei",28,28,"14"
+"Anura","Craugastoridae","pristimantis_altae",26,46,"13"
+"Anura","Craugastoridae","pristimantis_altamazonicus",34,36,"17"
+"Anura","Craugastoridae","pristimantis_boconoensis",32,NA,"16"
+"Anura","Craugastoridae","pristimantis_bogotensis",34,36,"17"
+"Anura","Craugastoridae","pristimantis_caryophyllaceus",32,32,"16"
+"Anura","Craugastoridae","pristimantis_charlottevillensis",36,36,"18"
+"Anura","Craugastoridae","pristimantis_conspicillatus",34,40,"17"
+"Anura","Craugastoridae","pristimantis_conspicillatus",34,36,"17"
+"Anura","Craugastoridae","pristimantis_cruentus",32,32,"16"
+"Anura","Craugastoridae","pristimantis_cruentus",20,36,"10"
+"Anura","Craugastoridae","pristimantis_curtipes",34,NA,"17"
+"Anura","Craugastoridae","pristimantis_duellmani",36,NA,"18"
+"Anura","Craugastoridae","pristimantis_dundeei",28,28,"14"
+"Anura","Craugastoridae","pristimantis_euphronides",32,34,"16"
+"Anura","Craugastoridae","pristimantis_euphronides",32,32,"16"
+"Anura","Craugastoridae","pristimantis_fenestratus",34,34,"17"
+"Anura","Craugastoridae","pristimantis_gaigei",34,NA,"17"
+"Anura","Craugastoridae","pristimantis_hoogmoedi",26,NA,"13"
+"Anura","Craugastoridae","pristimantis_lacrimosus",34,36,"17"
+"Anura","Craugastoridae","pristimantis_lanthanites",36,NA,"18"
+"Anura","Craugastoridae","pristimantis_lanthanites",36,36,"18"
+"Anura","Craugastoridae","pristimantis_nubisilva",36,NA,"18"
+"Anura","Craugastoridae","pristimantis_paulodutrai",22,NA,"11"
+"Anura","Craugastoridae","pristimantis_paulodutrai",30,32,"15"
+"Anura","Craugastoridae","pristimantis_paulodutrai",30,30,"15"
+"Anura","Craugastoridae","pristimantis_pulvinatus",36,NA,"18"
+"Anura","Craugastoridae","pristimantis_ramagii",30,30,"15"
+"Anura","Craugastoridae","pristimantis_ridens",34,36,"17"
+"Anura","Craugastoridae","pristimantis_riveroi",36,36,"18"
+"Anura","Craugastoridae","pristimantis_riveroi",35,36,"17.5"
+"Anura","Craugastoridae","pristimantis_shrevei",32,36,"16"
+"Anura","Craugastoridae","pristimantis_shrevei",32,32,"16"
+"Anura","Craugastoridae","pristimantis_sp_n_h",36,NA,"18"
+"Anura","Craugastoridae","pristimantis_sp_n_h",35,NA,"17.5"
+"Anura","Craugastoridae","pristimantis_terraebolivaris",36,NA,"18"
+"Anura","Craugastoridae","pristimantis_terraebolivaris",36,36,"18"
+"Anura","Craugastoridae","pristimantis_unistrigatus",34,NA,"17"
+"Anura","Craugastoridae","pristimantis_unistrigatus",33,NA,"16.5"
+"Anura","Craugastoridae","pristimantis_urichi",30,NA,"15"
+"Anura","Craugastoridae","pristimantis_variabilis",34,36,"17"
+"Anura","Craugastoridae","pristimantis_variabilis",34,NA,"17"
+"Anura","Craugastoridae","pristimantis_ventrimarmoratus",36,36,"18"
+"Anura","Craugastoridae","strabomantis_biporcatus",36,42,"18"
+"Anura","Craugastoridae","strabomantis_biporcatus",35,42,"17.5"
+"Anura","Craugastoridae","strabomantis_biporcatus",20,NA,"10"
+"Anura","Craugastoridae","strabomantis_biporcatus",36,42,"18"
+"Anura","Craugastoridae","strabomantis_biporcatus",36,42,"18"
+"Anura","Craugastoridae","strabomantis_bufoniformis",22,NA,"11"
+"Anura","Craugastoridae","strabomantis_sulcatus",22,38,"11"
+"Anura","Cycloramphidae","cycloramphus_acangatan",26,52,"13"
+"Anura","Cycloramphidae","cycloramphus_asper",26,52,"13"
+"Anura","Cycloramphidae","cycloramphus_boraceiensis",26,50,"13"
+"Anura","Cycloramphidae","cycloramphus_brasiliensis",26,52,"13"
+"Anura","Cycloramphidae","cycloramphus_carvalhoi",26,52,"13"
+"Anura","Cycloramphidae","cycloramphus_dubius",26,50,"13"
+"Anura","Cycloramphidae","cycloramphus_eleutherodactylus",26,50,"13"
+"Anura","Cycloramphidae","cycloramphus_fuliginosus",26,52,"13"
+"Anura","Cycloramphidae","cycloramphus_lutzorum",26,52,"13"
+"Anura","Cycloramphidae","cycloramphus_rhyakonastes",26,52,"13"
+"Anura","Cycloramphidae","thoropa_miliaris",26,52,"13"
+"Anura","Cycloramphidae","zachaenus_parvulus",26,52,"13"
+"Anura","Dendrobatidae","adelphobates_castaneoticus",18,36,"9"
+"Anura","Dendrobatidae","adelphobates_galactonotus",18,36,"9"
+"Anura","Dendrobatidae","adelphobates_quinquevittatus",20,38,"10"
+"Anura","Dendrobatidae","adelphobates_quinquevittatus",18,36,"9"
+"Anura","Dendrobatidae","ameerega_bilinguis",24,48,"12"
+"Anura","Dendrobatidae","ameerega_flavopicta",24,42,"12"
+"Anura","Dendrobatidae","ameerega_hahneli",24,42,"12"
+"Anura","Dendrobatidae","ameerega_hahneli",24,48,"12"
+"Anura","Dendrobatidae","ameerega_picta",24,48,"12"
+"Anura","Dendrobatidae","ameerega_picta",24,44,"12"
+"Anura","Dendrobatidae","ameerega_trivittata",24,44,"12"
+"Anura","Dendrobatidae","ameerega_trivittata",24,NA,"12"
+"Anura","Dendrobatidae","andinobates_opisthomelas",22,42,"11"
+"Anura","Dendrobatidae","colostethus_femoralis",24,48,"12"
+"Anura","Dendrobatidae","colostethus_inguinalis",24,NA,"12"
+"Anura","Dendrobatidae","colostethus_sp_1",22,NA,"11"
+"Anura","Dendrobatidae","colostethus_sp_2",22,NA,"11"
+"Anura","Dendrobatidae","dendrobates_auratus",18,36,"9"
+"Anura","Dendrobatidae","dendrobates_tinctorius",18,36,"9"
+"Anura","Dendrobatidae","dendrobates_truncatus",18,36,"9"
+"Anura","Dendrobatidae","hyloxalus_subpunctatus",24,38,"12"
+"Anura","Dendrobatidae","hyloxalus_vertebralis",24,48,"12"
+"Anura","Dendrobatidae","leucostethus_fraterdanieli",24,40,"12"
+"Anura","Dendrobatidae","oophaga_granulifera",20,40,"10"
+"Anura","Dendrobatidae","oophaga_histrionica",20,40,"10"
+"Anura","Dendrobatidae","oophaga_pumilio",20,40,"10"
+"Anura","Dendrobatidae","oophaga_pumilio",20,NA,"10"
+"Anura","Dendrobatidae","phyllobates_lugubris",24,44,"12"
+"Anura","Dicroglossidae","euphlyctis_cyanophlyctis",26,52,"13"
+"Anura","Dicroglossidae","euphlyctis_hexadactylus",26,NA,"13"
+"Anura","Dicroglossidae","fejervarya_cancrivora",26,NA,"13"
+"Anura","Dicroglossidae","fejervarya_cf_limnocharis",26,52,"13"
+"Anura","Dicroglossidae","fejervarya_limnocharis",26,52,"13"
+"Anura","Dicroglossidae","fejervarya_limnocharis",26,NA,"13"
+"Anura","Dicroglossidae","fejervarya_limnocharis",26,52,"13"
+"Anura","Dicroglossidae","fejervarya_multistriata",26,52,"13"
+"Anura","Dicroglossidae","hoplobatrachus_crassus",26,NA,"13"
+"Anura","Dicroglossidae","hoplobatrachus_occipitalis",26,52,"13"
+"Anura","Dicroglossidae","hoplobatrachus_occipitalis",52,104,"26"
+"Anura","Dicroglossidae","hoplobatrachus_occipitalis",52,NA,"26"
+"Anura","Dicroglossidae","hoplobatrachus_rugulosus",26,52,"13"
+"Anura","Dicroglossidae","hoplobatrachus_tigerinus",26,52,"13"
+"Anura","Dicroglossidae","hoplobatrachus_tigerinus",26,52,"13"
+"Anura","Dicroglossidae","limnonectes_acanthi",24,NA,"12"
+"Anura","Dicroglossidae","limnonectes_blythii",24,NA,"12"
+"Anura","Dicroglossidae","limnonectes_fujianensis",22,44,"11"
+"Anura","Dicroglossidae","limnonectes_kuhlii",22,44,"11"
+"Anura","Dicroglossidae","limnonectes_macrodon",24,48,"12"
+"Anura","Dicroglossidae","limnonectes_namiyei",22,44,"11"
+"Anura","Dicroglossidae","limnonectes_visayanus",24,NA,"12"
+"Anura","Dicroglossidae","minervarya_cf_brevipalmata",26,52,"13"
+"Anura","Dicroglossidae","minervarya_cf_keralensis",26,52,"13"
+"Anura","Dicroglossidae","minervarya_rufescens",26,52,"13"
+"Anura","Dicroglossidae","minervarya_sahyadris",26,52,"13"
+"Anura","Dicroglossidae","nanorana_chayuensis",26,52,"13"
+"Anura","Dicroglossidae","nanorana_maculosa",26,52,"13"
+"Anura","Dicroglossidae","nanorana_parkeri",26,52,"13"
+"Anura","Dicroglossidae","nanorana_phrynoides",64,NA,"32"
+"Anura","Dicroglossidae","nanorana_pleskei",26,52,"13"
+"Anura","Dicroglossidae","nanorana_quadranus",26,52,"13"
+"Anura","Dicroglossidae","nanorana_sichuanensis",64,64,"32"
+"Anura","Dicroglossidae","nanorana_taihangnica",26,52,"13"
+"Anura","Dicroglossidae","nanorana_unculuanus",40,78,"20"
+"Anura","Dicroglossidae","nanorana_ventripunctata",26,52,"13"
+"Anura","Dicroglossidae","nanorana_yunnanensis",64,64,"32"
+"Anura","Dicroglossidae","occidozyga_laevis",26,52,"13"
+"Anura","Dicroglossidae","occidozyga_lima",26,52,"13"
+"Anura","Dicroglossidae","occidozyga_lima",26,NA,"13"
+"Anura","Dicroglossidae","occidozyga_martensii",26,52,"13"
+"Anura","Dicroglossidae","quasipaa_boulengeri",26,50,"13"
+"Anura","Dicroglossidae","quasipaa_boulengeri",26,52,"13"
+"Anura","Dicroglossidae","quasipaa_boulengeri",26,NA,"13"
+"Anura","Dicroglossidae","quasipaa_exilispinosa",26,52,"13"
+"Anura","Dicroglossidae","quasipaa_jiulongensis",26,52,"13"
+"Anura","Dicroglossidae","quasipaa_spinosa",26,52,"13"
+"Anura","Dicroglossidae","quasipaa_yei",26,52,"13"
+"Anura","Eleutherodactylidae","diasporus_diastema",20,36,"10"
+"Anura","Eleutherodactylidae","diasporus_diastema",18,36,"9"
+"Anura","Eleutherodactylidae","diasporus_vocator",18,31,"9"
+"Anura","Eleutherodactylidae","eleutherodactylus_abbotti",18,36,"9"
+"Anura","Eleutherodactylidae","eleutherodactylus_alticola",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_amplinympha",28,34,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_andrewsi",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_antillensis",26,50,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_antillensis",26,46,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_antillensis",26,52,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_atkinsi",28,36,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_auriculatus",18,36,"9"
+"Anura","Eleutherodactylidae","eleutherodactylus_bakeri",28,32,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_bakeri",27,32,"13.5"
+"Anura","Eleutherodactylidae","eleutherodactylus_brittoni",26,42,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_brittoni",26,52,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_cavernicola",30,36,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_cochranae",26,42,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_cooki",26,50,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_coqui",26,52,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_cubanus",22,44,"11"
+"Anura","Eleutherodactylidae","eleutherodactylus_cundalli",30,36,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_cundalli",29,36,"14.5"
+"Anura","Eleutherodactylidae","eleutherodactylus_cuneatus",32,NA,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_dimidiatus",30,32,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_eneidae",26,52,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_fuscus",28,38,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_glandulifer",31,32,"15.5"
+"Anura","Eleutherodactylidae","eleutherodactylus_glaucoreius",30,36,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_glaucoreius",29,36,"14.5"
+"Anura","Eleutherodactylidae","eleutherodactylus_goini",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_gossei",26,38,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_grabhami",30,56,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_griphus",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_gryllus",26,50,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_hedricki",26,46,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_hedricki",26,52,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_heminota",28,32,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_heminota",27,32,"13.5"
+"Anura","Eleutherodactylidae","eleutherodactylus_heminota",30,NA,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_ionthus",26,NA,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_jamaicensis",30,42,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_jasperi",26,NA,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_johnstonei",28,36,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_junori",24,38,"12"
+"Anura","Eleutherodactylidae","eleutherodactylus_karlschmidti",30,40,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_klinikowskii",32,38,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_leprus",26,36,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_limbatus",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_locustus",26,48,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_luteolus",28,30,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_mariposa",22,NA,"11"
+"Anura","Eleutherodactylidae","eleutherodactylus_marnockii",26,NA,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_martinicensis",28,34,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_nitidus",22,NA,"11"
+"Anura","Eleutherodactylidae","eleutherodactylus_nortoni",30,NA,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_nubicola",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_orcutti",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_pantoni",26,36,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_patriciae",22,34,"11"
+"Anura","Eleutherodactylidae","eleutherodactylus_pentasyringos",28,36,"14"
+"Anura","Eleutherodactylidae","eleutherodactylus_planirostris",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_planirostris",32,38,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_planirostris_goinii",32,NA,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_planirostris_planirostris",32,NA,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_portoricensis",26,52,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_portoricensis",26,42,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_richmondi",30,48,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_riparius",32,36,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_sisyphodemus",32,46,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_sp_1",26,NA,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_sp_2",22,40,"11"
+"Anura","Eleutherodactylidae","eleutherodactylus_unicolor",30,36,"15"
+"Anura","Eleutherodactylidae","eleutherodactylus_varians",18,36,"9"
+"Anura","Eleutherodactylidae","eleutherodactylus_varians",34,36,"17"
+"Anura","Eleutherodactylidae","eleutherodactylus_varleyi",32,NA,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_wightmanae",26,50,"13"
+"Anura","Eleutherodactylidae","eleutherodactylus_zugi",32,38,"16"
+"Anura","Eleutherodactylidae","eleutherodactylus_zugi",30,36,"15"
+"Anura","Eleutherodactylidae","syrrhophus_marnocki",30,36,"15"
+"Anura","Heleophrynidae","heleophryne_purcelli",26,52,"13"
+"Anura","Hemiphractidae","cryptobatrachus_boulengeri",26,52,"13"
+"Anura","Hemiphractidae","flectonotus_fitzgeraldi",28,28,"14"
+"Anura","Hemiphractidae","flectonotus_pygmaeus",28,NA,"14"
+"Anura","Hemiphractidae","flectonotus_pygmaeus",28,28,"14"
+"Anura","Hemiphractidae","fritziana_fissilis",30,44,"15"
+"Anura","Hemiphractidae","fritziana_goeldii",26,42,"13"
+"Anura","Hemiphractidae","fritziana_ohausi",28,44,"14"
+"Anura","Hemiphractidae","gastrotheca_andaquiensis",26,46,"13"
+"Anura","Hemiphractidae","gastrotheca_cornuta",28,NA,"14"
+"Anura","Hemiphractidae","gastrotheca_espeletia",26,36,"13"
+"Anura","Hemiphractidae","gastrotheca_fissipes",26,NA,"13"
+"Anura","Hemiphractidae","gastrotheca_gracilis",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_griswoldi",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_megacephala",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_microdiscus",24,NA,"12"
+"Anura","Hemiphractidae","gastrotheca_monticola",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_nicefori",26,50,"13"
+"Anura","Hemiphractidae","gastrotheca_ovifera",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_peruana",26,50,"13"
+"Anura","Hemiphractidae","gastrotheca_pseustes",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_riobambae",26,38,"13"
+"Anura","Hemiphractidae","gastrotheca_sp_a",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_sp_b",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_sp_c",26,52,"13"
+"Anura","Hemiphractidae","gastrotheca_walkeri",26,48,"13"
+"Anura","Hemiphractidae","stefania_evansi",26,52,"13"
+"Anura","Hemisotidae","hemisus_marmoratus",24,46,"12"
+"Anura","Hemisotidae","hemisus_sp",24,48,"12"
+"Anura","Hylidae","acris_crepitans",22,44,"11"
+"Anura","Hylidae","acris_crepitans_blanchardi",22,NA,"11"
+"Anura","Hylidae","acris_gryllus",22,44,"11"
+"Anura","Hylidae","aparasphenodon_bokermanni",24,48,"12"
+"Anura","Hylidae","aparasphenodon_brunoi",24,48,"12"
+"Anura","Hylidae","aplastodiscus_albofrenatus",22,NA,"11"
+"Anura","Hylidae","aplastodiscus_albofrenatus",24,NA,"12"
+"Anura","Hylidae","aplastodiscus_albofrenatus",22,44,"11"
+"Anura","Hylidae","aplastodiscus_albosignatus",18,36,"9"
+"Anura","Hylidae","aplastodiscus_albosignatus",20,40,"10"
+"Anura","Hylidae","aplastodiscus_albosignatus",20,40,"10"
+"Anura","Hylidae","aplastodiscus_albosignatus",20,40,"10"
+"Anura","Hylidae","aplastodiscus_arildae",22,44,"11"
+"Anura","Hylidae","aplastodiscus_cochranae",24,48,"12"
+"Anura","Hylidae","aplastodiscus_ehrhardti",22,44,"11"
+"Anura","Hylidae","aplastodiscus_eugenioi",22,44,"11"
+"Anura","Hylidae","aplastodiscus_leucopygius",18,36,"9"
+"Anura","Hylidae","aplastodiscus_perviridis",24,48,"12"
+"Anura","Hylidae","boana_aff_semiguttata",24,48,"12"
+"Anura","Hylidae","boana_albomarginata",24,NA,"12"
+"Anura","Hylidae","boana_albomarginata",24,48,"12"
+"Anura","Hylidae","boana_albonigra",24,NA,"12"
+"Anura","Hylidae","boana_albopunctata",22,44,"11"
+"Anura","Hylidae","boana_alemani",24,48,"12"
+"Anura","Hylidae","boana_almendarizae",24,NA,"12"
+"Anura","Hylidae","boana_atlantica",24,48,"12"
+"Anura","Hylidae","boana_bischoffi",24,NA,"12"
+"Anura","Hylidae","boana_bischoffi",24,48,"12"
+"Anura","Hylidae","boana_bischoffi",24,NA,"12"
+"Anura","Hylidae","boana_bischoffi",24,48,"12"
+"Anura","Hylidae","boana_boans",24,48,"12"
+"Anura","Hylidae","boana_boans",24,NA,"12"
+"Anura","Hylidae","boana_caingua",24,NA,"12"
+"Anura","Hylidae","boana_caingua",24,NA,"12"
+"Anura","Hylidae","boana_calcarata",24,48,"12"
+"Anura","Hylidae","boana_cf_alfaroi",22,NA,"11"
+"Anura","Hylidae","boana_cf_lanciformis",24,NA,"12"
+"Anura","Hylidae","boana_cf_semilineata",24,NA,"12"
+"Anura","Hylidae","boana_cinerascens",24,NA,"12"
+"Anura","Hylidae","boana_cinerascens",24,48,"12"
+"Anura","Hylidae","boana_cinerascens",24,NA,"12"
+"Anura","Hylidae","boana_cipoensis",24,NA,"12"
+"Anura","Hylidae","boana_cordobae",24,48,"12"
+"Anura","Hylidae","boana_cordobae",24,NA,"12"
+"Anura","Hylidae","boana_crepitans",24,48,"12"
+"Anura","Hylidae","boana_curupi",24,NA,"12"
+"Anura","Hylidae","boana_faber",24,NA,"12"
+"Anura","Hylidae","boana_faber",24,48,"12"
+"Anura","Hylidae","boana_faber",24,NA,"12"
+"Anura","Hylidae","boana_fasciata",24,NA,"12"
+"Anura","Hylidae","boana_geographica",24,48,"12"
+"Anura","Hylidae","boana_guentheri",24,48,"12"
+"Anura","Hylidae","boana_heilprini",24,NA,"12"
+"Anura","Hylidae","boana_joaquini",24,48,"12"
+"Anura","Hylidae","boana_joaquini",24,NA,"12"
+"Anura","Hylidae","boana_lanciformis",22,44,"11"
+"Anura","Hylidae","boana_leucocheila",22,NA,"11"
+"Anura","Hylidae","boana_lundii",24,48,"12"
+"Anura","Hylidae","boana_marginata",24,48,"12"
+"Anura","Hylidae","boana_marianitae",24,NA,"12"
+"Anura","Hylidae","boana_multifasciata",24,48,"12"
+"Anura","Hylidae","boana_multifasciata",22,NA,"11"
+"Anura","Hylidae","boana_multifasciata",24,NA,"12"
+"Anura","Hylidae","boana_pardalis",24,NA,"12"
+"Anura","Hylidae","boana_pardalis",24,48,"12"
+"Anura","Hylidae","boana_pellucens",24,NA,"12"
+"Anura","Hylidae","boana_polytaenia",24,48,"12"
+"Anura","Hylidae","boana_pombali",24,48,"12"
+"Anura","Hylidae","boana_prasina",24,NA,"12"
+"Anura","Hylidae","boana_pulchella",24,48,"12"
+"Anura","Hylidae","boana_pulchella",24,NA,"12"
+"Anura","Hylidae","boana_pulchella",24,48,"12"
+"Anura","Hylidae","boana_punctata",24,48,"12"
+"Anura","Hylidae","boana_punctata",24,NA,"12"
+"Anura","Hylidae","boana_raniceps",24,NA,"12"
+"Anura","Hylidae","boana_raniceps",24,48,"12"
+"Anura","Hylidae","boana_riojana",24,NA,"12"
+"Anura","Hylidae","boana_rosenbergi",24,NA,"12"
+"Anura","Hylidae","boana_rufitela",24,NA,"12"
+"Anura","Hylidae","boana_semiguttata",24,48,"12"
+"Anura","Hylidae","boana_semilineata",24,48,"12"
+"Anura","Hylidae","boana_stellae",24,NA,"12"
+"Anura","Hylidae","boana_wavrini",24,48,"12"
+"Anura","Hylidae","boana_wavrini",24,NA,"12"
+"Anura","Hylidae","bokermannohyla_aff_circumdata",24,NA,"12"
+"Anura","Hylidae","bokermannohyla_ahenea",24,48,"12"
+"Anura","Hylidae","bokermannohyla_alvarengai",24,48,"12"
+"Anura","Hylidae","bokermannohyla_circumdata",24,48,"12"
+"Anura","Hylidae","bokermannohyla_hylax",24,48,"12"
+"Anura","Hylidae","bokermannohyla_ibitiguara",24,48,"12"
+"Anura","Hylidae","bokermannohyla_luctuosa",24,48,"12"
+"Anura","Hylidae","bokermannohyla_martinsi",24,48,"12"
+"Anura","Hylidae","bokermannohyla_saxicola",24,48,"12"
+"Anura","Hylidae","bokermannohyla_sp_1",24,48,"12"
+"Anura","Hylidae","bokermannohyla_sp_2",24,48,"12"
+"Anura","Hylidae","bokermannohyla_sp_3",24,48,"12"
+"Anura","Hylidae","bokermannohyla_sp_4",24,48,"12"
+"Anura","Hylidae","charadrahyla_chaneque",24,NA,"12"
+"Anura","Hylidae","corythomantis_greeningi",24,48,"12"
+"Anura","Hylidae","dendropsophus_anceps",30,58,"15"
+"Anura","Hylidae","dendropsophus_berthalutzae",30,52,"15"
+"Anura","Hylidae","dendropsophus_bipunctatus",30,58,"15"
+"Anura","Hylidae","dendropsophus_cruzi",30,54,"15"
+"Anura","Hylidae","dendropsophus_decipiens",30,56,"15"
+"Anura","Hylidae","dendropsophus_ebraccatus",30,NA,"15"
+"Anura","Hylidae","dendropsophus_elegans",30,56,"15"
+"Anura","Hylidae","dendropsophus_elegans",30,52,"15"
+"Anura","Hylidae","dendropsophus_elianeae",30,54,"15"
+"Anura","Hylidae","dendropsophus_jimi",30,50,"15"
+"Anura","Hylidae","dendropsophus_leali",30,58,"15"
+"Anura","Hylidae","dendropsophus_leucophyllatus",30,52,"15"
+"Anura","Hylidae","dendropsophus_luteoocellatus",30,54,"15"
+"Anura","Hylidae","dendropsophus_mathiassoni",30,56,"15"
+"Anura","Hylidae","dendropsophus_melanargyreus",30,NA,"15"
+"Anura","Hylidae","dendropsophus_meridianus",30,NA,"15"
+"Anura","Hylidae","dendropsophus_microcephalus",30,NA,"15"
+"Anura","Hylidae","dendropsophus_microcephalus",30,NA,"15"
+"Anura","Hylidae","dendropsophus_microcephalus",30,60,"15"
+"Anura","Hylidae","dendropsophus_microps",30,52,"15"
+"Anura","Hylidae","dendropsophus_minutus",30,60,"15"
+"Anura","Hylidae","dendropsophus_molitor",30,50,"15"
+"Anura","Hylidae","dendropsophus_nahdereri",30,50,"15"
+"Anura","Hylidae","dendropsophus_nanus",30,52,"15"
+"Anura","Hylidae","dendropsophus_novaisi",30,50,"15"
+"Anura","Hylidae","dendropsophus_parviceps",30,52,"15"
+"Anura","Hylidae","dendropsophus_phlebodes",30,NA,"15"
+"Anura","Hylidae","dendropsophus_rhodopeplus",30,58,"15"
+"Anura","Hylidae","dendropsophus_rubicundulus",30,54,"15"
+"Anura","Hylidae","dendropsophus_rubicundulus",30,58,"15"
+"Anura","Hylidae","dendropsophus_rubicundulus",30,56,"15"
+"Anura","Hylidae","dendropsophus_sanborni",30,50,"15"
+"Anura","Hylidae","dendropsophus_seniculus",30,50,"15"
+"Anura","Hylidae","dendropsophus_seniculus",30,50,"15"
+"Anura","Hylidae","dendropsophus_soaresi",30,50,"15"
+"Anura","Hylidae","dendropsophus_sp",30,60,"15"
+"Anura","Hylidae","dendropsophus_sp_1",30,56,"15"
+"Anura","Hylidae","dendropsophus_sp_2",30,50,"15"
+"Anura","Hylidae","dendropsophus_sp_3",30,60,"15"
+"Anura","Hylidae","dendropsophus_sp_4",30,60,"15"
+"Anura","Hylidae","dendropsophus_subocularis",30,NA,"15"
+"Anura","Hylidae","dendropsophus_walfordi",30,52,"15"
+"Anura","Hylidae","dendropsophus_werneri",30,60,"15"
+"Anura","Hylidae","dryophytes_andersonii",24,48,"12"
+"Anura","Hylidae","dryophytes_arenicolor",24,48,"12"
+"Anura","Hylidae","dryophytes_avivoca",24,48,"12"
+"Anura","Hylidae","dryophytes_chrysoscelis",24,48,"12"
+"Anura","Hylidae","dryophytes_chrysoscelis",36,NA,"18"
+"Anura","Hylidae","dryophytes_cinereus",24,48,"12"
+"Anura","Hylidae","dryophytes_euphorbiaceus",24,48,"12"
+"Anura","Hylidae","dryophytes_eximius",24,48,"12"
+"Anura","Hylidae","dryophytes_femoralis",24,48,"12"
+"Anura","Hylidae","dryophytes_femoralis",24,44,"12"
+"Anura","Hylidae","dryophytes_gratiosus",24,48,"12"
+"Anura","Hylidae","dryophytes_immaculatus",24,48,"12"
+"Anura","Hylidae","dryophytes_immaculatus",24,NA,"12"
+"Anura","Hylidae","dryophytes_japonicus",24,48,"12"
+"Anura","Hylidae","dryophytes_japonicus",24,48,"12"
+"Anura","Hylidae","dryophytes_plicatus",24,NA,"12"
+"Anura","Hylidae","dryophytes_squirellus",24,48,"12"
+"Anura","Hylidae","dryophytes_versicolor",48,96,"24"
+"Anura","Hylidae","duellmanohyla_ignicolor",24,NA,"12"
+"Anura","Hylidae","duellmanohyla_rufioculis",24,NA,"12"
+"Anura","Hylidae","duellmanohyla_uranochroa",24,NA,"12"
+"Anura","Hylidae","exerodonta_smaragdina",24,NA,"12"
+"Anura","Hylidae","hyla_annectans",24,NA,"12"
+"Anura","Hylidae","hyla_arborea",24,48,"12"
+"Anura","Hylidae","hyla_chinensis",24,48,"12"
+"Anura","Hylidae","hyla_hallowellii",24,48,"12"
+"Anura","Hylidae","hyla_meridionalis",24,48,"12"
+"Anura","Hylidae","hyla_raniceps",24,NA,"12"
+"Anura","Hylidae","hyla_sanchiangensis",24,48,"12"
+"Anura","Hylidae","hyla_savignyi",24,48,"12"
+"Anura","Hylidae","hyla_tsinlingensis",24,48,"12"
+"Anura","Hylidae","hyloscirtus_alytolylax",20,NA,"10"
+"Anura","Hylidae","hyloscirtus_jahni",24,48,"12"
+"Anura","Hylidae","hyloscirtus_larinopygion",24,NA,"12"
+"Anura","Hylidae","hyloscirtus_palmeri",24,NA,"12"
+"Anura","Hylidae","isthmohyla_angustilineata",24,NA,"12"
+"Anura","Hylidae","isthmohyla_lancasteri",24,48,"12"
+"Anura","Hylidae","isthmohyla_pictipes",24,NA,"12"
+"Anura","Hylidae","isthmohyla_pseudopuma",24,NA,"12"
+"Anura","Hylidae","isthmohyla_rivularis",24,NA,"12"
+"Anura","Hylidae","isthmohyla_tica",24,NA,"12"
+"Anura","Hylidae","isthmohyla_zeteki",24,48,"12"
+"Anura","Hylidae","itapotihyla_langsdorffii",24,48,"12"
+"Anura","Hylidae","julianus_uruguayus",24,48,"12"
+"Anura","Hylidae","lysapsus_laevis",24,NA,"12"
+"Anura","Hylidae","lysapsus_limellum",24,NA,"12"
+"Anura","Hylidae","ololygon_albicans",24,48,"12"
+"Anura","Hylidae","ololygon_arduous",24,48,"12"
+"Anura","Hylidae","ololygon_argyreornata",24,48,"12"
+"Anura","Hylidae","ololygon_ariadne",24,48,"12"
+"Anura","Hylidae","ololygon_aromothyella",24,48,"12"
+"Anura","Hylidae","ololygon_belloni",24,48,"12"
+"Anura","Hylidae","ololygon_berthae",24,48,"12"
+"Anura","Hylidae","ololygon_boulengeri",24,NA,"12"
+"Anura","Hylidae","ololygon_brieni",24,NA,"12"
+"Anura","Hylidae","ololygon_brieni",24,48,"12"
+"Anura","Hylidae","ololygon_caissara",24,48,"12"
+"Anura","Hylidae","ololygon_canastrensis",24,48,"12"
+"Anura","Hylidae","ololygon_catharinae",24,NA,"12"
+"Anura","Hylidae","ololygon_catharinae",24,48,"12"
+"Anura","Hylidae","ololygon_cosenzai",24,48,"12"
+"Anura","Hylidae","ololygon_hiemalis",24,48,"12"
+"Anura","Hylidae","ololygon_littoralis",24,48,"12"
+"Anura","Hylidae","ololygon_longilinea",24,48,"12"
+"Anura","Hylidae","ololygon_obtriangulata",24,48,"12"
+"Anura","Hylidae","ololygon_perpusilla",24,NA,"12"
+"Anura","Hylidae","ololygon_perpusilla",24,48,"12"
+"Anura","Hylidae","ololygon_rizibilis",24,48,"12"
+"Anura","Hylidae","ololygon_trapicheiroi",24,48,"12"
+"Anura","Hylidae","ololygon_tripui",24,48,"12"
+"Anura","Hylidae","ololygon_vsignata",24,48,"12"
+"Anura","Hylidae","osteocephalus_oophagus",24,NA,"12"
+"Anura","Hylidae","osteopilus_ocellatus",34,NA,"17"
+"Anura","Hylidae","osteopilus_ocellatus",34,48,"17"
+"Anura","Hylidae","osteopilus_septentrionalis",24,NA,"12"
+"Anura","Hylidae","osteopilus_septentrionalis",24,48,"12"
+"Anura","Hylidae","phyllodytes_edelmoi",22,44,"11"
+"Anura","Hylidae","phyllodytes_luteolus",22,44,"11"
+"Anura","Hylidae","plectrohyla_ixil",24,NA,"12"
+"Anura","Hylidae","plectrohyla_sagorum",24,NA,"12"
+"Anura","Hylidae","pseudacris_brachyphona",24,48,"12"
+"Anura","Hylidae","pseudacris_brimleyi",26,NA,"13"
+"Anura","Hylidae","pseudacris_brimleyi",24,48,"12"
+"Anura","Hylidae","pseudacris_cadaverina",24,NA,"12"
+"Anura","Hylidae","pseudacris_cadaverina",24,48,"12"
+"Anura","Hylidae","pseudacris_clarkii",24,48,"12"
+"Anura","Hylidae","pseudacris_crucifer",24,48,"12"
+"Anura","Hylidae","pseudacris_feriarum",24,NA,"12"
+"Anura","Hylidae","pseudacris_kalmi",24,NA,"12"
+"Anura","Hylidae","pseudacris_nigrita",24,48,"12"
+"Anura","Hylidae","pseudacris_ocularis_",24,48,"12"
+"Anura","Hylidae","pseudacris_ornata",24,48,"12"
+"Anura","Hylidae","pseudacris_regilla",24,NA,"12"
+"Anura","Hylidae","pseudacris_streckeri",24,48,"12"
+"Anura","Hylidae","pseudacris_triseriata",24,48,"12"
+"Anura","Hylidae","pseudacris_triseriata_triseriata",24,NA,"12"
+"Anura","Hylidae","pseudis_aff_minuta",28,48,"14"
+"Anura","Hylidae","pseudis_bolbodactyla",24,48,"12"
+"Anura","Hylidae","pseudis_fusca",24,48,"12"
+"Anura","Hylidae","pseudis_minuta",24,NA,"12"
+"Anura","Hylidae","pseudis_minuta",24,48,"12"
+"Anura","Hylidae","pseudis_paradoxa",24,48,"12"
+"Anura","Hylidae","pseudis_platensis",24,48,"12"
+"Anura","Hylidae","pseudis_tocantins",24,48,"12"
+"Anura","Hylidae","ptychohyla_legleri",24,NA,"12"
+"Anura","Hylidae","ptychohyla_leonhardschultzei",24,NA,"12"
+"Anura","Hylidae","quilticohyla_erythromma",24,NA,"12"
+"Anura","Hylidae","sarcohyla_arborescandens",24,NA,"12"
+"Anura","Hylidae","sarcohyla_bistincta",24,NA,"12"
+"Anura","Hylidae","sarcohyla_hazelae",24,NA,"12"
+"Anura","Hylidae","sarcohyla_pentheter",24,NA,"12"
+"Anura","Hylidae","sarcohyla_robertsorum",24,NA,"12"
+"Anura","Hylidae","scarthyla_goinorum",22,NA,"11"
+"Anura","Hylidae","scinax_acuminatus",24,48,"12"
+"Anura","Hylidae","scinax_alter",24,48,"12"
+"Anura","Hylidae","scinax_auratus",24,48,"12"
+"Anura","Hylidae","scinax_baumgardneri",24,48,"12"
+"Anura","Hylidae","scinax_boesemani",24,48,"12"
+"Anura","Hylidae","scinax_camposseabrai",24,48,"12"
+"Anura","Hylidae","scinax_curicica",24,48,"12"
+"Anura","Hylidae","scinax_duartei",24,48,"12"
+"Anura","Hylidae","scinax_elaeochroa",24,48,"12"
+"Anura","Hylidae","scinax_eurydice",24,48,"12"
+"Anura","Hylidae","scinax_funereus",24,NA,"12"
+"Anura","Hylidae","scinax_fuscomarginatus",24,NA,"12"
+"Anura","Hylidae","scinax_fuscomarginatus",24,NA,"12"
+"Anura","Hylidae","scinax_fuscomarginatus",24,48,"12"
+"Anura","Hylidae","scinax_fuscovarius",24,48,"12"
+"Anura","Hylidae","scinax_fuscovarius",24,NA,"12"
+"Anura","Hylidae","scinax_fuscovarius",24,48,"12"
+"Anura","Hylidae","scinax_fuscovarius",24,NA,"12"
+"Anura","Hylidae","scinax_garbei",24,NA,"12"
+"Anura","Hylidae","scinax_garbei",24,48,"12"
+"Anura","Hylidae","scinax_granulatus",24,48,"12"
+"Anura","Hylidae","scinax_hayii",24,NA,"12"
+"Anura","Hylidae","scinax_hayii",24,48,"12"
+"Anura","Hylidae","scinax_hayii",24,NA,"12"
+"Anura","Hylidae","scinax_nasicus",24,48,"12"
+"Anura","Hylidae","scinax_pachycrus",24,48,"12"
+"Anura","Hylidae","scinax_perereca",24,48,"12"
+"Anura","Hylidae","scinax_rostratus",24,NA,"12"
+"Anura","Hylidae","scinax_rostratus",24,48,"12"
+"Anura","Hylidae","scinax_ruber",24,NA,"12"
+"Anura","Hylidae","scinax_ruber",24,48,"12"
+"Anura","Hylidae","scinax_similis",24,48,"12"
+"Anura","Hylidae","scinax_sp",24,48,"12"
+"Anura","Hylidae","scinax_squalirostris",24,NA,"12"
+"Anura","Hylidae","scinax_squalirostris",24,48,"12"
+"Anura","Hylidae","scinax_squalirostris",24,NA,"12"
+"Anura","Hylidae","scinax_staufferi",24,48,"12"
+"Anura","Hylidae","scinax_xsignatus",24,48,"12"
+"Anura","Hylidae","smilisca_baudinii",24,48,"12"
+"Anura","Hylidae","smilisca_cyanosticta",24,NA,"12"
+"Anura","Hylidae","smilisca_fodiens",24,48,"12"
+"Anura","Hylidae","smilisca_phaeota",24,NA,"12"
+"Anura","Hylidae","smilisca_puma",24,NA,"12"
+"Anura","Hylidae","smilisca_sila",24,NA,"12"
+"Anura","Hylidae","smilisca_sordida",24,48,"12"
+"Anura","Hylidae","sphaenorhynchus_caramaschii",24,NA,"12"
+"Anura","Hylidae","sphaenorhynchus_carneus",26,NA,"13"
+"Anura","Hylidae","sphaenorhynchus_dorisae",24,NA,"12"
+"Anura","Hylidae","sphaenorhynchus_lacteus",24,NA,"12"
+"Anura","Hylidae","tlalocohyla_loquax",24,NA,"12"
+"Anura","Hylidae","tlalocohyla_smithii",24,NA,"12"
+"Anura","Hylidae","tlalocohyla_smithii",30,52,"15"
+"Anura","Hylidae","trachycephalus_vermiculatus",24,NA,"12"
+"Anura","Hylidae","trachycephalus_mesophaeus",24,48,"12"
+"Anura","Hylidae","trachycephalus_sp",24,48,"12"
+"Anura","Hylidae","trachycephalus_typhonius",24,NA,"12"
+"Anura","Hylidae","trachycephalus_typhonius",24,48,"12"
+"Anura","Hylidae","trachycephalus_typhonius",22,NA,"11"
+"Anura","Hylidae","triprion_petasatus",24,48,"12"
+"Anura","Hylidae","triprion_spatulatus",24,NA,"12"
+"Anura","Hylidae","triprion_spinosus",24,48,"12"
+"Anura","Hylidae","triprion_spinosus",26,NA,"13"
+"Anura","Hylidae","xenohyla_truncata",24,NA,"12"
+"Anura","Hylodidae","crossodactylus_cf_caramaschi",26,52,"13"
+"Anura","Hylodidae","crossodactylus_dispar",26,NA,"13"
+"Anura","Hylodidae","crossodactylus_gaudichaudii",26,52,"13"
+"Anura","Hylodidae","crossodactylus_gaudichaudii",22,NA,"11"
+"Anura","Hylodidae","crossodactylus_grandis",26,52,"13"
+"Anura","Hylodidae","crossodactylus_sp",26,52,"13"
+"Anura","Hylodidae","hylodes_asper",26,52,"13"
+"Anura","Hylodidae","hylodes_glaber",26,NA,"13"
+"Anura","Hylodidae","hylodes_glaber",26,NA,"13"
+"Anura","Hylodidae","hylodes_lateristrigatus",26,NA,"13"
+"Anura","Hylodidae","hylodes_nasus",24,46,"12"
+"Anura","Hylodidae","hylodes_ornatus",26,NA,"13"
+"Anura","Hylodidae","hylodes_phyllodes",26,48,"13"
+"Anura","Hylodidae","megaelosia_boticariana",30,60,"15"
+"Anura","Hylodidae","megaelosia_lutzae",32,58,"16"
+"Anura","Hylodidae","megaelosia_massarti",28,56,"14"
+"Anura","Hyperoliidae","afrixalus_dorsalis",24,48,"12"
+"Anura","Hyperoliidae","afrixalus_fornasini",24,48,"12"
+"Anura","Hyperoliidae","afrixalus_fulvovittatus",24,48,"12"
+"Anura","Hyperoliidae","afrixalus_osorioi",24,NA,"12"
+"Anura","Hyperoliidae","afrixalus_quadrivittatus",24,NA,"12"
+"Anura","Hyperoliidae","afrixalus_uluguruensis",24,NA,"12"
+"Anura","Hyperoliidae","heterixalus_betsileo",24,48,"12"
+"Anura","Hyperoliidae","heterixalus_tricolor",24,48,"12"
+"Anura","Hyperoliidae","hyperolius_argus",26,52,"13"
+"Anura","Hyperoliidae","hyperolius_bolifambae",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_concolor",24,48,"12"
+"Anura","Hyperoliidae","hyperolius_kivuensis",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_madagascariensis",24,48,"12"
+"Anura","Hyperoliidae","hyperolius_marginatus",26,52,"13"
+"Anura","Hyperoliidae","hyperolius_mariae",24,48,"12"
+"Anura","Hyperoliidae","hyperolius_marmoratus",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_nasutus",24,48,"12"
+"Anura","Hyperoliidae","hyperolius_ocellatus",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_parallelus",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_picturatus",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_pictus",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_platyceps",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_pusillus",24,NA,"12"
+"Anura","Hyperoliidae","hyperolius_steindachneri",24,48,"12"
+"Anura","Hyperoliidae","hyperolius_tuberculatus",24,48,"12"
+"Anura","Hyperoliidae","kassina_senegalensis",24,48,"12"
+"Anura","Hyperoliidae","kassina_sp",24,48,"12"
+"Anura","Hyperoliidae","opisthothylax_immaculatus",24,48,"12"
+"Anura","Hyperoliidae","phlyctimantis_leonardi",24,48,"12"
+"Anura","Hyperoliidae","semnodactylus_wealii",24,48,"12"
+"Anura","Hyperoliidae","tachycnemis_seychellensis",24,48,"12"
+"Anura","Leiopelmatidae","leiopelma_archeyi",18,36,"9"
+"Anura","Leiopelmatidae","leiopelma_hochstetteri",22,32,"11"
+"Anura","Leiopelmatidae","leiopelma_pakeka",18,34,"9"
+"Anura","Leptodactylidae","adenomera_aff_bokermanni",23,36,"11.5"
+"Anura","Leptodactylidae","adenomera_andreae",26,34,"13"
+"Anura","Leptodactylidae","adenomera_andreae",26,40,"13"
+"Anura","Leptodactylidae","adenomera_cf_bokermanni",23,34,"11.5"
+"Anura","Leptodactylidae","adenomera_cf_marmorata",24,34,"12"
+"Anura","Leptodactylidae","adenomera_cf_marmorata",24,48,"12"
+"Anura","Leptodactylidae","adenomera_diptyx",26,34,"13"
+"Anura","Leptodactylidae","adenomera_hylaedactyla",26,34,"13"
+"Anura","Leptodactylidae","adenomera_hylaedactyla",26,34,"13"
+"Anura","Leptodactylidae","adenomera_lutzi",26,NA,"13"
+"Anura","Leptodactylidae","edalorhina_perezi",22,NA,"11"
+"Anura","Leptodactylidae","engystomops_coloradorum",30,NA,"15"
+"Anura","Leptodactylidae","engystomops_coloradorum",20,40,"10"
+"Anura","Leptodactylidae","engystomops_freibergi",22,NA,"11"
+"Anura","Leptodactylidae","engystomops_guayaco",20,40,"10"
+"Anura","Leptodactylidae","engystomops_montubio",20,40,"10"
+"Anura","Leptodactylidae","engystomops_petersi",22,NA,"11"
+"Anura","Leptodactylidae","engystomops_pustulatus",20,NA,"10"
+"Anura","Leptodactylidae","engystomops_pustulosus",22,NA,"11"
+"Anura","Leptodactylidae","engystomops_puyango",20,NA,"10"
+"Anura","Leptodactylidae","engystomops_randi",20,40,"10"
+"Anura","Leptodactylidae","leptodactylus_albilabris",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_bolivianus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_bolivianus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_bufonius",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_cf_marmoratus",24,34,"12"
+"Anura","Leptodactylidae","leptodactylus_chaquensis",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_discodactylus",22,NA,"11"
+"Anura","Leptodactylidae","leptodactylus_elenae",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_fragilis",22,NA,"11"
+"Anura","Leptodactylidae","leptodactylus_fuscus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_gracilis",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_gracilis_delattini",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_gracilis_gracilis",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_griseigularis",22,36,"11"
+"Anura","Leptodactylidae","leptodactylus_insularum",22,NA,"11"
+"Anura","Leptodactylidae","leptodactylus_knudseni",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_labyrinthicus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_laticeps",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_latinasus",22,42,"11"
+"Anura","Leptodactylidae","leptodactylus_latinasus",22,NA,"11"
+"Anura","Leptodactylidae","leptodactylus_latrans",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_leptodactyloides",22,36,"11"
+"Anura","Leptodactylidae","leptodactylus_macrosternum",22,42,"11"
+"Anura","Leptodactylidae","leptodactylus_macrosternum",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_marmoratus",24,34,"12"
+"Anura","Leptodactylidae","leptodactylus_melanonotus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_mystaceus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_mystacinus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_mystacinus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_natalensis",22,38,"11"
+"Anura","Leptodactylidae","leptodactylus_notoaktites",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_paraensis",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_pentadactylus",22,42,"11"
+"Anura","Leptodactylidae","leptodactylus_pentadactylus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_petersii",22,42,"11"
+"Anura","Leptodactylidae","leptodactylus_petersii",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_plaumanni",22,NA,"11"
+"Anura","Leptodactylidae","leptodactylus_plaumanni",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_podicipinus",22,34,"11"
+"Anura","Leptodactylidae","leptodactylus_podicipinus",22,38,"11"
+"Anura","Leptodactylidae","leptodactylus_podicipinus",22,36,"11"
+"Anura","Leptodactylidae","leptodactylus_pustulatus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_rhodomystax",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_rhodonotus",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_riveroi",22,42,"11"
+"Anura","Leptodactylidae","leptodactylus_silvanimbus",24,48,"12"
+"Anura","Leptodactylidae","leptodactylus_syphax",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_troglodytes",22,44,"11"
+"Anura","Leptodactylidae","leptodactylus_wagneri",22,36,"11"
+"Anura","Leptodactylidae","lithodytes_lineatus",18,NA,"9"
+"Anura","Leptodactylidae","paratelmatobius_cardosoi",24,NA,"12"
+"Anura","Leptodactylidae","paratelmatobius_lutzii",24,48,"12"
+"Anura","Leptodactylidae","paratelmatobius_poecilogaster",24,48,"12"
+"Anura","Leptodactylidae","physalaemus_aguirrei",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_albifrons",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_albonotatus",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_barrioi",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_biligonigerus",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_biligonigerus",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_centralis",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_cicada",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_cuqui",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_cuvieri",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_ephippifer",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_fernandezae",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_gracilis",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_henselii",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_kroyeri",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_marmoratus",22,NA,"11"
+"Anura","Leptodactylidae","physalaemus_nattereri",22,42,"11"
+"Anura","Leptodactylidae","physalaemus_nattereri",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_olfersii",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_riograndensis",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_santafecinus",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_signifer",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_soaresi",22,44,"11"
+"Anura","Leptodactylidae","physalaemus_sp",22,44,"11"
+"Anura","Leptodactylidae","pleurodema_bibroni",22,NA,"11"
+"Anura","Leptodactylidae","pleurodema_bibroni",44,88,"22"
+"Anura","Leptodactylidae","pleurodema_borellii",22,NA,"11"
+"Anura","Leptodactylidae","pleurodema_bufonina",22,44,"11"
+"Anura","Leptodactylidae","pleurodema_cinereum",22,NA,"11"
+"Anura","Leptodactylidae","pleurodema_cinereum",22,44,"11"
+"Anura","Leptodactylidae","pleurodema_cordobae",88,NA,"44"
+"Anura","Leptodactylidae","pleurodema_cordobae_sp_nov",88,NA,"44"
+"Anura","Leptodactylidae","pleurodema_diplolister",22,42,"11"
+"Anura","Leptodactylidae","pleurodema_guayapae",22,44,"11"
+"Anura","Leptodactylidae","pleurodema_kriegi",44,88,"22"
+"Anura","Leptodactylidae","pleurodema_marmoratum",22,NA,"11"
+"Anura","Leptodactylidae","pleurodema_nebulosum",22,44,"11"
+"Anura","Leptodactylidae","pleurodema_somuncurense",22,NA,"11"
+"Anura","Leptodactylidae","pleurodema_thaul",22,44,"11"
+"Anura","Leptodactylidae","pleurodema_tucumanum",22,44,"11"
+"Anura","Leptodactylidae","pseudopaludicola_ameghini",20,NA,"10"
+"Anura","Leptodactylidae","pseudopaludicola_atragula",18,NA,"9"
+"Anura","Leptodactylidae","pseudopaludicola_boliviana",20,NA,"10"
+"Anura","Leptodactylidae","pseudopaludicola_canga",18,32,"9"
+"Anura","Leptodactylidae","pseudopaludicola_facureae",18,NA,"9"
+"Anura","Leptodactylidae","pseudopaludicola_falcipes",22,NA,"11"
+"Anura","Leptodactylidae","pseudopaludicola_falcipes",18,NA,"9"
+"Anura","Leptodactylidae","pseudopaludicola_ibisoroca",18,32,"9"
+"Anura","Leptodactylidae","pseudopaludicola_jaredi",22,NA,"11"
+"Anura","Leptodactylidae","pseudopaludicola_mineira",22,44,"11"
+"Anura","Leptodactylidae","pseudopaludicola_murundu",22,NA,"11"
+"Anura","Leptodactylidae","pseudopaludicola_mystacalis",16,NA,"8"
+"Anura","Leptodactylidae","pseudopaludicola_saltica",22,42,"11"
+"Anura","Leptodactylidae","pseudopaludicola_ternetzi",20,NA,"10"
+"Anura","Leptodactylidae","pseudopaludicola_ternetzi",18,NA,"9"
+"Anura","Leptodactylidae","pseudopaludicola_ternetzi",16,NA,"8"
+"Anura","Leptodactylidae","scythrophrys_sawayae",24,48,"12"
+"Anura","Leptodactylidae","scythrophrys_sp",24,NA,"12"
+"Anura","Limnodynastidae","adelotus_brevis",24,48,"12"
+"Anura","Limnodynastidae","heleioporus_albopunctatus",24,48,"12"
+"Anura","Limnodynastidae","heleioporus_australiacus",24,NA,"12"
+"Anura","Limnodynastidae","heleioporus_barycragus",24,48,"12"
+"Anura","Limnodynastidae","heleioporus_eyrei",24,48,"12"
+"Anura","Limnodynastidae","heleioporus_inornatus",24,48,"12"
+"Anura","Limnodynastidae","heleioporus_psammophilus",24,48,"12"
+"Anura","Limnodynastidae","kyarranus_kundagungan",24,48,"12"
+"Anura","Limnodynastidae","lechriodus_aganoposis",22,44,"11"
+"Anura","Limnodynastidae","lechriodus_fletcheri",22,44,"11"
+"Anura","Limnodynastidae","lechriodus_melanopyga",22,44,"11"
+"Anura","Limnodynastidae","limnodynastes_convexiusculus",24,48,"12"
+"Anura","Limnodynastidae","limnodynastes_dorsalis",22,44,"11"
+"Anura","Limnodynastidae","limnodynastes_dumerilii",22,44,"11"
+"Anura","Limnodynastidae","limnodynastes_fletcheri",24,48,"12"
+"Anura","Limnodynastidae","limnodynastes_interioris",22,44,"11"
+"Anura","Limnodynastidae","limnodynastes_lignarius",24,48,"12"
+"Anura","Limnodynastidae","limnodynastes_peronii",24,48,"12"
+"Anura","Limnodynastidae","limnodynastes_peronii",22,NA,"11"
+"Anura","Limnodynastidae","limnodynastes_salmini",22,44,"11"
+"Anura","Limnodynastidae","limnodynastes_tasmaniensis",24,48,"12"
+"Anura","Limnodynastidae","limnodynastes_terraereginae",22,44,"11"
+"Anura","Limnodynastidae","neobatrachus_aquilonius",48,92,"24"
+"Anura","Limnodynastidae","neobatrachus_aquilonius",24,48,"12"
+"Anura","Limnodynastidae","neobatrachus_fulvus",24,48,"12"
+"Anura","Limnodynastidae","neobatrachus_kunapalari",48,96,"24"
+"Anura","Limnodynastidae","neobatrachus_pelobatoides",24,48,"12"
+"Anura","Limnodynastidae","neobatrachus_pictus",24,48,"12"
+"Anura","Limnodynastidae","neobatrachus_sudelli",24,48,"12"
+"Anura","Limnodynastidae","neobatrachus_sudelli",48,96,"24"
+"Anura","Limnodynastidae","neobatrachus_sudelli",48,NA,"24"
+"Anura","Limnodynastidae","neobatrachus_sutor",48,48,"24"
+"Anura","Limnodynastidae","neobatrachus_wilsmorei",24,48,"12"
+"Anura","Limnodynastidae","notaden_bennettii",24,48,"12"
+"Anura","Limnodynastidae","notaden_melanoscaphus",24,48,"12"
+"Anura","Limnodynastidae","notaden_nichollsi",24,48,"12"
+"Anura","Limnodynastidae","philoria_frosti",24,48,"12"
+"Anura","Limnodynastidae","philoria_loveridgei",24,48,"12"
+"Anura","Limnodynastidae","philoria_sphagnicolus",24,48,"12"
+"Anura","Limnodynastidae","platyplectrum_ornatum",24,NA,"12"
+"Anura","Limnodynastidae","platyplectrum_ornatum",22,44,"11"
+"Anura","Limnodynastidae","platyplectrum_ornatum",22,NA,"11"
+"Anura","Limnodynastidae","platyplectrum_spenceri",22,NA,"11"
+"Anura","Mantellidae","aglyptodactylus_madagascariensis",26,52,"13"
+"Anura","Mantellidae","blommersia_blommersae",26,52,"13"
+"Anura","Mantellidae","blommersia_grandisonae",26,NA,"13"
+"Anura","Mantellidae","blommersia_wittei",26,52,"13"
+"Anura","Mantellidae","boophis_aff_erythrodactylus",26,52,"13"
+"Anura","Mantellidae","boophis_aff_idae",26,52,"13"
+"Anura","Mantellidae","boophis_aff_majori",26,52,"13"
+"Anura","Mantellidae","boophis_aff_tephraeomystax",26,52,"13"
+"Anura","Mantellidae","boophis_erythrodactylus",26,52,"13"
+"Anura","Mantellidae","boophis_goudotii",26,52,"13"
+"Anura","Mantellidae","boophis_luteus",26,52,"13"
+"Anura","Mantellidae","boophis_madagascariensis",26,52,"13"
+"Anura","Mantellidae","boophis_microtympanum",26,52,"13"
+"Anura","Mantellidae","boophis_microtympanum",26,52,"13"
+"Anura","Mantellidae","boophis_opisthodon",26,52,"13"
+"Anura","Mantellidae","boophis_tephraeomystax",26,52,"13"
+"Anura","Mantellidae","boophis_williamsi",26,52,"13"
+"Anura","Mantellidae","gephyromantis_asper",26,44,"13"
+"Anura","Mantellidae","gephyromantis_eiselti",26,NA,"13"
+"Anura","Mantellidae","gephyromantis_luteus",26,45,"13"
+"Anura","Mantellidae","guibemantis_aff_bicalcaratus",26,52,"13"
+"Anura","Mantellidae","guibemantis_aff_pulcher",26,52,"13"
+"Anura","Mantellidae","guibemantis_bicalcaratus",26,52,"13"
+"Anura","Mantellidae","guibemantis_cf_punctatus",26,NA,"13"
+"Anura","Mantellidae","guibemantis_depressiceps",26,NA,"13"
+"Anura","Mantellidae","guibemantis_depressiceps",26,52,"13"
+"Anura","Mantellidae","guibemantis_flavobrunneus",26,NA,"13"
+"Anura","Mantellidae","guibemantis_liber",26,52,"13"
+"Anura","Mantellidae","guibemantis_pulcher_",26,52,"13"
+"Anura","Mantellidae","guibemantis_punctatus",26,NA,"13"
+"Anura","Mantellidae","guibemantis_tornieri",26,52,"13"
+"Anura","Mantellidae","laliostoma_labrosum",26,52,"13"
+"Anura","Mantellidae","mantella_aurantiaca",26,52,"13"
+"Anura","Mantellidae","mantella_baroni",26,NA,"13"
+"Anura","Mantellidae","mantella_betsileo",26,52,"13"
+"Anura","Mantellidae","mantella_cf_betsileo",26,NA,"13"
+"Anura","Mantellidae","mantella_cowanii",26,52,"13"
+"Anura","Mantellidae","mantella_expectata",26,NA,"13"
+"Anura","Mantellidae","mantella_laevigata",26,NA,"13"
+"Anura","Mantellidae","mantella_madagascariensis",26,NA,"13"
+"Anura","Mantellidae","mantella_nigricans",26,NA,"13"
+"Anura","Mantellidae","mantella_pulchra",26,NA,"13"
+"Anura","Mantellidae","mantella_viridis",26,NA,"13"
+"Anura","Mantellidae","mantidactylus_aerumnalis",26,50,"13"
+"Anura","Mantellidae","mantidactylus_aerumnalis",26,51,"13"
+"Anura","Mantellidae","mantidactylus_aerumnalis",26,52,"13"
+"Anura","Mantellidae","mantidactylus_ambohimitombi",24,48,"12"
+"Anura","Mantellidae","mantidactylus_betsileanus",24,46,"12"
+"Anura","Mantellidae","mantidactylus_biporus",24,48,"12"
+"Anura","Mantellidae","mantidactylus_curtus",24,48,"12"
+"Anura","Mantellidae","mantidactylus_femoralis",26,50,"13"
+"Anura","Mantellidae","mantidactylus_grandidieri",26,NA,"13"
+"Anura","Mantellidae","mantidactylus_guttulatus",26,52,"13"
+"Anura","Mantellidae","mantidactylus_lugubris",26,50,"13"
+"Anura","Mantellidae","mantidactylus_opiparis",26,52,"13"
+"Anura","Mantellidae","mantidactylus_ulcerosus",24,44,"12"
+"Anura","Mantellidae","spinomantis_aglavei",24,48,"12"
+"Anura","Mantellidae","spinomantis_peraccae",26,52,"13"
+"Anura","Megophryidae","leptobrachella_alpina",24,42,"12"
+"Anura","Megophryidae","leptobrachella_lateralis",26,52,"13"
+"Anura","Megophryidae","leptobrachella_lateralis",26,50,"13"
+"Anura","Megophryidae","leptobrachella_liui",24,40,"12"
+"Anura","Megophryidae","leptobrachella_pelodytoides",24,44,"12"
+"Anura","Megophryidae","leptobrachella_ventripunctata",22,42,"11"
+"Anura","Megophryidae","leptobrachium_ailaonicum",26,52,"13"
+"Anura","Megophryidae","leptobrachium_boringii",26,52,"13"
+"Anura","Megophryidae","leptobrachium_hasseltii",26,48,"13"
+"Anura","Megophryidae","leptobrachium_huashen",24,48,"12"
+"Anura","Megophryidae","leptobrachium_huashen",26,52,"13"
+"Anura","Megophryidae","leptobrachium_leishanense",26,52,"13"
+"Anura","Megophryidae","leptobrachium_liui",26,52,"13"
+"Anura","Megophryidae","leptobrachium_liui",26,NA,"13"
+"Anura","Megophryidae","leptobrachium_nigrops",26,NA,"13"
+"Anura","Megophryidae","leptobrachium_smithi",24,48,"12"
+"Anura","Megophryidae","megalophrys_feae",26,50,"13"
+"Anura","Megophryidae","megophrys_boettgeri",26,50,"13"
+"Anura","Megophryidae","megophrys_boettgeri",26,52,"13"
+"Anura","Megophryidae","megophrys_carinense",26,46,"13"
+"Anura","Megophryidae","megophrys_carinense",28,48,"14"
+"Anura","Megophryidae","megophrys_carinense",30,52,"15"
+"Anura","Megophryidae","megophrys_daweimontis",26,50,"13"
+"Anura","Megophryidae","megophrys_daweimontis",26,52,"13"
+"Anura","Megophryidae","megophrys_feae",26,50,"13"
+"Anura","Megophryidae","megophrys_gigantica",26,52,"13"
+"Anura","Megophryidae","megophrys_gigantica",26,50,"13"
+"Anura","Megophryidae","megophrys_giganticus",26,48,"13"
+"Anura","Megophryidae","megophrys_giganticus",26,50,"13"
+"Anura","Megophryidae","megophrys_glandulosa",26,52,"13"
+"Anura","Megophryidae","megophrys_huangshanensis",26,52,"13"
+"Anura","Megophryidae","megophrys_jingdongensis",26,52,"13"
+"Anura","Megophryidae","megophrys_koui",26,NA,"13"
+"Anura","Megophryidae","megophrys_kuatunensis",24,48,"12"
+"Anura","Megophryidae","megophrys_major",26,50,"13"
+"Anura","Megophryidae","megophrys_microstoma",26,48,"13"
+"Anura","Megophryidae","megophrys_microstoma",26,52,"13"
+"Anura","Megophryidae","megophrys_minor",26,52,"13"
+"Anura","Megophryidae","megophrys_minor",30,56,"15"
+"Anura","Megophryidae","megophrys_minor",26,50,"13"
+"Anura","Megophryidae","megophrys_montana",26,NA,"13"
+"Anura","Megophryidae","megophrys_monticola",26,NA,"13"
+"Anura","Megophryidae","megophrys_nasuta",26,50,"13"
+"Anura","Megophryidae","megophrys_nasuta",26,50,"13"
+"Anura","Megophryidae","megophrys_nasuta",26,46,"13"
+"Anura","Megophryidae","megophrys_omeimontis",26,52,"13"
+"Anura","Megophryidae","megophrys_omeimontis",26,48,"13"
+"Anura","Megophryidae","megophrys_palpebralespinosa",26,50,"13"
+"Anura","Megophryidae","megophrys_palpebralespinosa",26,52,"13"
+"Anura","Megophryidae","megophrys_parva",26,46,"13"
+"Anura","Megophryidae","megophrys_parva",26,48,"13"
+"Anura","Megophryidae","megophrys_shapingensis",26,52,"13"
+"Anura","Megophryidae","megophrys_shuichengensis",26,52,"13"
+"Anura","Megophryidae","megophrys_sp",28,48,"14"
+"Anura","Megophryidae","megophrys_sp",26,44,"13"
+"Anura","Megophryidae","megophrys_wuliangshanensis",26,52,"13"
+"Anura","Megophryidae","megophrys_wuliangshanensis",30,56,"15"
+"Anura","Megophryidae","ophryophryne_pachyprocta",26,52,"13"
+"Anura","Megophryidae","oreolalax_chuanbeiensis",26,52,"13"
+"Anura","Megophryidae","oreolalax_granulosus",26,52,"13"
+"Anura","Megophryidae","oreolalax_jingdongensis",26,52,"13"
+"Anura","Megophryidae","oreolalax_liangbeiensis",26,52,"13"
+"Anura","Megophryidae","oreolalax_liangbeiensis",28,52,"14"
+"Anura","Megophryidae","oreolalax_lichuanensis",26,52,"13"
+"Anura","Megophryidae","oreolalax_major",26,52,"13"
+"Anura","Megophryidae","oreolalax_omeimontis",26,52,"13"
+"Anura","Megophryidae","oreolalax_pingii",26,52,"13"
+"Anura","Megophryidae","oreolalax_popei",26,52,"13"
+"Anura","Megophryidae","oreolalax_rhodostigmatus",26,52,"13"
+"Anura","Megophryidae","oreolalax_rugosus",26,52,"13"
+"Anura","Megophryidae","oreolalax_schmidti",26,50,"13"
+"Anura","Megophryidae","oreolalax_xiangchengensis",26,52,"13"
+"Anura","Megophryidae","scutiger_boulengeri",26,52,"13"
+"Anura","Megophryidae","scutiger_glandulatus",26,52,"13"
+"Anura","Megophryidae","scutiger_pingwuensis",26,52,"13"
+"Anura","Megophryidae","scutiger_tuberculatus",26,52,"13"
+"Anura","Microhylidae","anodonthyla_boulengerii",26,52,"13"
+"Anura","Microhylidae","anodonthyla_montana",26,52,"13"
+"Anura","Microhylidae","aphantophryne_pansa",52,NA,"26"
+"Anura","Microhylidae","aphantophryne_pansa",52,NA,"26"
+"Anura","Microhylidae","arcovomer_passarellii",22,42,"11"
+"Anura","Microhylidae","asterophrys_sp",26,52,"13"
+"Anura","Microhylidae","austrochaperina_palmipes",26,NA,"13"
+"Anura","Microhylidae","austrochaperina_robusta",26,52,"13"
+"Anura","Microhylidae","barygenys_atra",26,NA,"13"
+"Anura","Microhylidae","barygenys_flavigularis",32,NA,"16"
+"Anura","Microhylidae","callulops_stictogaster",26,NA,"13"
+"Anura","Microhylidae","chiasmocleis_bicegoi",24,46,"12"
+"Anura","Microhylidae","chiasmocleis_leucosticta",48,NA,"24"
+"Anura","Microhylidae","choerophryne_variegata",26,NA,"13"
+"Anura","Microhylidae","cophixalus_cryptotympanum",26,52,"13"
+"Anura","Microhylidae","cophixalus_kaindiensis",26,NA,"13"
+"Anura","Microhylidae","cophixalus_parkeri",26,NA,"13"
+"Anura","Microhylidae","cophixalus_riparius",26,52,"13"
+"Anura","Microhylidae","cophixalus_shellyi",26,NA,"13"
+"Anura","Microhylidae","cophixalus_sphagnicola",26,NA,"13"
+"Anura","Microhylidae","cophyla_barbouri_",26,NA,"13"
+"Anura","Microhylidae","cophyla_barbouri_",26,48,"13"
+"Anura","Microhylidae","cophyla_cowanii",26,NA,"13"
+"Anura","Microhylidae","cophyla_grandis",26,50,"13"
+"Anura","Microhylidae","cophyla_pollicaris",26,50,"13"
+"Anura","Microhylidae","cophyla_tuberifera",26,50,"13"
+"Anura","Microhylidae","copiula_fistulans",26,NA,"13"
+"Anura","Microhylidae","copiula_oxyrhina",26,NA,"13"
+"Anura","Microhylidae","ctenophryne_aequatorialis",26,52,"13"
+"Anura","Microhylidae","ctenophryne_aterrima",26,NA,"13"
+"Anura","Microhylidae","dermatonotus_muelleri",22,42,"11"
+"Anura","Microhylidae","dyscophus_antongilii",26,52,"13"
+"Anura","Microhylidae","dyscophus_guineti",26,52,"13"
+"Anura","Microhylidae","dyscophus_insularis",26,52,"13"
+"Anura","Microhylidae","dyscophus_sp",26,52,"13"
+"Anura","Microhylidae","elachistocleis_ovalis",22,42,"11"
+"Anura","Microhylidae","gastrophryne_carolinensis",22,42,"11"
+"Anura","Microhylidae","gastrophryne_olivacea",22,42,"11"
+"Anura","Microhylidae","glyphoglossus_yunnanensis",26,52,"13"
+"Anura","Microhylidae","hamptophryne_boliviana",22,42,"11"
+"Anura","Microhylidae","hylophorbus_rufescens",26,52,"13"
+"Anura","Microhylidae","hypopachus_barberi",22,42,"11"
+"Anura","Microhylidae","hypopachus_variolosus",22,NA,"11"
+"Anura","Microhylidae","kalophrynus_interlineatus",26,52,"13"
+"Anura","Microhylidae","kalophrynus_pleurostigma",26,NA,"13"
+"Anura","Microhylidae","kaloula_borealis",28,NA,"14"
+"Anura","Microhylidae","kaloula_borealis",28,56,"14"
+"Anura","Microhylidae","kaloula_picta",28,56,"14"
+"Anura","Microhylidae","kaloula_pulchra",24,48,"12"
+"Anura","Microhylidae","kaloula_pulchra",28,56,"14"
+"Anura","Microhylidae","kaloula_rugifera",28,54,"14"
+"Anura","Microhylidae","kaloula_verrucosa",28,56,"14"
+"Anura","Microhylidae","mantophryne_lateralis",26,NA,"13"
+"Anura","Microhylidae","microhyla_butleri",22,44,"11"
+"Anura","Microhylidae","microhyla_fissipes",24,48,"12"
+"Anura","Microhylidae","microhyla_heymonsi",24,48,"12"
+"Anura","Microhylidae","microhyla_mixtura",24,48,"12"
+"Anura","Microhylidae","microhyla_mymensinghensis",24,48,"12"
+"Anura","Microhylidae","microhyla_ornata",26,52,"13"
+"Anura","Microhylidae","microhyla_ornata",24,NA,"12"
+"Anura","Microhylidae","microhyla_pulchra",24,48,"12"
+"Anura","Microhylidae","microhyla_rubra",26,NA,"13"
+"Anura","Microhylidae","micryletta_inornata",26,52,"13"
+"Anura","Microhylidae","oreophryne_biroi",26,NA,"13"
+"Anura","Microhylidae","oreophryne_brachypus",26,NA,"13"
+"Anura","Microhylidae","oreophryne_cf_anulata",22,44,"11"
+"Anura","Microhylidae","otophryne_robusta",26,52,"13"
+"Anura","Microhylidae","phrynomantis_bifasciatus",26,52,"13"
+"Anura","Microhylidae","plethodontohyla_alluaudi",26,NA,"13"
+"Anura","Microhylidae","plethodontohyla_alluaudi",26,50,"13"
+"Anura","Microhylidae","plethodontohyla_notosticta",26,48,"13"
+"Anura","Microhylidae","plethodontohyla_tuberata",26,48,"13"
+"Anura","Microhylidae","scaphiophryne_gottlebei",52,NA,"26"
+"Anura","Microhylidae","scaphiophryne_madagascariensis",26,NA,"13"
+"Anura","Microhylidae","sphenophryne_brevicrus",26,NA,"13"
+"Anura","Microhylidae","sphenophryne_cornuta",26,NA,"13"
+"Anura","Microhylidae","sphenophryne_rhododactyla",26,NA,"13"
+"Anura","Microhylidae","stereocyclops_incrassatus",22,42,"11"
+"Anura","Microhylidae","uperodon_globulosus",26,52,"13"
+"Anura","Microhylidae","uperodon_montanus",26,52,"13"
+"Anura","Microhylidae","uperodon_rohani",26,NA,"13"
+"Anura","Microhylidae","uperodon_systoma",26,NA,"13"
+"Anura","Myobatrachidae","arenophryne_rotunda",24,48,"12"
+"Anura","Myobatrachidae","assa_darlingtoni",24,48,"12"
+"Anura","Myobatrachidae","crinia_bilingua",24,48,"12"
+"Anura","Myobatrachidae","crinia_bilingua",24,48,"12"
+"Anura","Myobatrachidae","crinia_georgiana",24,48,"12"
+"Anura","Myobatrachidae","crinia_glauerti",24,48,"12"
+"Anura","Myobatrachidae","crinia_insignifera",24,48,"12"
+"Anura","Myobatrachidae","crinia_insignifera",24,NA,"12"
+"Anura","Myobatrachidae","crinia_parinsignifera",24,48,"12"
+"Anura","Myobatrachidae","crinia_pseudinsignifera",24,48,"12"
+"Anura","Myobatrachidae","crinia_remota",24,48,"12"
+"Anura","Myobatrachidae","crinia_riparia",24,48,"12"
+"Anura","Myobatrachidae","crinia_signifera",24,48,"12"
+"Anura","Myobatrachidae","crinia_sloanei",24,48,"12"
+"Anura","Myobatrachidae","crinia_tasmaniensis",24,48,"12"
+"Anura","Myobatrachidae","geocrinia_laevis",24,NA,"12"
+"Anura","Myobatrachidae","geocrinia_leai",24,48,"12"
+"Anura","Myobatrachidae","geocrinia_lutea",24,48,"12"
+"Anura","Myobatrachidae","geocrinia_rosea",24,48,"12"
+"Anura","Myobatrachidae","geocrinia_victoriana",24,48,"12"
+"Anura","Myobatrachidae","metacrinia_nichollsi",24,48,"12"
+"Anura","Myobatrachidae","mixophyes_balbus",24,48,"12"
+"Anura","Myobatrachidae","mixophyes_fasciolatus",24,48,"12"
+"Anura","Myobatrachidae","mixophyes_iteratus",24,48,"12"
+"Anura","Myobatrachidae","mixophyes_schevilli",24,48,"12"
+"Anura","Myobatrachidae","myobatrachus_gouldii",24,48,"12"
+"Anura","Myobatrachidae","paracrinia_haswelli",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_australis",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_bibronii",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_coriacea",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_corroboree",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_dendyi",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_guentheri",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_major",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_occidentalis",24,48,"12"
+"Anura","Myobatrachidae","pseudophryne_semimarmorata",24,48,"12"
+"Anura","Myobatrachidae","rheobatrachus_silus",24,42,"12"
+"Anura","Myobatrachidae","rheobatrachus_vitellinus",24,40,"12"
+"Anura","Myobatrachidae","taudactylus_acutirostris",24,48,"12"
+"Anura","Myobatrachidae","taudactylus_diurnus",24,48,"12"
+"Anura","Myobatrachidae","taudactylus_eungellensis",24,48,"12"
+"Anura","Myobatrachidae","taudactylus_liemi",24,48,"12"
+"Anura","Myobatrachidae","taudactylus_rheophilus",24,48,"12"
+"Anura","Myobatrachidae","uperoleia_crassa",24,48,"12"
+"Anura","Myobatrachidae","uperoleia_glandulosa",24,48,"12"
+"Anura","Myobatrachidae","uperoleia_inundata",24,48,"12"
+"Anura","Myobatrachidae","uperoleia_laevigata",24,48,"12"
+"Anura","Myobatrachidae","uperoleia_lithomoda",24,48,"12"
+"Anura","Myobatrachidae","uperoleia_marmorata",24,48,"12"
+"Anura","Myobatrachidae","uperoleia_rugosa",24,48,"12"
+"Anura","Odontobatrachidae","odontobatrachus_natator",26,52,"13"
+"Anura","Odontophrynidae","macrogenioglottus_alipioi",22,44,"11"
+"Anura","Odontophrynidae","odontophrynus_americanus",22,44,"11"
+"Anura","Odontophrynidae","odontophrynus_americanus",50,NA,"25"
+"Anura","Odontophrynidae","odontophrynus_americanus",42,NA,"21"
+"Anura","Odontophrynidae","odontophrynus_americanus",44,88,"22"
+"Anura","Odontophrynidae","odontophrynus_barrioi",22,NA,"11"
+"Anura","Odontophrynidae","odontophrynus_carvalhoi",22,44,"11"
+"Anura","Odontophrynidae","odontophrynus_cordobae",44,NA,"22"
+"Anura","Odontophrynidae","odontophrynus_cordobae_sp_nov",22,NA,"11"
+"Anura","Odontophrynidae","odontophrynus_cultripes",22,44,"11"
+"Anura","Odontophrynidae","odontophrynus_juquinha",22,44,"11"
+"Anura","Odontophrynidae","odontophrynus_maisuma",22,44,"11"
+"Anura","Odontophrynidae","odontophrynus_occidentalis",22,44,"11"
+"Anura","Odontophrynidae","proceratophrys_appendiculata",22,44,"11"
+"Anura","Odontophrynidae","proceratophrys_boiei",22,44,"11"
+"Anura","Pelobatidae","pelobates_cultripes",26,52,"13"
+"Anura","Pelobatidae","pelobates_fuscus",26,52,"13"
+"Anura","Pelobatidae","pelobates_syriacus",26,52,"13"
+"Anura","Pelobatidae","pelobates_vespertinus",26,52,"13"
+"Anura","Pelobatidae","pelodytes_caucasicus",24,48,"12"
+"Anura","Pelobatidae","pelodytes_punctatus",24,48,"12"
+"Anura","Pelodryadidae","litoria_adelaidensis",26,52,"13"
+"Anura","Pelodryadidae","litoria_amboinensis",26,NA,"13"
+"Anura","Pelodryadidae","litoria_angiana",30,NA,"15"
+"Anura","Pelodryadidae","litoria_angiana",26,NA,"13"
+"Anura","Pelodryadidae","litoria_arfakiana",26,NA,"13"
+"Anura","Pelodryadidae","litoria_bicolor",26,52,"13"
+"Anura","Pelodryadidae","litoria_congenita",26,NA,"13"
+"Anura","Pelodryadidae","litoria_contrastens",26,NA,"13"
+"Anura","Pelodryadidae","litoria_cooloolensis",26,52,"13"
+"Anura","Pelodryadidae","litoria_coplandi",26,52,"13"
+"Anura","Pelodryadidae","litoria_darlingtoni",26,NA,"13"
+"Anura","Pelodryadidae","litoria_dentata",26,52,"13"
+"Anura","Pelodryadidae","litoria_ewingii",26,52,"13"
+"Anura","Pelodryadidae","litoria_fallax",26,52,"13"
+"Anura","Pelodryadidae","litoria_freycineti",26,52,"13"
+"Anura","Pelodryadidae","litoria_inermis",26,52,"13"
+"Anura","Pelodryadidae","litoria_jervisiensis",26,52,"13"
+"Anura","Pelodryadidae","litoria_latopalmata",26,52,"13"
+"Anura","Pelodryadidae","litoria_meiriana",26,52,"13"
+"Anura","Pelodryadidae","litoria_microbelos",26,52,"13"
+"Anura","Pelodryadidae","litoria_modica",26,52,"13"
+"Anura","Pelodryadidae","litoria_nasuta",26,52,"13"
+"Anura","Pelodryadidae","litoria_nigrofrenata",26,52,"13"
+"Anura","Pelodryadidae","litoria_nigropunctata",26,NA,"13"
+"Anura","Pelodryadidae","litoria_olongburensis",26,52,"13"
+"Anura","Pelodryadidae","litoria_pallida",26,52,"13"
+"Anura","Pelodryadidae","litoria_peronii",26,52,"13"
+"Anura","Pelodryadidae","litoria_personata",26,52,"13"
+"Anura","Pelodryadidae","litoria_pygmaea",26,NA,"13"
+"Anura","Pelodryadidae","litoria_rothii",26,52,"13"
+"Anura","Pelodryadidae","litoria_rubella",26,52,"13"
+"Anura","Pelodryadidae","litoria_thesaurensis",26,NA,"13"
+"Anura","Pelodryadidae","litoria_timida",26,NA,"13"
+"Anura","Pelodryadidae","litoria_tornieri",26,52,"13"
+"Anura","Pelodryadidae","litoria_tyleri",26,52,"13"
+"Anura","Pelodryadidae","litoria_vocivincens",26,NA,"13"
+"Anura","Pelodryadidae","litoria_wollastoni",26,NA,"13"
+"Anura","Pelodryadidae","litoria_wotjulumensis",26,52,"13"
+"Anura","Pelodryadidae","nyctimystes_cheesmani",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_cheesmani",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_daymani",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_foricula",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_humeralis",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_infrafrenatus",24,48,"12"
+"Anura","Pelodryadidae","nyctimystes_kubori",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_papua",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_pulcher",26,NA,"13"
+"Anura","Pelodryadidae","nyctimystes_semipalmatus",26,NA,"13"
+"Anura","Pelodryadidae","ranoidea_alboguttata",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_aurea",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_australis",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_barringtonensis",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_becki",26,NA,"13"
+"Anura","Pelodryadidae","ranoidea_booroolongensis",26,NA,"13"
+"Anura","Pelodryadidae","ranoidea_brevipes",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_caerulea",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_chloris",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_citropa",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_cryptotis",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_dahlii",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_dayi",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_eucnemis",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_genimaculata",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_gracilenta",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_impura",26,NA,"13"
+"Anura","Pelodryadidae","ranoidea_jungguy",26,NA,"13"
+"Anura","Pelodryadidae","ranoidea_lesueurii",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_longipes",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_maini",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_moorei",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_nannotis",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_novaehollandiae",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_nyakalensis",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_pearsoniana",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_phyllochroa",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_platycephala",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_raniformis",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_rheocola",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_serrata",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_subglandulosa",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_vagitus",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_verrucosa",26,52,"13"
+"Anura","Pelodryadidae","ranoidea_wilcoxii",26,NA,"13"
+"Anura","Petropedetidae","petropedetes_cameronensis",26,52,"13"
+"Anura","Petropedetidae","petropedetes_sp",26,NA,"13"
+"Anura","Phrynobatrachidae","phrynobatrachus_acridoides",18,36,"9"
+"Anura","Phrynobatrachidae","phrynobatrachus_africanus",24,36,"12"
+"Anura","Phrynobatrachidae","phrynobatrachus_calcaratus",16,32,"8"
+"Anura","Phrynobatrachidae","phrynobatrachus_gutturosus",16,32,"8"
+"Anura","Phrynobatrachidae","phrynobatrachus_latifrons",16,32,"8"
+"Anura","Phrynobatrachidae","phrynobatrachus_natalensis",18,36,"9"
+"Anura","Phrynobatrachidae","phrynobatrachus_sp",20,40,"10"
+"Anura","Phyllomedusidae","agalychnis_annae",26,NA,"13"
+"Anura","Phyllomedusidae","agalychnis_callidryas",26,NA,"13"
+"Anura","Phyllomedusidae","agalychnis_dacnicolor",26,52,"13"
+"Anura","Phyllomedusidae","agalychnis_lemur",26,NA,"13"
+"Anura","Phyllomedusidae","cruziohyla_calcarifer",26,NA,"13"
+"Anura","Phyllomedusidae","cruziohyla_calcarifer",26,NA,"13"
+"Anura","Phyllomedusidae","phasmahyla_cochranae",26,52,"13"
+"Anura","Phyllomedusidae","phyllomedusa_bahiana",26,NA,"13"
+"Anura","Phyllomedusidae","phyllomedusa_boliviana",26,NA,"13"
+"Anura","Phyllomedusidae","phyllomedusa_burmeisteri",26,52,"13"
+"Anura","Phyllomedusidae","phyllomedusa_burmeisteri",52,104,"26"
+"Anura","Phyllomedusidae","phyllomedusa_camba",26,52,"13"
+"Anura","Phyllomedusidae","phyllomedusa_distincta",26,52,"13"
+"Anura","Phyllomedusidae","phyllomedusa_sauvagii",26,NA,"13"
+"Anura","Phyllomedusidae","phyllomedusa_tarsius",26,52,"13"
+"Anura","Phyllomedusidae","phyllomedusa_tetraploidea",52,NA,"26"
+"Anura","Phyllomedusidae","phyllomedusa_trinitatis",26,48,"13"
+"Anura","Phyllomedusidae","phyllomedusa_venusta",26,NA,"13"
+"Anura","Phyllomedusidae","pithecopus_hypochondrialis",26,NA,"13"
+"Anura","Phyllomedusidae","pithecopus_nordestinus",26,NA,"13"
+"Anura","Phyllomedusidae","pithecopus_palliatus",26,52,"13"
+"Anura","Phyllomedusidae","pithecopus_rohdei",26,52,"13"
+"Anura","Pipidae","hymenochirus_boettgeri",24,NA,"12"
+"Anura","Pipidae","pipa_carvalhoi",20,NA,"10"
+"Anura","Pipidae","pipa_parva",30,30,"15"
+"Anura","Pipidae","pipa_pipa",22,30,"11"
+"Anura","Pipidae","xenopus_allofraseri",36,NA,"18"
+"Anura","Pipidae","xenopus_amieti",72,NA,"36"
+"Anura","Pipidae","xenopus_andrei",72,NA,"36"
+"Anura","Pipidae","xenopus_borealis",36,NA,"18"
+"Anura","Pipidae","xenopus_boumbaensis",72,NA,"36"
+"Anura","Pipidae","xenopus_calcaratus",40,NA,"20"
+"Anura","Pipidae","xenopus_cf_boumbaensis",108,NA,"54"
+"Anura","Pipidae","xenopus_clivii",36,72,"18"
+"Anura","Pipidae","xenopus_epitropicalis",40,72,"20"
+"Anura","Pipidae","xenopus_eysoole",108,NA,"54"
+"Anura","Pipidae","xenopus_fischbergi",36,NA,"18"
+"Anura","Pipidae","xenopus_fraseri",36,72,"18"
+"Anura","Pipidae","xenopus_gilli",36,72,"18"
+"Anura","Pipidae","xenopus_itombwensis",72,NA,"36"
+"Anura","Pipidae","xenopus_kobeli",108,NA,"54"
+"Anura","Pipidae","xenopus_laevis",36,NA,"18"
+"Anura","Pipidae","xenopus_largeni",36,NA,"18"
+"Anura","Pipidae","xenopus_lenduensis",72,NA,"36"
+"Anura","Pipidae","xenopus_longipes",108,NA,"54"
+"Anura","Pipidae","xenopus_mellotropicalis",40,NA,"20"
+"Anura","Pipidae","xenopus_muelleri",36,72,"18"
+"Anura","Pipidae","xenopus_parafraseri",36,NA,"18"
+"Anura","Pipidae","xenopus_petersii",36,NA,"18"
+"Anura","Pipidae","xenopus_petersii",36,72,"18"
+"Anura","Pipidae","xenopus_poweri",36,NA,"18"
+"Anura","Pipidae","xenopus_poweri",36,NA,"18"
+"Anura","Pipidae","xenopus_pygmaeus",36,NA,"18"
+"Anura","Pipidae","xenopus_ruwenzoriensis",108,216,"54"
+"Anura","Pipidae","xenopus_spnov_x",72,NA,"36"
+"Anura","Pipidae","xenopus_tropicalis",20,40,"10"
+"Anura","Pipidae","xenopus_tropicalis",NA,NA,"#VALUE!"
+"Anura","Pipidae","xenopus_tropicalis",NA,NA,"#VALUE!"
+"Anura","Pipidae","xenopus_tropicalis",30,NA,"15"
+"Anura","Pipidae","xenopus_vestitus",72,144,"36"
+"Anura","Pipidae","xenopus_victorianus",72,NA,"36"
+"Anura","Pipidae","xenopus_victorianus",36,NA,"18"
+"Anura","Pipidae","xenopus_victorianus",36,72,"18"
+"Anura","Ptychadenidae","ptychadena_anchietae",24,48,"12"
+"Anura","Ptychadenidae","ptychadena_cooperi",24,NA,"12"
+"Anura","Ptychadenidae","ptychadena_erlangeri",24,48,"12"
+"Anura","Ptychadenidae","ptychadena_mascareniensis",24,48,"12"
+"Anura","Ptychadenidae","ptychadena_perreti",24,48,"12"
+"Anura","Ptychadenidae","ptychadena_sp",24,NA,"12"
+"Anura","Pyxicephalidae","amietia_angolensis",26,52,"13"
+"Anura","Pyxicephalidae","amietia_fuscigula",26,52,"13"
+"Anura","Pyxicephalidae","anhydrophryne_rattrayi",26,NA,"13"
+"Anura","Pyxicephalidae","poyntonia_paludicola",24,NA,"12"
+"Anura","Pyxicephalidae","pyxicephalus_adspersus",26,48,"13"
+"Anura","Pyxicephalidae","tomopterna_delalandii",26,52,"13"
+"Anura","Pyxicephalidae","tomopterna_delalandii",52,104,"26"
+"Anura","Pyxicephalidae","tomopterna_tandyi",52,NA,"26"
+"Anura","Ranidae","amnirana_albolabris",26,NA,"13"
+"Anura","Ranidae","amnirana_nicobariensis",26,NA,"13"
+"Anura","Ranidae","amolops_granulosus",26,NA,"13"
+"Anura","Ranidae","amolops_granulosus",26,52,"13"
+"Anura","Ranidae","amolops_granulosus",27,NA,"13.5"
+"Anura","Ranidae","amolops_hongkongensis",26,52,"13"
+"Anura","Ranidae","amolops_jinjiangensis",26,NA,"13"
+"Anura","Ranidae","amolops_liangshanensis",26,NA,"13"
+"Anura","Ranidae","amolops_lifanensis",26,52,"13"
+"Anura","Ranidae","amolops_loloensis",26,52,"13"
+"Anura","Ranidae","amolops_mantzorum",26,NA,"13"
+"Anura","Ranidae","amolops_mantzorum",26,52,"13"
+"Anura","Ranidae","amolops_mantzorum",27,54,"13.5"
+"Anura","Ranidae","amolops_panhai",26,52,"13"
+"Anura","Ranidae","amolops_ricketti",26,52,"13"
+"Anura","Ranidae","amolops_tuberodepressus",26,NA,"13"
+"Anura","Ranidae","amolops_viridimaculatus",26,52,"13"
+"Anura","Ranidae","amolops_wuyiensis",26,52,"13"
+"Anura","Ranidae","babina_holsti",26,52,"13"
+"Anura","Ranidae","babina_subaspera",26,52,"13"
+"Anura","Ranidae","chalcorana_chalconota",26,NA,"13"
+"Anura","Ranidae","clinotarsus_curtipes",26,NA,"13"
+"Anura","Ranidae","glandirana_emeljanovi",26,50,"13"
+"Anura","Ranidae","glandirana_minima",26,52,"13"
+"Anura","Ranidae","glandirana_rugosa",26,52,"13"
+"Anura","Ranidae","glandirana_rugosa",39,NA,"19.5"
+"Anura","Ranidae","glandirana_tientaiensis",26,52,"13"
+"Anura","Ranidae","hydrophylax_malabaricus",26,NA,"13"
+"Anura","Ranidae","hylarana_erythraea",26,52,"13"
+"Anura","Ranidae","hylarana_lateralis",26,52,"13"
+"Anura","Ranidae","hylarana_latouchii",26,52,"13"
+"Anura","Ranidae","hylarana_narina",26,52,"13"
+"Anura","Ranidae","hylarana_sp",26,52,"13"
+"Anura","Ranidae","hylarana_taipehensis",26,52,"13"
+"Anura","Ranidae","indosylvirana_milleti",26,52,"13"
+"Anura","Ranidae","indosylvirana_temporalis",26,NA,"13"
+"Anura","Ranidae","lithobates_areolatus",26,52,"13"
+"Anura","Ranidae","lithobates_blairi",26,52,"13"
+"Anura","Ranidae","lithobates_catesbeianus",26,52,"13"
+"Anura","Ranidae","lithobates_chiricahuensis",26,NA,"13"
+"Anura","Ranidae","lithobates_chiricahuensis_x_pipiens",36,NA,"18"
+"Anura","Ranidae","lithobates_clamitans",26,52,"13"
+"Anura","Ranidae","lithobates_forreri",26,NA,"13"
+"Anura","Ranidae","lithobates_magnaocularis",26,NA,"13"
+"Anura","Ranidae","lithobates_palmipes",26,52,"13"
+"Anura","Ranidae","lithobates_palustris",26,52,"13"
+"Anura","Ranidae","lithobates_pipiens",39,NA,"19.5"
+"Anura","Ranidae","lithobates_pipiens",26,52,"13"
+"Anura","Ranidae","lithobates_septentrionalis",26,52,"13"
+"Anura","Ranidae","lithobates_sphenocephalus",26,52,"13"
+"Anura","Ranidae","lithobates_sylvaticus",26,NA,"13"
+"Anura","Ranidae","lithobates_vibicarius",26,NA,"13"
+"Anura","Ranidae","lithobates_virgatipes",26,52,"13"
+"Anura","Ranidae","lithobates_warszewitschii",26,NA,"13"
+"Anura","Ranidae","nidirana_adenopleura",26,52,"13"
+"Anura","Ranidae","nidirana_daunchina",26,52,"13"
+"Anura","Ranidae","nidirana_okinavana",26,52,"13"
+"Anura","Ranidae","nidirana_pleuraden",26,52,"13"
+"Anura","Ranidae","odorrana_andersoni",26,52,"13"
+"Anura","Ranidae","odorrana_exiliversabilis",26,52,"13"
+"Anura","Ranidae","odorrana_grahami",26,52,"13"
+"Anura","Ranidae","odorrana_hainanensis",26,52,"13"
+"Anura","Ranidae","odorrana_ishikawae",26,52,"13"
+"Anura","Ranidae","odorrana_jingdongensis",26,52,"13"
+"Anura","Ranidae","odorrana_junlianensis",26,52,"13"
+"Anura","Ranidae","odorrana_kuangwuensis",26,52,"13"
+"Anura","Ranidae","odorrana_livida",26,52,"13"
+"Anura","Ranidae","odorrana_margaretae",26,52,"13"
+"Anura","Ranidae","odorrana_narina",26,52,"13"
+"Anura","Ranidae","odorrana_nasuta",26,52,"13"
+"Anura","Ranidae","odorrana_schmackeri",26,52,"13"
+"Anura","Ranidae","odorrana_swinhoana",26,52,"13"
+"Anura","Ranidae","odorrana_versabilis",26,NA,"13"
+"Anura","Ranidae","odorrana_wuchuanensis",26,52,"13"
+"Anura","Ranidae","papurana_daemeli",26,52,"13"
+"Anura","Ranidae","papurana_garritor",26,52,"13"
+"Anura","Ranidae","papurana_grisea",26,52,"13"
+"Anura","Ranidae","papurana_papua",26,NA,"13"
+"Anura","Ranidae","pelophylax_bedriagae",26,52,"13"
+"Anura","Ranidae","pelophylax_chosenicus",26,NA,"13"
+"Anura","Ranidae","pelophylax_fukienensis",26,52,"13"
+"Anura","Ranidae","pelophylax_hubeiensis",26,52,"13"
+"Anura","Ranidae","pelophylax_lessonae",52,NA,"26"
+"Anura","Ranidae","pelophylax_lessonae",39,NA,"19.5"
+"Anura","Ranidae","pelophylax_lessonae",26,52,"13"
+"Anura","Ranidae","pelophylax_lessonae",26,52,"13"
+"Anura","Ranidae","pelophylax_lessonae",26,NA,"13"
+"Anura","Ranidae","pelophylax_lessonae",39,NA,"19.5"
+"Anura","Ranidae","pelophylax_lessonae",52,NA,"26"
+"Anura","Ranidae","pelophylax_lessonae",65,NA,"32.5"
+"Anura","Ranidae","pelophylax_nigromaculatus",39,NA,"19.5"
+"Anura","Ranidae","pelophylax_nigromaculatus",52,NA,"26"
+"Anura","Ranidae","pelophylax_nigromaculatus",78,NA,"39"
+"Anura","Ranidae","pelophylax_nigromaculatus",26,52,"13"
+"Anura","Ranidae","pelophylax_plancyi",26,52,"13"
+"Anura","Ranidae","pelophylax_porosus",26,NA,"13"
+"Anura","Ranidae","pelophylax_porosus",26,52,"13"
+"Anura","Ranidae","pelophylax_ridibundus",26,52,"13"
+"Anura","Ranidae","pelophylax_saharicus",26,52,"13"
+"Anura","Ranidae","pelophylax_sp",26,52,"13"
+"Anura","Ranidae","pelophylax_terentievi",26,52,"13"
+"Anura","Ranidae","pseudorana_weiningensis",26,52,"13"
+"Anura","Ranidae","rana_amurensis",26,52,"13"
+"Anura","Ranidae","rana_amurensis_coreana",26,NA,"13"
+"Anura","Ranidae","rana_arvalis",24,48,"12"
+"Anura","Ranidae","rana_arvalis",24,48,"12"
+"Anura","Ranidae","rana_asiatica",26,52,"13"
+"Anura","Ranidae","rana_aurora",26,52,"13"
+"Anura","Ranidae","rana_aurora_draytoni",26,NA,"13"
+"Anura","Ranidae","rana_boylii",26,52,"13"
+"Anura","Ranidae","rana_cascadae",26,52,"13"
+"Anura","Ranidae","rana_chaochiaoensis",26,52,"13"
+"Anura","Ranidae","rana_chensinensis",24,48,"12"
+"Anura","Ranidae","rana_chensinensis",24,48,"12"
+"Anura","Ranidae","rana_coreana",26,NA,"13"
+"Anura","Ranidae","rana_dalmatina",26,52,"13"
+"Anura","Ranidae","rana_dybowskii",24,48,"12"
+"Anura","Ranidae","rana_graeca",26,52,"13"
+"Anura","Ranidae","rana_hanluica",26,52,"13"
+"Anura","Ranidae","rana_huanrenensis",24,48,"12"
+"Anura","Ranidae","rana_iberica",26,52,"13"
+"Anura","Ranidae","rana_italica",26,NA,"13"
+"Anura","Ranidae","rana_japonica",26,52,"13"
+"Anura","Ranidae","rana_japonica",39,NA,"19.5"
+"Anura","Ranidae","rana_japonica_chaochiaoensis",26,NA,"13"
+"Anura","Ranidae","rana_kukunoris",24,48,"12"
+"Anura","Ranidae","rana_latastei",26,52,"13"
+"Anura","Ranidae","rana_longicrus",26,52,"13"
+"Anura","Ranidae","rana_macrocnemis",26,52,"13"
+"Anura","Ranidae","rana_muscosa",26,46,"13"
+"Anura","Ranidae","rana_neba",42,78,"21"
+"Anura","Ranidae","rana_neba",28,52,"14"
+"Anura","Ranidae","rana_omeimontis",26,52,"13"
+"Anura","Ranidae","rana_ornativentris",24,48,"12"
+"Anura","Ranidae","rana_pretiosa",26,52,"13"
+"Anura","Ranidae","rana_sakuraii",26,52,"13"
+"Anura","Ranidae","rana_sauteri",26,NA,"13"
+"Anura","Ranidae","rana_shuchinae",26,52,"13"
+"Anura","Ranidae","rana_tagoi",26,52,"13"
+"Anura","Ranidae","rana_temporaria",26,52,"13"
+"Anura","Ranidae","rana_temporaria",26,NA,"13"
+"Anura","Ranidae","rana_tsushimensis",26,NA,"13"
+"Anura","Ranidae","rana_zhenhaiensis",26,52,"13"
+"Anura","Ranidae","sanguirana_everetti",26,NA,"13"
+"Anura","Ranidae","sanguirana_sanguinea",26,NA,"13"
+"Anura","Ranidae","staurois_latopalmatus",26,52,"13"
+"Anura","Ranidae","staurois_natator",26,NA,"13"
+"Anura","Ranidae","sylvirana_cubitalis",26,52,"13"
+"Anura","Ranidae","sylvirana_guentheri",26,52,"13"
+"Anura","Ranidae","sylvirana_nigrovittata",24,48,"12"
+"Anura","Ranidae","sylvirana_nigrovittata",26,52,"13"
+"Anura","Ranidae","sylvirana_spinulosa",26,52,"13"
+"Anura","Rhacophoridae","buergeria_buergeri",26,NA,"13"
+"Anura","Rhacophoridae","buergeria_japonica",26,52,"13"
+"Anura","Rhacophoridae","buergeria_oxycephala",26,52,"13"
+"Anura","Rhacophoridae","buergeria_robusta",26,52,"13"
+"Anura","Rhacophoridae","chiromantis_doriae",26,52,"13"
+"Anura","Rhacophoridae","chiromantis_doriae",16,32,"8"
+"Anura","Rhacophoridae","chiromantis_petersi",26,52,"13"
+"Anura","Rhacophoridae","chiromantis_rufescens",26,52,"13"
+"Anura","Rhacophoridae","chiromantis_xerampelina",26,52,"13"
+"Anura","Rhacophoridae","feihyla_palpebralis",26,52,"13"
+"Anura","Rhacophoridae","feihyla_vittata",26,52,"13"
+"Anura","Rhacophoridae","kurixalus_eiffingeri",26,52,"13"
+"Anura","Rhacophoridae","kurixalus_eiffingeri",26,52,"13"
+"Anura","Rhacophoridae","kurixalus_idiootocus",26,52,"13"
+"Anura","Rhacophoridae","kurixalus_odontotarsus",26,52,"13"
+"Anura","Rhacophoridae","polypedates_leucomystax",26,NA,"13"
+"Anura","Rhacophoridae","polypedates_leucomystax",26,52,"13"
+"Anura","Rhacophoridae","polypedates_maculatus",26,52,"13"
+"Anura","Rhacophoridae","polypedates_megacephalus",26,52,"13"
+"Anura","Rhacophoridae","polypedates_mutus",26,52,"13"
+"Anura","Rhacophoridae","pseudophilautus_wynaadensis",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_arboreus",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_burmanus",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_chenfui",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_dennysi",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_dugritei",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_feae",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_malabaricus",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_moltrechti",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_nigropunctatus",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_omeimontis",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_owstoni",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_prasinatus",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_reinwardtii",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_rhodopus",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_schlegelii",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_smaragdinus",26,52,"13"
+"Anura","Rhacophoridae","rhacophorus_taipeianus",26,52,"13"
+"Anura","Rhinodermatidae","insuetophrynus_acarpicus",26,52,"13"
+"Anura","Rhinodermatidae","rhinoderma_darwinii",26,48,"13"
+"Anura","Rhinodermatidae","rhinoderma_rufum",26,48,"13"
+"Anura","Rhinophrynidae","rhinophrynus_dorsalis",22,NA,"11"
+"Anura","Scaphiopodidae","scaphiopus_couchii",26,52,"13"
+"Anura","Scaphiopodidae","scaphiopus_holbrookii",26,50,"13"
+"Anura","Scaphiopodidae","scaphiopus_hurterii",26,NA,"13"
+"Anura","Scaphiopodidae","spea_bombifrons",26,52,"13"
+"Anura","Scaphiopodidae","spea_hammondii",26,52,"13"
+"Anura","Scaphiopodidae","spea_multiplicata",26,NA,"13"
+"Anura","Sooglossidae","sechellophryne_gardineri",26,42,"13"
+"Anura","Sooglossidae","sooglossus_sechellensis",26,44,"13"
+"Anura","Sooglossidae","sooglossus_thomasseti",26,44,"13"
+"Anura","Strabomantidae","geobatrachus_walkeri",20,NA,"10"
+"Anura","Telmatobiidae","telmatobius_arequipensis",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_carrillae",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_ceiorum",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_chusmisensis",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_dankoi",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_jelskii",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_laticeps",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_marmoratus",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_oxycephalus",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_pefauri",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_pefauri",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_peruvianus",26,NA,"13"
+"Anura","Telmatobiidae","telmatobius_phillippii",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_rimac",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_rubigo",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_schreiteri",26,NA,"13"
+"Anura","Telmatobiidae","telmatobius_sp",22,NA,"11"
+"Anura","Telmatobiidae","telmatobius_stephani",26,52,"13"
+"Anura","Telmatobiidae","telmatobius_vilamensis",26,52,"13"

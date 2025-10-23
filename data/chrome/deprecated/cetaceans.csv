@@ -1,0 +1,53 @@
+Order,Family,Genus,species,Female2n,Sex.chromosome.system,haploid
+Artiodactyla,Delphinidae,Delphinus,Delphinus bairdii,44,XY,22
+Artiodactyla,Delphinidae,Delphinus,Delphinus delphis,44,XY,22
+Artiodactyla,Delphinidae,Globicephala,Globicephala macrorhynchus,44,XY,22
+Artiodactyla,Delphinidae,Lagenorhynchus,Lagenorhynchus albirostris,44,XY,22
+Artiodactyla,Delphinidae,Orcinus,Orcinus orca,44,XY,22
+Artiodactyla,Delphinidae,Stenella,Stenella attenuata,44,XY,22
+Artiodactyla,Delphinidae,Stenella,Stenella clymene,44,XY,22
+Artiodactyla,Delphinidae,Stenella,Stenella dubia,44,XY,22
+Artiodactyla,Delphinidae,Tursiops,Tursiops truncatus,44,XY,22
+Artiodactyla,Phocoenidae,Neophocaena,Neophocaena phocaenoides asiaeorientalis,44,XY,22
+Artiodactyla,Phocoenidae,Phocoena,Phocoena phocoena,44,XY,22
+Artiodactyla,Ziphiidae,Mesoplodon,Mesoplodon carlhubbsi,42,XY,21
+Artiodactyla,Ziphiidae,Mesoplodon,Mesoplodon europaeus,42,XY,21
+Artiodactyla,Physeteridae,Physeter,Physeter catodon,42,XY,21
+Artiodactyla,Physeteridae,Physeter,Physeter macrocephalus,42,XY,21
+Artiodactyla,Monodontidae,Delphinapterus,Delphinapterus leucas,44,XY,22
+Artiodactyla,Lipotidae,Lipotes,Lipotes vexillifer,44,XY,22
+Artiodactyla,,,Mesoplodon stejnegreri,42,XY,21
+Artiodactyla,,,Eubalaena glacialis,42,XY,21
+Artiodactyla,,,Balaena mysticetus,42,XY,21
+Artiodactyla,,,Kogia breviceps,42,XY,21
+Artiodactyla,,,Ziphius cavirostris,42,XY,21
+Artiodactyla,,,Mesoplodon densirostris,42,XY,21
+Cetacea,Balaenidae,Balaena,Balaena_mysticetus,42,,21
+Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera_acutorostrata,44,,22
+Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera_borealis,44,,22
+Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera_musculus,44,,22
+Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera_physalus,44,,22
+Cetacea,Delphinidae,Delphinus,Delphinus_capensis,44,,22
+Cetacea,Delphinidae,Delphinus,Delphinus_delphis,44,,22
+Cetacea,Delphinidae,Globicephala,Globicephala_macrorhynchus,44,,22
+Cetacea,Delphinidae,Globicephala,Globicephala_melas,44,,22
+Cetacea,Delphinidae,Lagenorhynchus,Lagenorhynchus_albirostris,44,,22
+Cetacea,Delphinidae,Lagenorhynchus,Lagenorhynchus_obliquidens,44,,22
+Cetacea,Delphinidae,Lissodelphis,Lissodelphis_borealis,44,,22
+Cetacea,Delphinidae,Orcinus,Orcinus_orca,44,,22
+Cetacea,Delphinidae,Stenella,Stenella_attenuata,44,,22
+Cetacea,Delphinidae,Stenella,Stenella_clymene,44,,22
+Cetacea,Delphinidae,Stenella,Stenella_frontalis,44,,22
+Cetacea,Delphinidae,Stenella,Stenella_longirostris,44,,22
+Cetacea,Delphinidae,Tursiops,Tursiops_truncatus,44,,22
+Cetacea,Eschrichtiidae,Eschrichtius,Eschrichtius_robustus,44,,22
+Cetacea,Hyperoodontidae,Mesoplodon,Mesoplodon_carlhubbsi,42,,21
+Cetacea,Hyperoodontidae,Mesoplodon,Mesoplodon_europaeus,42,,21
+Cetacea,Hyperoodontidae,Ziphius,Ziphius_cavirostris,42,,21
+Cetacea,Iniidae,Inia,Inia_geoffrensis,44,,22
+Cetacea,Kogiidae,Kogia,Kogia_breviceps,42,,21
+Cetacea,Monodontidae,Delphinapterus,Delphinapterus_leucas,44,,22
+Cetacea,Monodontidae,Monodon,Monodon_monoceros,44,,22
+Cetacea,Phocoenidae,Phocoena,Phocoena_phocoena,44,,22
+Cetacea,Phocoenidae,Phocoenoides,Phocoenoides_dalli,44,,22
+Cetacea,Physeteridae,Physeter,Physeter_macrocephalus,42,,21

@@ -1,62 +1,282 @@
-﻿highertaxa,family,genus,species,haploid
-Teleostei,Cichlidae,Acarichthys,Acarichthys heckelii,24
-Teleostei,Cichlidae,Aequidens,Aequidens metae,24
-Teleostei,Cichlidae,Aequidens,Aequidens plagiozonatus,24
-Teleostei,Cichlidae,Aequidens,Aequidens tetramerus,24
-Teleostei,Cichlidae,Apistogramma,Apistogramma agassizii,23
-Teleostei,Cichlidae,Apistogramma,Apistogramma borellii,19
-Teleostei,Cichlidae,Apistogramma,Apistogramma borellii,23
-Teleostei,Cichlidae,Apistogramma,Apistogramma ortmanni,23
-Teleostei,Cichlidae,Apistogramma,Apistogramma trifasciata,23
-Teleostei,Cichlidae,Astronotus,Astronotus ocellatus,24
-Teleostei,Cichlidae,Aulonocara,Aulonocara baenschi,22
-Teleostei,Cichlidae,Biotodoma,Biotodoma cupido,24
-Teleostei,Cichlidae,Bujurquina,Bujurquina vittata,22
-Teleostei,Cichlidae,Chaetobranchus,Chaetobranchus flavescens,24
-Teleostei,Cichlidae,Cichla,Cichla kelberi,24
-Teleostei,Cichlidae,Cichla,Cichla orinocensis,24
-Teleostei,Cichlidae,Cichla,Cichla piquiti,24
-Teleostei,Cichlidae,Cichla,Cichla temensis,24
-Teleostei,Cichlidae,Cichlasoma,Cichlasoma beani,24
-Teleostei,Cichlidae,Cichlasoma,Cichlasoma bimaculatum,24
-Teleostei,Cichlidae,Cichlasoma,Cichlasoma dimerus,24
-Teleostei,Cichlidae,Cichlasoma,Cichlasoma paranaense,24
-Teleostei,Cichlidae,Cichlasoma,Cichlasoma salvini,26
-Teleostei,Cichlidae,Cichlasoma,Cichlasoma trimaculatum,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla britskii,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla lacustris,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla lepidota,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla lucius,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla notophthalmus,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla semifasciata,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla strigata,24
-Teleostei,Cichlidae,Crenicichla,Crenicichla vittata,24
-Teleostei,Cichlidae,Cynotilapia,Cynotilapia afra,22
-Teleostei,Cichlidae,Etroplus,Etroplus maculatus,23
-Teleostei,Cichlidae,Etroplus,Etroplus suratensis,24
-Teleostei,Cichlidae,Geophagus,Geophagus brasiliensis,24
-Teleostei,Cichlidae,Geophagus,Geophagus proximus,24
-Teleostei,Cichlidae,Geophagus,Geophagus surinamensis,24
-Teleostei,Cichlidae,Gephyrochromis,Gephyrochromis moorii,22
-Teleostei,Cichlidae,Gymnogeophagus,Gymnogeophagus balzanii,24
-Teleostei,Cichlidae,Haplochromis,Haplochromis obliquidens,22
-Teleostei,Cichlidae,Hemichromis,Hemichromis bimaculatus,22
-Teleostei,Cichlidae,Heros,Heros efasciatus,24
-Teleostei,Cichlidae,Labeotropheus,Labeotropheus trewavasae,22
-Teleostei,Cichlidae,Laetacara,Laetacara araguaiae,22
-Teleostei,Cichlidae,Laetacara,Laetacara dorsigera,22
-Teleostei,Cichlidae,Melanochromis,Melanochromis auratus,22
-Teleostei,Cichlidae,Mesonauta,Mesonauta festivus,24
-Teleostei,Cichlidae,Nannacara,Nannacara anomala,22
-Teleostei,Cichlidae,Oreochromis,Oreochromis aureus,22
-Teleostei,Cichlidae,Oreochromis,Oreochromis mossambicus,22
-Teleostei,Cichlidae,Oreochromis,Oreochromis niloticus,22
-Teleostei,Cichlidae,Oreochromis,Oreochromis tanganicae,22
-Teleostei,Cichlidae,Parachromis,Parachromis managuensis,24
-Teleostei,Cichlidae,Pterophyllum,Pterophyllum scalare,24
-Teleostei,Cichlidae,Retroculus,Retroculus lapidifer,24
-Teleostei,Cichlidae,Sarotherodon,Sarotherodon galilaeus,22
-Teleostei,Cichlidae,Satanoperca,Satanoperca jurupari,24
-Teleostei,Cichlidae,Symphysodon,Symphysodon aequifasciatus,30
-Teleostei,Cichlidae,Tilapia,Tilapia zillii,22
-Teleostei,Cichlidae,Uaru,Uaru amphiacanthoides,23
+"class","order","family","species","haploid"
+"Actinopteri","Cichliformes","Cichlidae","acarichthys_heckelii",24
+"Actinopteri","Cichliformes","Cichlidae","aequidens_metae",24
+"Actinopteri","Cichliformes","Cichlidae","aequidens_plagiozonatus",24
+"Actinopteri","Cichliformes","Cichlidae","aequidens_pulcher",24
+"Actinopteri","Cichliformes","Cichlidae","amphilophus_citrinellus",24
+"Actinopteri","Cichliformes","Cichlidae","amphilophus_citrinellus",24
+"Actinopteri","Cichliformes","Cichlidae","anomalochromis_thomasi",24
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_agassizii",20
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_cacatuoides",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_ortmanni",19
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_ortmanni",23
+"Actinopteri","Cichliformes","Cichlidae","archocentrus_centrarchus",24
+"Actinopteri","Cichliformes","Cichlidae","archocentrus_nigrofasciatus",24
+"Actinopteri","Cichliformes","Cichlidae","archocentrus_septemfasciatus",24
+"Actinopteri","Cichliformes","Cichlidae","archocentrus_spilurus",24
+"Actinopteri","Cichliformes","Cichlidae","archocentrus_spilurus",24
+"Actinopteri","Cichliformes","Cichlidae","astatotilapia_burtoni",20
+"Actinopteri","Cichliformes","Cichlidae","astronotus_ocellatus",24
+"Actinopteri","Cichliformes","Cichlidae","astronotus_ocellatus",24
+"Actinopteri","Cichliformes","Cichlidae","astronotus_ocellatus",24
+"Actinopteri","Cichliformes","Cichlidae","astronotus_ocellatus",24
+"Actinopteri","Cichliformes","Cichlidae","aulonocara_baenschi",22
+"Actinopteri","Cichliformes","Cichlidae","aulonocara_hueseri",22
+"Actinopteri","Cichliformes","Cichlidae","aulonocara_korneliae",22
+"Actinopteri","Cichliformes","Cichlidae","aulonocara_stuartgranti",22
+"Actinopteri","Cichliformes","Cichlidae","aulonocara_stuartgranti",22
+"Actinopteri","Cichliformes","Cichlidae","australoheros_facetus",24
+"Actinopteri","Cichliformes","Cichlidae","australoheros_facetus",24
+"Actinopteri","Cichliformes","Cichlidae","australoheros_facetus",24
+"Actinopteri","Cichliformes","Cichlidae","caquetaia_kraussii",25
+"Actinopteri","Cichliformes","Cichlidae","chaetobranchopsis_australe",24
+"Actinopteri","Cichliformes","Cichlidae","chromidotilapia_batesii",21
+"Actinopteri","Cichliformes","Cichlidae","chromidotilapia_finleyi",24
+"Actinopteri","Cichliformes","Cichlidae","cichla_monoculus",24
+"Actinopteri","Cichliformes","Cichlidae","cichla_temensis",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_beani",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_bimaculatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_dimerus",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_dovii",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_istlanum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_istlanum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_octofasciatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_paranaense",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_portalegrensis",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_salvini",26
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_trimaculatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_trimaculatum",24
+"Actinopteri","Cichliformes","Cichlidae","cleithracara_maronii",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_britskii",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_cincta",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_iguassuensis",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_iguassuensis",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_inpa",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lacustris",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lepidota",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lepidota",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lepidota",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lepidota",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lucius",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lugubris",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_niederleinii",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_niederleinii",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_niederleinii",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_notophthalmus",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_reticulata",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_saxatilis",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_strigata",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_vittata",24
+"Actinopteri","Cichliformes","Cichlidae","dicrossus_filamentosus",23
+"Actinopteri","Cichliformes","Cichlidae","dicrossus_maculatus",23
+"Actinopteri","Cichliformes","Cichlidae","etroplus_maculatus",23
+"Actinopteri","Cichliformes","Cichlidae","etroplus_maculatus",23
+"Actinopteri","Cichliformes","Cichlidae","etroplus_suratensis",24
+"Actinopteri","Cichliformes","Cichlidae","etroplus_suratensis",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_brasiliensis",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_brasiliensis",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_brasiliensis",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_brasiliensis",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_brasiliensis",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_surinamensis",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_balzanii",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_balzanii",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_gymnogenys",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_labiatus",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_lacustris",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_rhabdotus",24
+"Actinopteri","Cichliformes","Cichlidae","haplochromis_flaviijosephi",22
+"Actinopteri","Cichliformes","Cichlidae","haplochromis_obliquidens",22
+"Actinopteri","Cichliformes","Cichlidae","hemichromis_bimaculatus",22
+"Actinopteri","Cichliformes","Cichlidae","hemihaplochromis_multicolor",22
+"Actinopteri","Cichliformes","Cichlidae","herichthys_cyanoguttatus",24
+"Actinopteri","Cichliformes","Cichlidae","herichthys_labridens",24
+"Actinopteri","Cichliformes","Cichlidae","heros_severus",24
+"Actinopteri","Cichliformes","Cichlidae","herotilapia_multispinosa",24
+"Actinopteri","Cichliformes","Cichlidae","heterochromis_multidens",21
+"Actinopteri","Cichliformes","Cichlidae","hypselecara_coryphaenoides",24
+"Actinopteri","Cichliformes","Cichlidae","julidochromis_ornatus",22
+"Actinopteri","Cichliformes","Cichlidae","krobia_itanyi",23
+"Actinopteri","Cichliformes","Cichlidae","labeotropheus_fuelleborni",22
+"Actinopteri","Cichliformes","Cichlidae","labrus_bimaculatus",24
+"Actinopteri","Cichliformes","Cichlidae","laetacara_curviceps",19
+"Actinopteri","Cichliformes","Cichlidae","lamprologus_congoensis",22
+"Actinopteri","Cichliformes","Cichlidae","melanochromis_auratus",23
+"Actinopteri","Cichliformes","Cichlidae","melanochromis_auratus",23
+"Actinopteri","Cichliformes","Cichlidae","mesonauta_festivus",24
+"Actinopteri","Cichliformes","Cichlidae","metriaclima_zebra",22
+"Actinopteri","Cichliformes","Cichlidae","nannacara_anomala",22
+"Actinopteri","Cichliformes","Cichlidae","neetroplus_nematopus",24
+"Actinopteri","Cichliformes","Cichlidae","neolamprologus_savoryi",16
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_andersonii",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_aureus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_aureus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_aureus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_aureus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_karongae",19
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_lepidurus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_leucostictus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_macrochir",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_macrochir",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mortimeri",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mossambicus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mossambicus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mossambicus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mossambicus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mossambicus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mossambicus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_niloticus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_niloticus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_niloticus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_spilurus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_urolepis",22
+"Actinopteri","Cichliformes","Cichlidae","papiliochromis_ramirezi",24
+"Actinopteri","Cichliformes","Cichlidae","parachromis_managuensis",24
+"Actinopteri","Cichliformes","Cichlidae","parachromis_managuensis",24
+"Actinopteri","Cichliformes","Cichlidae","pelvicachromis_pulcher",22
+"Actinopteri","Cichliformes","Cichlidae","pelvicachromis_subocellatus",20
+"Actinopteri","Cichliformes","Cichlidae","pelvicachromis_taeniatus",20
+"Actinopteri","Cichliformes","Cichlidae","sarotherodon_galilaeus",22
+"Actinopteri","Cichliformes","Cichlidae","sarotherodon_galilaeus",22
+"Actinopteri","Cichliformes","Cichlidae","sarotherodon_galilaeus",22
+"Actinopteri","Cichliformes","Cichlidae","sarotherodon_galilaeus",22
+"Actinopteri","Cichliformes","Cichlidae","sarotherodon_melanotheron",22
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_aequifasciatus",30
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_aequifasciatus",30
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_aequifasciatus",30
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_discus",30
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_discus",30
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_haraldi",30
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_haraldi",30
+"Actinopteri","Cichliformes","Cichlidae","thorichthys_ellioti",24
+"Actinopteri","Cichliformes","Cichlidae","thorichthys_meeki",24
+"Actinopteri","Cichliformes","Cichlidae","thysochromis_ansorgii",23
+"Actinopteri","Cichliformes","Cichlidae","tilapia_congica",22
+"Actinopteri","Cichliformes","Cichlidae","tilapia_guineensis",22
+"Actinopteri","Cichliformes","Cichlidae","tilapia_mariae",20
+"Actinopteri","Cichliformes","Cichlidae","tilapia_mariae",20
+"Actinopteri","Cichliformes","Cichlidae","tilapia_rendalli",22
+"Actinopteri","Cichliformes","Cichlidae","tilapia_zillii",22
+"Actinopteri","Cichliformes","Cichlidae","tilapia_zillii",22
+"Actinopteri","Cichliformes","Cichlidae","tristramella_sacra",22
+"Actinopteri","Cichliformes","Cichlidae","tylochromis_lateralis",24
+"Actinopteri","Cichliformes","Cichlidae","uaru_amphiacanthoides",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_borellii",19
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_borellii",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_borellii",23
+"Actinopteri","Cichliformes","Cichlidae","satanoperca_jurupari",24
+"Actinopteri","Cichliformes","Cichlidae","satanoperca_jurupari",24
+"Actinopteri","Cichliformes","Cichlidae","tristramella_simonis",22
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_agassiz",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_sp",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_tnfasciata",23
+"Actinopteri","Cichliformes","Cichlidae","bqjurquina_vittata",22
+"Actinopteri","Cichliformes","Cichlidae","bqjurquina_vittata",22
+"Actinopteri","Cichliformes","Cichlidae","chromidotilapia_bates",22
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_friedrichstalii",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_friedrichstalii",23.5
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_tetracanthum",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_cf",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_sem",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_sem",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_sp",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_sp",24
+"Actinopteri","Cichliformes","Cichlidae","pterophyllum_seafare",24
+"Actinopteri","Cichliformes","Cichlidae","pterophyllum_seafare",24
+"Actinopteri","Cichliformes","Cichlidae","satanoperca_papaterra",24
+"Actinopteri","Cichliformes","Cichlidae","tilapia_sparrmami",21
+"Actinopteri","Cichliformes","Cichlidae","tilapia_sparrmami",21
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_borellii",19
+"Actinopteri","Cichliformes","Cichlidae","tilapia_mariae",20
+"Actinopteri","Cichliformes","Cichlidae","pseudotropheus_tropheops",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_tanganicae",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_mossambicus",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_aureus",22
+"Actinopteri","Cichliformes","Cichlidae","nannacara_anomala",22
+"Actinopteri","Cichliformes","Cichlidae","pseudotropheus_zebra",22
+"Actinopteri","Cichliformes","Cichlidae","metriaclima_pyrsonotus",22
+"Actinopteri","Cichliformes","Cichlidae","metriaclima_lombardoi",22
+"Actinopteri","Cichliformes","Cichlidae","oreochromis_niloticus",22
+"Actinopteri","Cichliformes","Cichlidae","sarotherodon_galilaeus",22
+"Actinopteri","Cichliformes","Cichlidae","tilapia_zillii",22
+"Actinopteri","Cichliformes","Cichlidae","metriaclima_barlowi",22
+"Actinopteri","Cichliformes","Cichlidae","aequidens_paraguayensis",22
+"Actinopteri","Cichliformes","Cichlidae","bujurquina_vittata",22
+"Actinopteri","Cichliformes","Cichlidae","aulonocara_baenschi",22
+"Actinopteri","Cichliformes","Cichlidae","melanochromis_auratus",22
+"Actinopteri","Cichliformes","Cichlidae","laetacara_dorsigera",22
+"Actinopteri","Cichliformes","Cichlidae","laetacara_araguaiae",22
+"Actinopteri","Cichliformes","Cichlidae","labeotropheus_trewavasae",22
+"Actinopteri","Cichliformes","Cichlidae","hemichromis_bimaculatus",22
+"Actinopteri","Cichliformes","Cichlidae","haplochromis_obliquidens",22
+"Actinopteri","Cichliformes","Cichlidae","haplochromis_livingstonii",22
+"Actinopteri","Cichliformes","Cichlidae","gephyrochromis_moorii",22
+"Actinopteri","Cichliformes","Cichlidae","cynotilapia_afra",22
+"Actinopteri","Cichliformes","Cichlidae","uaru_amphiacanthoides",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_trifasciata",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_ortmanni",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_borellii",23
+"Actinopteri","Cichliformes","Cichlidae","apistogramma_agassizii",23
+"Actinopteri","Cichliformes","Cichlidae","etroplus_maculatus",23
+"Actinopteri","Cichliformes","Cichlidae","crenicara_filamentosa",23
+"Actinopteri","Cichliformes","Cichlidae","mesonauta_festivus",24
+"Actinopteri","Cichliformes","Cichlidae","neetroplus_nematopus",24
+"Actinopteri","Cichliformes","Cichlidae","herotilapia_multispinosa",24
+"Actinopteri","Cichliformes","Cichlidae","heros_efasciatus",24
+"Actinopteri","Cichliformes","Cichlidae","satanoperca_jurupari",24
+"Actinopteri","Cichliformes","Cichlidae","parachromis_managuensis",24
+"Actinopteri","Cichliformes","Cichlidae","retroculus_lapidifer",24
+"Actinopteri","Cichliformes","Cichlidae","pterophyllum_scalare",24
+"Actinopteri","Cichliformes","Cichlidae","gymnogeophagus_balzanii",24
+"Actinopteri","Cichliformes","Cichlidae","chaetobranchus_flavescens",24
+"Actinopteri","Cichliformes","Cichlidae","chaetobranchopis_australe",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_bimaculatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_beani",24
+"Actinopteri","Cichliformes","Cichlidae","cichla_temensis",24
+"Actinopteri","Cichliformes","Cichlidae","cichla_piquiti",24
+"Actinopteri","Cichliformes","Cichlidae","cichla_orinocensis",24
+"Actinopteri","Cichliformes","Cichlidae","cichla_kelberi",24
+"Actinopteri","Cichliformes","Cichlidae","aequidens_tetramerus",24
+"Actinopteri","Cichliformes","Cichlidae","aequidens_plagiozonatus",24
+"Actinopteri","Cichliformes","Cichlidae","aequidens_metae",24
+"Actinopteri","Cichliformes","Cichlidae","acarichthys_heckelii",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_centrarchus",24
+"Actinopteri","Cichliformes","Cichlidae","biotodoma_cupido",24
+"Actinopteri","Cichliformes","Cichlidae","batrachops_semifasciatus",24
+"Actinopteri","Cichliformes","Cichlidae","astronotus_ocellatus",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_citrinellum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_cyanoguttatum",24
+"Actinopteri","Cichliformes","Cichlidae","etroplus_suratensis",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_coryphaenoides",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_surinamensis",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_proximus",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_jurupari",24
+"Actinopteri","Cichliformes","Cichlidae","geophagus_brasiliensis",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_trimaculatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_severum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_septemfasciatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_paranaense",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_octofasciatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_meeki",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_labridens",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_festivum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_facetum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_ellioti",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_dowi",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_dimerus",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_nigrofasciatum",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_managuense",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_vittata",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_semifasciata",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_notophthalmus",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_niederleini",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lucius",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_strigata",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lacustris",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_britskii",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_aff",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_aff",24
+"Actinopteri","Cichliformes","Cichlidae","crenicichla_lepidota",24
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_kraussii",25
+"Actinopteri","Cichliformes","Cichlidae","cichlasoma_salvini",26
+"Actinopteri","Cichliformes","Cichlidae","symphysodon_aequifasciatus",30

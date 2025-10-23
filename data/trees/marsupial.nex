@@ -1,0 +1,93 @@
+#NEXUS
+[R-package APE, Mon May  8 09:55:11 2017]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 40;
+	TAXLABELS
+		Caluromys_philander
+		Caluromys_lanatus
+		Monodelphis_brevicaudata
+		Monodelphis_domestica
+		Marmosa_mexicana
+		Marmosa_robinsoni
+		Marmosa_murina
+		Metachirus_nudicaudatus
+		Chironectes_minimus
+		Lutreolina_crassicaudata
+		Didelphis_virginiana
+		Didelphis_albiventris
+		Didelphis_marsupialis
+		Philander_opossum
+		Philander_mcilhennyi
+		Marmosops_incanus
+		Perameles_nasuta
+		Isoodon_macrourus
+		Isoodon_obesulus
+		Sminthopsis_crassicaudata
+		Sarcophilus_harrisii
+		Dasyurus_maculatus
+		Dasyurus_viverrinus
+		Vombatus_ursinus
+		Cercartetus_concinnus
+		Cercartetus_nanus
+		Acrobates_pygmaeus
+		Pseudocheirus_peregrinus
+		Lagorchestes_conspicillatus
+		Thylogale_stigmatica
+		Thylogale_thetis
+		Petrogale_concinna
+		Petrogale_burbidgei
+		Petrogale_brachyotis
+		Petrogale_xanthopus
+		Petrogale_persephone
+		Petrogale_assimilis
+		Petrogale_inornata
+		Petrogale_pencillata
+		Petrogale_rothschildi
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Caluromys_philander,
+		2	Caluromys_lanatus,
+		3	Monodelphis_brevicaudata,
+		4	Monodelphis_domestica,
+		5	Marmosa_mexicana,
+		6	Marmosa_robinsoni,
+		7	Marmosa_murina,
+		8	Metachirus_nudicaudatus,
+		9	Chironectes_minimus,
+		10	Lutreolina_crassicaudata,
+		11	Didelphis_virginiana,
+		12	Didelphis_albiventris,
+		13	Didelphis_marsupialis,
+		14	Philander_opossum,
+		15	Philander_mcilhennyi,
+		16	Marmosops_incanus,
+		17	Perameles_nasuta,
+		18	Isoodon_macrourus,
+		19	Isoodon_obesulus,
+		20	Sminthopsis_crassicaudata,
+		21	Sarcophilus_harrisii,
+		22	Dasyurus_maculatus,
+		23	Dasyurus_viverrinus,
+		24	Vombatus_ursinus,
+		25	Cercartetus_concinnus,
+		26	Cercartetus_nanus,
+		27	Acrobates_pygmaeus,
+		28	Pseudocheirus_peregrinus,
+		29	Lagorchestes_conspicillatus,
+		30	Thylogale_stigmatica,
+		31	Thylogale_thetis,
+		32	Petrogale_concinna,
+		33	Petrogale_burbidgei,
+		34	Petrogale_brachyotis,
+		35	Petrogale_xanthopus,
+		36	Petrogale_persephone,
+		37	Petrogale_assimilis,
+		38	Petrogale_inornata,
+		39	Petrogale_pencillata,
+		40	Petrogale_rothschildi
+	;
+	TREE * UNTITLED = [&R] (((1:0.05356118949,2:0.05356118949):0.3867465905,(((3:0.02787193703,4:0.02787193703):0.2671844665,((5:0.05535300039,6:0.05535300039):0.1171165733,7:0.1724695737):0.1225868298):0.03913388367,((8:0.1898169928,(9:0.1114778613,(10:0.07418023559,(11:0.06352858311,((12:0.03094845773,13:0.03094845773):0.01540904493,(14:0.001617182341,15:0.001617182341):0.04474032031):0.01717108045):0.01065165248):0.03729762573):0.07833913147):0.1203402873,16:0.31015728):0.02403300715):0.1061174928):0.5079465232,(((17:0.06538090279,(18:0.01575814877,19:0.01575814877):0.04962275402):0.6740734701,(20:0.2865281094,(21:0.1084664096,(22:0.06777737994,23:0.06777737994):0.04068902966):0.1780616998):0.4529262635):0.02731708142,(24:0.6067603884,((25:0.07439027271,26:0.07439027271):0.4657881133,((27:0.4672483769,28:0.4672483769):0.06514243403,(29:0.0857726601,((30:0.0207700498,31:0.0207700498):0.05665619621,((32:0.01918787364,(33:0.01118611474,34:0.01118611474):0.008001758901):0.02355381761,(35:0.03695641601,(36:0.03162340459,(37:0.01403052546,(38:0.009091031857,(39:0.005143322722,40:0.005143322722):0.003947709134):0.004939493598):0.01759287913):0.005333011417):0.005785275249):0.03468455475):0.008346414092):0.4466181508):0.007787575147):0.06658200241):0.1600110659):0.1814828489):0.03407;
+END;

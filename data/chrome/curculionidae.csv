@@ -1,563 +1,618 @@
-Order,Family,species,Meioformula,,hapauto,scs,haploid
-Coleoptera,Curculionidae,Acalles camelus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Acalles commutatus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Acalles echitus,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Acalles echitus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Acalles fallax,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Acalles petryszaki,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Acallopistus sp. 1    ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Acicnemis alni     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Acicnemis nigra     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Acicnemis nigra     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Adexius scrobipennis     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Adosomus melanogrammus     ,2n,46M,22,Xyp,23
-Coleoptera,Curculionidae,Alcides collaris,2n,28M,13,XY,14
-Coleoptera,Curculionidae,Alcides sp. 1    ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Alcides sp. 1    ,2n,40M,19,XY,20
-Coleoptera,Curculionidae,Alcidodes affaber     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Alcidodes sp. 1    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Amblyrrhinus poricollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Amblyrrhinus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Amblyrrhinus subrecticollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Amystax fasciatus     ,2n,16M,7,Xyp,8
-Coleoptera,Curculionidae,Amystax fasciatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Amystax fasciatus     ,2n,23M,10,Xyyp,11
-Coleoptera,Curculionidae,Anobleptus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Anobleptus sp. 1    ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Anthonomus bisignifer     ,2n,19M,9,XO,10
-Coleoptera,Curculionidae,Anthonomus bisignifer     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Anthonomus bisignifer     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Anthonomus bisignifer     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Anthonomus bisignifer     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Anthonomus corvulus     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Anthonomus grandis     ,2n,42M,20,Xyp,21
-Coleoptera,Curculionidae,Anthonomus grandis     ,2n,43M,20,XXY,22
-Coleoptera,Curculionidae,Anthonomus grandis     ,2n,44M,21,XY,22
-Coleoptera,Curculionidae,Anthonomus haematopus     ,2n,32M,15,XY,16
-Coleoptera,Curculionidae,Anthonomus scutellatus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Anthonomus sigtus     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Anthonomus sp. 1    ,2n,34M,16,XY,17
-Coleoptera,Curculionidae,Anthonomus sp. 2    ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Anthonomus sp. 3    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Apiophorus pictus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Aplotes roelofsi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Apotomorhinus cribatus     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Arrhines languides     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Astycus sp.     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Atactogaster sp. 1    ,2n,48M,23,Xyp,24
-Coleoptera,Curculionidae,Barioscaphus cordiae     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Baris arthemisiae     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Baris ezoa     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Baris ezoa     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Baris sp.,2n,18M,8,Xyp,9
-Coleoptera,Curculionidae,Baris sp.,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Baris sp.,2n,32M,15,XY,16
-Coleoptera,Curculionidae,Baris sp.,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Baris sp.,2n,54M,26,Xyp,27
-Coleoptera,Curculionidae,Barypeithes albie     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Barypeithes chevrolati     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Barypeithes formaneki     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Barypeithes interpositus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Barypeithes liptoviensis     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Barypeithes liptoviensis     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Barypeithes mollicomis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Barypeithes pellucidus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Barypeithes pellucidus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Barypeithes purkynei     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Blosyrus asellus     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Blosyrus falcatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Bothrometopus fasciatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Brachyderes incanus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Brachysomus dispar     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Brachysomus setiger     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Byctiscus congener regalis    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Byctiscus venustus     ,2n,18M,8,Xyp,9
-Coleoptera,Curculionidae,Byrsopages kiso     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Byrsopages sp(Mt. Asahidake)    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Byrsopages sp(Mt. Niseko)    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Byrsopages sp(Mt. Proshiri)    ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Caenocryptorrhynchus frontalis     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Calendra australis australis    ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Calendra bruchi     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Calendra costipennis     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Calendra linearis     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Calendra parvula     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Calendra zeae     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Calosirus albosuturalis     ,2n,34M,16,XY,17
-Coleoptera,Curculionidae,Canonopsis sericea     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Carcilia strigicollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Catagmatus japonicus     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Catapionus modestus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Catapionus obscurus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Centricnemus leucogrammus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ceutorrhynchus ancola     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Ceutorrhynchus costatus     ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Ceutorrhynchus diffusus     ,2n,24M,11,XY,12
-Coleoptera,Curculionidae,Ceutorrhynchus erysimi     ,2n,28M,13,XY,14
-Coleoptera,Curculionidae,Ceutorrhynchus lewisi     ,2n,28M,13,Xyc,14
-Coleoptera,Curculionidae,Ceutorrhynchus punctiger     ,2n,24M,11,XY,12
-Coleoptera,Curculionidae,Ceutorrhynchus sp. 1    ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Chlorophanus grandis     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Chlorophanus viridis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Chokkirius truncatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Christensenia antarctica     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Cidnorrhinus 4-maculatus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Cionus championi     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Cionus ganglbaueri     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Cionus hortulans     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Cionus longicollis-montanus     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Cionus nigritarsis     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Cionus olivieri     ,2n,42M,20,Xyp,21
-Coleoptera,Curculionidae,Cionus tamazo     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Cionus tuberculosus     ,2n,44M,21,Xyp,22
-Coleoptera,Curculionidae,Cirrorhynchus kelecsenyi     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Cleonus japonicus     ,2n,28M,13,NeoXY,14
-Coleoptera,Curculionidae,Colobodes konoi     ,2n,48M,23,Xyp,24
-Coleoptera,Curculionidae,Colobodes matasumurau     ,2n,48M,23,XY,24
-Coleoptera,Curculionidae,Colobodes sp. 1 v-alum n.sp.,2n,48M,23,Xyp,24
-Coleoptera,Curculionidae,Colobodes sp. 2    ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Corigetus chandigarhensis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Corigetus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Cosmopolites sordidus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Cryptorrhynchus erectus     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Cryptorrhynchus lapathi     ,2n,33-34M,16,Xyp,17
-Coleoptera,Curculionidae,Cryptorrhynchus lapathi     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Cryptorrhynchus lapathi     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Cryptorrhynchus sp. 1    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Cryptorrhynchus sp. 1    ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Curculio aino     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Curculio arakawai     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio convexus     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio dentipes     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio distinguendus     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio elaeagni     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio flavescens     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio flavescens     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Curculio funebris     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio koreanus     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Curculio longirostris     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio minutissimus     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Curculio murakamii     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio nucum     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio obtusus     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio pictus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Curculio pictus     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio quercivorus     ,2n,32M,15,XY,16
-Coleoptera,Curculionidae,Curculio roelofsi     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio sp. 1    ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Curculio sp. 1    ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio sp. 1    ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Curculio sp. 1    ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Cycnotrachelus roelofsi     ,2n,28M,13,XY,14
-Coleoptera,Curculionidae,Cylindrocopturus sp. 1    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Cyphicerinus tectoe     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Cyphicerus aceri     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Cyrtepistomus bardus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Cyrtepistomus gucindus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Cyrtepistomus jucundus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Cyrtepistomus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Deiradolcus pubescens     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Deiradolcus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Demimaea mori     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Dendroctonus frontalis morphotype A,2n,16M,7,Xyp,8
-Coleoptera,Curculionidae,Dendroctonus frontalis morphotype B,2n,12M,5,Xyp,6
-Coleoptera,Curculionidae,Dendroctonus mesoamericanus,2n,12M,5,Xyp,6
-Coleoptera,Curculionidae,Dendroctonus micans,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dermatoxenus caesicollis     ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Dermatoxenus clathratus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dermatoxenus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Desmidophorus hebes     ,2n,20M,9,XY,10
-Coleoptera,Curculionidae,Desmidophorus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Diaprepes abbreviatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Diaprepes marginicollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Diaprepres abbreviata     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Diatropus marshalli     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dicranthus elegans     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Dicranthus majzlani     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Didothis melancholica     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Didothis sp. 1    ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Diocalandra sp. 1    ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Diplogrammus quadrivittatus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Disker tenuicornis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dodecastichus atripes     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dodecastichus aurosigtus vlasuljensis    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dodecastichus dolomitae dryadis    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dodecastichus geniculatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dodecastichus inflatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dodecastichus obsoletus as D. Speiseri  ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Donus comatus carpathicus    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Donus oxalidis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dorytomus mongolicus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Dorytomus shikotanus     ,2n,24M,11,XY,12
-Coleoptera,Curculionidae,Dusmoecetes marioni     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dusmoecetes richtersi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dyslobus verrucifer     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Dystropicus dorsalis     ,2n,56M,27,Xyp,28
-Coleoptera,Curculionidae,Echinocnemus marmoreus     ,2n,18M,8,Xyp,9
-Coleoptera,Curculionidae,Echinocnemus sp. 1    ,2n,16M,7,Xyp,8
-Coleoptera,Curculionidae,Echinocnemus squameus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ectatorhinus adamsi     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Ectemnorrhinus angusticollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ectemnorrhinus drygalski     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ectemnorrhinus viridis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Episomus lacerta,2n,26M,12,XY,13
-Coleoptera,Curculionidae,Episomus turritus     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Esamus albomarginatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Esamus circumdatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Esamus plurisetosus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Esamus sciurus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Eudiagogus episcopalis     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Eugnathus distinctus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Eugnathus distincyus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Euops punctatostriata     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Euops splendida     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Eupagoderes sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Euthyrhinus yakushimanus     ,2n,16M,7,NeoXY,8
-Coleoptera,Curculionidae,Exophthalmus famelicus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Exopthalmus quadritaenia     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Foucartia liturata     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Foucartia liturata     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Gasteroclisus aethiops     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Gasteroclisus binodulus     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Gasteroclisus binodulus     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Gelus calafornicus     ,2n,6M,12,XO,13
-Coleoptera,Curculionidae,Gymnetron antirrhini     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Gymnetron smreczynski     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Gymnetron tetrum     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Heilipodus erythropus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Heilipodus scaber     ,2n,30M,13,XpneoXneoYyp,15
-Coleoptera,Curculionidae,Heilipus tremolerasi     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Heilipus wiedemanni     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Heilipus wiedemanni     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Hemerus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hilaus sp. 1    ,2n,18M,8,Xyp,9
-Coleoptera,Curculionidae,Hilaus sp. 1    ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Hilaus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hilaus sp. 1    ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Hydrophilus olivaceus,2n,29M,14,XO,15
-Coleoptera,Curculionidae,Hylobius abietis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius abietis haroldi    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius albosparsus     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Hylobius aliradicis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius congener     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius cribripennis     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Hylobius desbrochersi     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Hylobius elongatus     ,2n,48M,23,Xyp,24
-Coleoptera,Curculionidae,Hylobius exculptus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Hylobius freyi (=exculptus)    ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Hylobius galloisi     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Hylobius gebleri     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius gigas     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Hylobius pales     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius perforatus     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Hylobius piceus     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Hylobius pinicola     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Hylobius pistri     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius pistri karafutoensis    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hylobius warreni     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Hypera elongata     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypera medicaginis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypera nigrirostris     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypera postica     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypera punctata     ,2n,20M,9,NeoXY,10
-Coleoptera,Curculionidae,Hypera rumicus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypera viciae     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypermias sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypolixus truncatulus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Hypolixus truncatulus     ,2n,44M,21,Xyp,22
-Coleoptera,Curculionidae,Hypomeces squamosus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Indocurculio minutus     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Indomecus lectus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Indomias acutipennis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ixalma dentipes     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Larinodontes obtusus     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Larinus griseopilosus     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Larinus latissimus     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Larinus meleagris     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Larinus saussureae     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Lepidospyris demissus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Lepidospyris demissus     ,2n,23M,10,Xyyp,11
-Coleoptera,Curculionidae,Lepropus chrysochlorus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Lepropus chrysochlorus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Lepropus flavovittatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Lepropus lateralis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Leptomias angustatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Leptomias waltersi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Lepyrus alternans     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Lepyrus japonicus     ,2n,30M,14,XY,15
-Coleoptera,Curculionidae,Lepyrus konoi     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Lepyrus palustris     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Limnobaris jucunda     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Limnobaris jucunda     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Liophloeus gibbus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Liophloeus lentus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Lixus acutipennis     ,2n,46M,22,Xyp,23
-Coleoptera,Curculionidae,Lixus cardui     ,2n,44M,21,Xyp,22
-Coleoptera,Curculionidae,Lixus divaricatus     ,2n,46M,22,Xyp,23
-Coleoptera,Curculionidae,Lixus impressiventris     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Lixus maculatus     ,2n,46M,22,Xyp,23
-Coleoptera,Curculionidae,Lixus subtilis     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Lobotrachelus sp. 1    ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Magdalis alutacea     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Magdalis gentilis     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Magdalis leconti     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Magdalis leconti     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Magdalis perforata     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Magdalis piceae     ,2n,30M,14,NeoXY,15
-Coleoptera,Curculionidae,Magdalis sp. 1    ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Mechistocerus fumosus     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Mechistocerus nipponicus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Mechistocerus sp. 1    ,2n,20M,9,NeoXY,10
-Coleoptera,Curculionidae,Mechistocerus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Mechistocerus sp. 1    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Mechistocerus sp. 1    ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Mechistocerus sp. 2    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Mechistocerus sp. 3    ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Mechistocerus sp. Nov.    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Mechistocerus sp. Nov.    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Mechistocerus sp. Nov.    ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Mecopomorphus griseus     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Mecyslobus flavosigtus     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Mecyslobus westermanni     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Mecysmoderes sp. 1    ,2n,38M,18,XY,19
-Coleoptera,Curculionidae,Mecysolobus erro     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Mecysolobus flavosigtus     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Mecysolobus trifidus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Meotiorrhynchus querendus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Metamasius hemipterus     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Metapocyrtus yogunianus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Metapocyrtus yogunianus     ,2n,42M,20,Xyp,21
-Coleoptera,Curculionidae,Metialma scenica     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Metialma sp,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Metialma sp,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Metialma sp,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Miccotrogus picirostris     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Myllocerus 11-pustulatus maculosus    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus angulatipes     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus blandus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus conspersus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus dentifer     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus discolor     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus discolor canescans    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus dorsatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus griseus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus kashmiriensis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus leativirens     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus lefroi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus paetus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus pauper     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus sabulosus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus sp. 1    ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Myllocerus sp. 2    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus subfasciatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus transmarinus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus tusicollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus viridanus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Myllocerus viridens     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Naupactus bruchi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Naupactus bruchi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Naupactus xantographus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Naupactus xantographus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Nedyus quadrimaculatus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Neocanonopsis dreuxi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Neomecopus sp. 1    ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Niphades sp. 1    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Niphades variegatus     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Notaris acridulus     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Oedophyrus hilleri     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Okikuruminus oblongus     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Okikuruminus roelofsi     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Orobitis apicalis     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Orochlesis takaosanus     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Otiorhynchus alpicola     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus alpicola atterimus    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus apenninus,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus arcticus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus arcticus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus armadillo     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus atripes     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus aurosigtus vlasuljensis    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus austriacus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus austriacus     ,2n,22M,10,XXOO,12
-Coleoptera,Curculionidae,Otiorhynchus bisulcatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus carmagnolae     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus chrysops     ,2n,20M,9,XXOO,11
-Coleoptera,Curculionidae,Otiorhynchus coecus as O. niger  ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus cornicinus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus corvus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus corvus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus croaticus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus dryadis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus equestris     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus fuscipes     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus fuscipes     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus gemmatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus geniculatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus inflatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus inflatus salebrosus    ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus kollari     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus koritnicensis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus meridiolis     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus meridiolis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus minutesquamosus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus minutesquamosus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus morio     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus morio     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus multipunctatus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus multipunctatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus niger     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus obsidianus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus obtusus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus opulentus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus praecellens bosrum    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus repletus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus retifer     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus rotifer     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus rugifrons     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus salicicola psudonotus    ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus salicis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus sensitivus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus speiseri     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus strumosus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Otiorhynchus tenebricosus,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Otiorhynchus vehemens     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Oxydema sp. 1    ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Pachyrhynchus inferlis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Pachytychius sp. 1    ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Pagiophloeus sp. 1    ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Paophilus afflatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Paramecopus farinosus     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Paraplapoderus ulmi     ,2n,30M,14,XY,15
-Coleoptera,Curculionidae,Parascaphus sp. 1    ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Parascaphus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Paratrachelophorus longicornis     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Phloeophagosoma takenouchii     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Phyllobius annectans     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Phyllobius arborator     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius argentatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius armatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius brevis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius brevitarsis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius caucasicus,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius galloisi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius incomptus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius intrusus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius longicornis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius longicornis     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Phyllobius maculicornis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius mundus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius nigritus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius oblongus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius prolongatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius pyri     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius rotundicollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius urticae     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phyllobius viridicollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phymatapoderus latipennis     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Phymatapoderus pavens     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Phytobius sp. 1    ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Phytoscaphus inductus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Phytoscaphus sp. 1    ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Pissodes gyllenhali     ,2n,32M,15,Xyp,16
-Coleoptera,Curculionidae,Pissodes validirostris     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Platymycterus himalayanus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Platymycterus moestus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Platymycterus sjostedti     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Platymycterus sp.     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Plintini sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Podapion gallicola     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Podeschrus abietis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Polydrusus atomarius     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Polydrusus calabricus     ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Polydrusus margitus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Polydrusus pilosus     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Polydrusus ruficornis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Polydrusus sericeus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Polydrusus sicanus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Polydrusus viridicintus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Procas biguttatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Procas biguttatus     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Protacallinus sp. 1    ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Pseudoanthonomus hamamelidis     ,2n,32M,15,XY,16
-Coleoptera,Curculionidae,Pseudoanthonomus hamamelidis     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Pseudphytoscaphus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ptochus oyulum     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Rhadinomerus annulipes     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Rhadinomerus annulipes     ,2n,36M,17,Xyp,18
-Coleoptera,Curculionidae,Rhadinomerus maebarai     ,2n,44M,21,Xyp,22
-Coleoptera,Curculionidae,Rhinocerus sp. 1    ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Rhinomias forticornis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Rhinoncus pagnus     ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Rhinoncus sibiricus     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Rhynchaenus mutabilis     ,2n,24M,11,XY,12
-Coleoptera,Curculionidae,Rhynchaenus niger     ,2n,28M,13,XY,14
-Coleoptera,Curculionidae,Rhynchaenus pallicornis     ,2n,28M,13,XY,14
-Coleoptera,Curculionidae,Rhynchaenus populi     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Rhynchaenus sp. 1    ,2n,25M,12,XO,13
-Coleoptera,Curculionidae,Rhynchaenus stigma     ,2n,28M,13,Xyp,14
-Coleoptera,Curculionidae,Rhynchophorus ferrugineus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Rhyssomatus margitus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Rhyssomatus margitus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ruteria hypocrita     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Rynchophorus palmarum     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Ryssematus lineaticollis     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Scepticus insularis     ,2n,23M,10,Xyyp,11
-Coleoptera,Curculionidae,Scepticus tigrinus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Scythropus japonicus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Scythropus ortus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Scythropus sp. 1    ,2n,20M,9,Xyp,10
-Coleoptera,Curculionidae,Shirahoshizo insidiosus     ,2n,38M,18,Xyp,19
-Coleoptera,Curculionidae,Simulatacalles simulator     ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Sipalus hypocrita     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona crinitus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona cylindricollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona flavescens     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona hispidulus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona humeralis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona lepidus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona lineata     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona lineatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona macularis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona scissifrons     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitona sp. 1    ,2n,24M,11,Xyp,12
-Coleoptera,Curculionidae,Sitona sp. 1    ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Sitona suturalis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sitonaphilus oryzae     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Sitonaphilus sasakii     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Sitonaphilus zeamais     ,2n,22M,10,NeoXY,11
-Coleoptera,Curculionidae,Sitonaphilus zeamais     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sphenophorus parvula     ,2n,30M,14,Xyp,15
-Coleoptera,Curculionidae,Strophosoma capitatum     ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Strophosoma faber     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sympiezomias cribicollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sympiezomias cribricollis     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sympiezomias lewisii     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Sympiezomias sp. 1    ,2n,22M,10,XY,11
-Coleoptera,Curculionidae,Syrotelus umbrosus     ,2n,16M,7,Xyp,8
-Coleoptera,Curculionidae,Tachypterellus 4-gibbus     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Tanymecus cephalotes     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Tanymecus hispidus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Tanymecus indicus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Tanymecus longulus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Tanymecus palliatus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Tanymecus sciurus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Tanymecus sciurus     ,2n,23M,10,Xyyp,11
-Coleoptera,Curculionidae,Tanymecus sp. 1    ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Tanysphyrus leme     ,2n,16M,7,Xyp,8
-Coleoptera,Curculionidae,Tanysphyrus leme     ,2n,18M,8,Xyp,9
-Coleoptera,Curculionidae,Tanysphyrus major     ,2n,16M,7,Xyp,8
-Coleoptera,Curculionidae,Telephae konoi     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Telephae konoi     ,2n,26M,12,Xyp,13
-Coleoptera,Curculionidae,Thlipsomerus glebosus     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Transptochus sp.     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Trichalophus albonotatus     ,2n,28M,13,NeoXY,14
-Coleoptera,Curculionidae,Tychius aureolus femoralis    ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Tychius ginsuji     ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Tychius sp. 1    ,2n,34M,16,Xyp,17
-Coleoptera,Curculionidae,Tychius stephensi     ,2n,40M,19,Xyp,20
-Coleoptera,Curculionidae,Xanium vanhoeffenianum     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Xanthochelus sp.     ,2n,22M,10,Xyp,11
-Coleoptera,Curculionidae,Zacladus geranii     ,2n,28M,13,Xyp,14
+species,scs,haploid
+Acalles_camelus,Xyp,15
+Acalles_commutatus,Xyp,14
+Acalles_echitus,Xyp,15
+Acalles_echitus,Xyp,15
+Acalles_fallax,Xyp,15
+Acalles_petryszaki,Xyp,15
+Acallopistus_sp,Xyp,12
+Acicnemis_alni,Xyp,12
+Acicnemis_nigra,Xyp,11
+Acicnemis_nigra,Xyp,12
+Adexius_scrobipennis,Xyp,18
+Adosomus_melanogrammus,Xyp,23
+Alcides_collaris,XY,14
+Alcides_sp,Xyp,17
+Alcides_sp,XY,20
+Alcidodes_affaber,Xyp,16
+Alcidodes_sp,Xyp,16
+Amblyrrhinus_poricollis,Xyp,11
+Amblyrrhinus_sp,Xyp,11
+Amblyrrhinus_subrecticollis,Xyp,11
+Amystax_fasciatus,Xyp,8
+Amystax_fasciatus,Xyp,11
+Amystax_fasciatus,Xyyp,11
+Anobleptus_sp,Xyp,11
+Anobleptus_sp,Xyp,12
+Anthonomus_bisignifer,XO,10
+Anthonomus_bisignifer,Xyp,15
+Anthonomus_bisignifer,Xyp,16
+Anthonomus_bisignifer,Xyp,17
+Anthonomus_bisignifer,Xyp,18
+Anthonomus_corvulus,Xyp,13
+Anthonomus_grandis,Xyp,21
+Anthonomus_grandis,XXY,22
+Anthonomus_grandis,XY,22
+Anthonomus_haematopus,XY,16
+Anthonomus_scutellatus,Xyp,14
+Anthonomus_sigtus,Xyp,17
+Anthonomus_sp,XY,17
+Anthonomus_sp,Xyp,13
+Anthonomus_sp_3,Xyp,16
+Apiophorus_pictus,Xyp,15
+Aplotes_roelofsi,Xyp,11
+Apotomorhinus_cribatus,Xyp,13
+Arrhines_languides,Xyp,11
+Astycus_sp,Xyp,11
+Atactogaster_sp,Xyp,24
+Barioscaphus_cordiae,Xyp,11
+Baris_arthemisiae,Xyp,19
+Baris_ezoa,Xyp,16
+Baris_ezoa,Xyp,17
+Baris_sp,Xyp,9
+Baris_sp,Xyp,11
+Baris_sp,XY,16
+Baris_sp,Xyp,16
+Baris_sp,Xyp,27
+Barypeithes_albie,Xyp,11
+Barypeithes_chevrolati,Xyp,11
+Barypeithes_formaneki,Xyp,11
+Barypeithes_interpositus,Xyp,11
+Barypeithes_liptoviensis,Xyp,13
+Barypeithes_liptoviensis,Xyp,14
+Barypeithes_mollicomis,Xyp,11
+Barypeithes_pellucidus,Xyp,11
+Barypeithes_pellucidus,Xyp,11
+Barypeithes_purkynei,Xyp,11
+Blosyrus_asellus,Xyp,12
+Blosyrus_falcatus,Xyp,11
+Bothrometopus_fasciatus,Xyp,11
+Brachyderes_incanus,Xyp,11
+Brachysomus_dispar,Xyp,11
+Brachysomus_setiger,Xyp,11
+Byctiscus_congener_regalis,Xyp,11
+Byctiscus_venustus,Xyp,9
+Byrsopages_kiso,Xyp,11
+Byrsopages_sp(Mt._Asahidake),Xyp,11
+Byrsopages_sp(Mt._Niseko),Xyp,11
+Byrsopages_sp(Mt._Proshiri),XY,11
+Caenocryptorrhynchus_frontalis,Xyp,17
+Calendra_australis_australis,Xyp,13
+Calendra_bruchi,Xyp,13
+Calendra_costipennis,Xyp,15
+Calendra_linearis,Xyp,12
+Calendra_parvula,Xyp,13
+Calendra_zeae,Xyp,13
+Calosirus_albosuturalis,XY,17
+Canonopsis_sericea,Xyp,11
+Carcilia_strigicollis,Xyp,11
+Catagmatus_japonicus,Xyp,16
+Catapionus_modestus,Xyp,11
+Catapionus_obscurus,Xyp,11
+Centricnemus_leucogrammus,Xyp,11
+Ceutorrhynchus_ancola,Xyp,17
+Ceutorrhynchus_costatus,Xyp,10
+Ceutorrhynchus_diffusus,XY,12
+Ceutorrhynchus_erysimi,XY,14
+Ceutorrhynchus_lewisi,Xyc,14
+Ceutorrhynchus_punctiger,XY,12
+Ceutorrhynchus_sp,Xyp,12
+Chlorophanus_grandis,Xyp,12
+Chlorophanus_viridis,Xyp,11
+Chokkirius_truncatus,Xyp,11
+Christensenia_antarctica,Xyp,11
+Cidnorrhinus_4-maculatus,Xyp,14
+Cionus_championi,Xyp,20
+Cionus_ganglbaueri,Xyp,19
+Cionus_hortulans,Xyp,19
+Cionus_longicollis-montanus,Xyp,20
+Cionus_nigritarsis,Xyp,19
+Cionus_olivieri,Xyp,21
+Cionus_tamazo,Xyp,20
+Cionus_tuberculosus,Xyp,22
+Cirrorhynchus_kelecsenyi,Xyp,15
+Cleonus_japonicus,NeoXY,14
+Colobodes_konoi,Xyp,24
+Colobodes_matasumurau,XY,24
+Colobodes_sp_v-alum_n.sp,Xyp,24
+Colobodes_sp,Xyp,18
+Corigetus_chandigarhensis,Xyp,11
+Corigetus_sp,Xyp,11
+Cosmopolites_sordidus,Xyp,15
+Cryptorrhynchus_erectus,Xyp,16
+Cryptorrhynchus_lapathi,Xyp,17
+Cryptorrhynchus_lapathi,Xyp,17
+Cryptorrhynchus_lapathi,Xyp,18
+Cryptorrhynchus_sp,Xyp,16
+Cryptorrhynchus_sp,Xyp,19
+Curculio_aino,Xyp,14
+Curculio_arakawai,Xyp,13
+Curculio_convexus,Xyp,13
+Curculio_dentipes,Xyp,13
+Curculio_distinguendus,Xyp,13
+Curculio_elaeagni,Xyp,13
+Curculio_flavescens,Xyp,13
+Curculio_flavescens,Xyp,14
+Curculio_funebris,Xyp,13
+Curculio_koreanus,Xyp,16
+Curculio_longirostris,Xyp,13
+Curculio_minutissimus,Xyp,17
+Curculio_murakamii,Xyp,13
+Curculio_nucum,Xyp,13
+Curculio_obtusus,Xyp,13
+Curculio_pictus,Xyp,11
+Curculio_pictus,Xyp,13
+Curculio_quercivorus,XY,16
+Curculio_roelofsi,Xyp,13
+Curculio_sp,Xyp,12
+Curculio_sp,Xyp,13
+Curculio_sp,Xyp,13
+Curculio_sp,Xyp,14
+Cycnotrachelus_roelofsi,XY,14
+Cylindrocopturus_sp,Xyp,16
+Cyphicerinus_tectoe,Xyp,11
+Cyphicerus_aceri,Xyp,11
+Cyrtepistomus_bardus,Xyp,11
+Cyrtepistomus_gucindus,Xyp,11
+Cyrtepistomus_jucundus,Xyp,11
+Cyrtepistomus_sp,Xyp,11
+Deiradolcus_pubescens,Xyp,11
+Deiradolcus_sp,Xyp,11
+Demimaea_mori,Xyp,12
+Dendroctonus_frontalis_morphotype_A,Xyp,8
+Dendroctonus_frontalis_morphotype_B,Xyp,6
+Dendroctonus_mesoamericanus,Xyp,6
+Dendroctonus_micans,Xyp,11
+Dermatoxenus_caesicollis,Xyp,10
+Dermatoxenus_clathratus,Xyp,11
+Dermatoxenus_sp,Xyp,11
+Desmidophorus_hebes,XY,10
+Desmidophorus_sp,Xyp,11
+Diaprepes_abbreviatus,Xyp,11
+Diaprepes_marginicollis,Xyp,11
+Diaprepres_abbreviata,Xyp,11
+Diatropus_marshalli,Xyp,11
+Dicranthus_elegans,XY,11
+Dicranthus_majzlani,XY,11
+Didothis_melancholica,Xyp,14
+Didothis_sp,Xyp,17
+Diocalandra_sp,Xyp,13
+Diplogrammus_quadrivittatus,Xyp,15
+Disker_tenuicornis,Xyp,11
+Dodecastichus_atripes,Xyp,11
+Dodecastichus_aurosigtus_vlasuljensis,Xyp,11
+Dodecastichus_dolomitae_dryadis,Xyp,11
+Dodecastichus_geniculatus,Xyp,11
+Dodecastichus_inflatus,Xyp,11
+Dodecastichus_obsoletus_as_D._Speiseri,Xyp,11
+Donus_comatus_carpathicus,Xyp,11
+Donus_oxalidis,Xyp,11
+Dorytomus_mongolicus,Xyp,14
+Dorytomus_shikotanus,XY,12
+Dusmoecetes_marioni,Xyp,11
+Dusmoecetes_richtersi,Xyp,11
+Dyslobus_verrucifer,Xyp,11
+Dystropicus_dorsalis,Xyp,28
+Echinocnemus_marmoreus,Xyp,9
+Echinocnemus_sp,Xyp,8
+Echinocnemus_squameus,Xyp,11
+Ectatorhinus_adamsi,Xyp,19
+Ectemnorrhinus_angusticollis,Xyp,11
+Ectemnorrhinus_drygalski,Xyp,11
+Ectemnorrhinus_viridis,Xyp,11
+Episomus_lacerta,XY,13
+Episomus_turritus,Xyp,16
+Esamus_albomarginatus,Xyp,11
+Esamus_circumdatus,Xyp,11
+Esamus_plurisetosus,Xyp,11
+Esamus_sciurus,Xyp,11
+Eudiagogus_episcopalis,Xyp,17
+Eugnathus_distinctus,XY,11
+Eugnathus_distincyus,Xyp,11
+Euops_punctatostriata,Xyp,13
+Euops_splendida,XY,11
+Eupagoderes_sp,Xyp,11
+Euthyrhinus_yakushimanus,NeoXY,8
+Exophthalmus_famelicus,Xyp,11
+Exopthalmus_quadritaenia,Xyp,11
+Foucartia_liturata,XY,11
+Foucartia_liturata,Xyp,11
+Gasteroclisus_aethiops,Xyp,18
+Gasteroclisus_binodulus,Xyp,18
+Gasteroclisus_binodulus,Xyp,19
+Gelus_calafornicus,XO,13
+Gymnetron_antirrhini,Xyp,16
+Gymnetron_smreczynski,Xyp,16
+Gymnetron_tetrum,Xyp,16
+Heilipodus_erythropus,Xyp,15
+Heilipodus_scaber,XpneoXneoYyp,15
+Heilipus_tremolerasi,Xyp,15
+Heilipus_wiedemanni,Xyp,11
+Heilipus_wiedemanni,Xyp,15
+Hemerus_sp,Xyp,11
+Hilaus_sp,Xyp,9
+Hilaus_sp,Xyp,10
+Hilaus_sp,Xyp,11
+Hilaus_sp,Xyp,12
+Hydrophilus_olivaceus,XO,15
+Hylobius_abietis,Xyp,11
+Hylobius_abietis_haroldi,Xyp,11
+Hylobius_albosparsus,Xyp,20
+Hylobius_aliradicis,Xyp,11
+Hylobius_congener,Xyp,11
+Hylobius_cribripennis,Xyp,18
+Hylobius_desbrochersi,Xyp,18
+Hylobius_elongatus,Xyp,24
+Hylobius_exculptus,Xyp,14
+Hylobius_freyi_(=exculptus),Xyp,14
+Hylobius_galloisi,Xyp,18
+Hylobius_gebleri,Xyp,11
+Hylobius_gigas,Xyp,18
+Hylobius_pales,Xyp,11
+Hylobius_perforatus,Xyp,18
+Hylobius_piceus,Xyp,20
+Hylobius_pinicola,Xyp,20
+Hylobius_pistri,Xyp,11
+Hylobius_pistri_karafutoensis,Xyp,11
+Hylobius_warreni,Xyp,16
+Hypera_elongata,Xyp,11
+Hypera_medicaginis,Xyp,11
+Hypera_nigrirostris,Xyp,11
+Hypera_postica,Xyp,11
+Hypera_punctata,NeoXY,10
+Hypera_rumicus,Xyp,11
+Hypera_viciae,Xyp,11
+Hypermias_sp,Xyp,11
+Hypolixus_truncatulus,Xyp,11
+Hypolixus_truncatulus,Xyp,22
+Hypomeces_squamosus,Xyp,11
+Indocurculio_minutus,Xyp,12
+Indomecus_lectus,Xyp,11
+Indomias_acutipennis,Xyp,11
+Ixalma_dentipes,Xyp,11
+Larinodontes_obtusus,Xyp,20
+Larinus_griseopilosus,Xyp,20
+Larinus_latissimus,Xyp,20
+Larinus_meleagris,Xyp,20
+Larinus_saussureae,Xyp,18
+Lepidospyris_demissus,Xyp,11
+Lepidospyris_demissus,Xyyp,11
+Lepropus_chrysochlorus,Xyp,11
+Lepropus_chrysochlorus,Xyp,11
+Lepropus_flavovittatus,Xyp,11
+Lepropus_lateralis,Xyp,11
+Leptomias_angustatus,Xyp,11
+Leptomias_waltersi,Xyp,11
+Lepyrus_alternans,Xyp,15
+Lepyrus_japonicus,XY,15
+Lepyrus_konoi,Xyp,15
+Lepyrus_palustris,Xyp,15
+Limnobaris_jucunda,Xyp,12
+Limnobaris_jucunda,Xyp,15
+Liophloeus_gibbus,Xyp,11
+Liophloeus_lentus,Xyp,11
+Lixus_acutipennis,Xyp,23
+Lixus_cardui,Xyp,22
+Lixus_divaricatus,Xyp,23
+Lixus_impressiventris,Xyp,20
+Lixus_maculatus,Xyp,23
+Lixus_subtilis,Xyp,20
+Lobotrachelus_sp,Xyp,14
+Magdalis_alutacea,Xyp,16
+Magdalis_gentilis,Xyp,15
+Magdalis_leconti,Xyp,15
+Magdalis_leconti,Xyp,16
+Magdalis_perforata,Xyp,16
+Magdalis_piceae,NeoXY,15
+Magdalis_sp,Xyp,17
+Mechistocerus_fumosus,Xyp,18
+Mechistocerus_nipponicus,Xyp,14
+Mechistocerus_sp,NeoXY,10
+Mechistocerus_sp,Xyp,11
+Mechistocerus_sp,Xyp,16
+Mechistocerus_sp,Xyp,20
+Mechistocerus_sp,Xyp,16
+Mechistocerus_sp_3,Xyp,20
+Mechistocerus_sp_Nov.,Xyp,11
+Mechistocerus_sp_Nov.,Xyp,16
+Mechistocerus_sp_Nov.,Xyp,20
+Mecopomorphus_griseus,Xyp,12
+Mecyslobus_flavosigtus,Xyp,17
+Mecyslobus_westermanni,Xyp,16
+Mecysmoderes_sp,XY,19
+Mecysolobus_erro,Xyp,17
+Mecysolobus_flavosigtus,Xyp,17
+Mecysolobus_trifidus,Xyp,15
+Meotiorrhynchus_querendus,Xyp,11
+Metamasius_hemipterus,Xyp,13
+Metapocyrtus_yogunianus,Xyp,11
+Metapocyrtus_yogunianus,Xyp,21
+Metialma_scenica,Xyp,16
+Metialma_sp,Xyp,15
+Metialma_sp,Xyp,16
+Metialma_sp,Xyp,17
+Miccotrogus_picirostris,Xyp,17
+Myllocerus_11-pustulatus_maculosus,Xyp,11
+Myllocerus_angulatipes,Xyp,11
+Myllocerus_blandus,Xyp,11
+Myllocerus_conspersus,Xyp,11
+Myllocerus_dentifer,Xyp,11
+Myllocerus_discolor,Xyp,11
+Myllocerus_discolor_canescans,Xyp,11
+Myllocerus_dorsatus,Xyp,11
+Myllocerus_griseus,Xyp,11
+Myllocerus_kashmiriensis,Xyp,11
+Myllocerus_leativirens,Xyp,11
+Myllocerus_lefroi,Xyp,11
+Myllocerus_paetus,Xyp,11
+Myllocerus_pauper,Xyp,11
+Myllocerus_sabulosus,Xyp,11
+Myllocerus_sp,Xyp,11
+Myllocerus_sp,Xyp,15
+Myllocerus_sp,Xyp,11
+Myllocerus_subfasciatus,Xyp,11
+Myllocerus_transmarinus,Xyp,11
+Myllocerus_tusicollis,Xyp,11
+Myllocerus_viridanus,Xyp,11
+Myllocerus_viridens,Xyp,11
+Naupactus_bruchi,Xyp,11
+Naupactus_bruchi,Xyp,11
+Naupactus_xantographus,Xyp,11
+Naupactus_xantographus,Xyp,11
+Nedyus_quadrimaculatus,Xyp,14
+Neocanonopsis_dreuxi,Xyp,11
+Neomecopus_sp,Xyp,15
+Niphades_sp,Xyp,16
+Niphades_variegatus,Xyp,17
+Notaris_acridulus,Xyp,15
+Oedophyrus_hilleri,Xyp,13
+Okikuruminus_oblongus,Xyp,18
+Okikuruminus_roelofsi,Xyp,18
+Orobitis_apicalis,Xyp,13
+Orochlesis_takaosanus,Xyp,20
+Otiorhynchus_alpicola,Xyp,11
+Otiorhynchus_alpicola_atterimus,Xyp,11
+Otiorhynchus_apenninus,Xyp,11
+Otiorhynchus_arcticus,XY,11
+Otiorhynchus_arcticus,Xyp,11
+Otiorhynchus_armadillo,Xyp,11
+Otiorhynchus_atripes,Xyp,11
+Otiorhynchus_aurosigtus_vlasuljensis,Xyp,11
+Otiorhynchus_austriacus,Xyp,11
+Otiorhynchus_austriacus,XXOO,12
+Otiorhynchus_bisulcatus,Xyp,11
+Otiorhynchus_carmagnolae,XY,11
+Otiorhynchus_chrysops,XXOO,11
+Otiorhynchus_coecus_as_O._niger,Xyp,11
+Otiorhynchus_cornicinus,Xyp,11
+Otiorhynchus_corvus,XY,11
+Otiorhynchus_corvus,Xyp,11
+Otiorhynchus_croaticus,Xyp,11
+Otiorhynchus_dryadis,Xyp,11
+Otiorhynchus_equestris,Xyp,11
+Otiorhynchus_fuscipes,XY,11
+Otiorhynchus_fuscipes,XY,11
+Otiorhynchus_gemmatus,Xyp,11
+Otiorhynchus_geniculatus,Xyp,11
+Otiorhynchus_inflatus,Xyp,11
+Otiorhynchus_inflatus_salebrosus,XY,11
+Otiorhynchus_kollari,XY,11
+Otiorhynchus_koritnicensis,Xyp,11
+Otiorhynchus_meridiolis,XY,11
+Otiorhynchus_meridiolis,Xyp,11
+Otiorhynchus_minutesquamosus,XY,11
+Otiorhynchus_minutesquamosus,Xyp,11
+Otiorhynchus_morio,XY,11
+Otiorhynchus_morio,Xyp,11
+Otiorhynchus_multipunctatus,XY,11
+Otiorhynchus_multipunctatus,Xyp,11
+Otiorhynchus_niger,XY,11
+Otiorhynchus_obsidianus,XY,11
+Otiorhynchus_obtusus,XY,11
+Otiorhynchus_opulentus,Xyp,11
+Otiorhynchus_praecellens_bosrum,Xyp,11
+Otiorhynchus_repletus,XY,11
+Otiorhynchus_retifer,Xyp,11
+Otiorhynchus_rotifer,Xyp,11
+Otiorhynchus_rugifrons,Xyp,11
+Otiorhynchus_salicicola_psudonotus,XY,11
+Otiorhynchus_salicis,Xyp,11
+Otiorhynchus_sensitivus,Xyp,11
+Otiorhynchus_speiseri,Xyp,11
+Otiorhynchus_strumosus,Xyp,11
+Otiorhynchus_tenebricosus,XY,11
+Otiorhynchus_vehemens,XY,11
+Oxydema_sp,Xyp,15
+Pachyrhynchus_inferlis,Xyp,11
+Pachytychius_sp,Xyp,16
+Pagiophloeus_sp,Xyp,14
+Paophilus_afflatus,Xyp,11
+Paramecopus_farinosus,Xyp,16
+Paraplapoderus_ulmi,XY,15
+Parascaphus_sp,Xyp,10
+Parascaphus_sp,Xyp,11
+Paratrachelophorus_longicornis,Xyp,15
+Phloeophagosoma_takenouchii,Xyp,16
+Phyllobius_annectans,XY,11
+Phyllobius_arborator,Xyp,11
+Phyllobius_argentatus,Xyp,11
+Phyllobius_armatus,Xyp,11
+Phyllobius_brevis,Xyp,11
+Phyllobius_brevitarsis,Xyp,11
+Phyllobius_caucasicus,Xyp,11
+Phyllobius_galloisi,Xyp,11
+Phyllobius_incomptus,Xyp,11
+Phyllobius_intrusus,Xyp,11
+Phyllobius_longicornis,Xyp,11
+Phyllobius_longicornis,Xyp,12
+Phyllobius_maculicornis,Xyp,11
+Phyllobius_mundus,Xyp,11
+Phyllobius_nigritus,Xyp,11
+Phyllobius_oblongus,Xyp,11
+Phyllobius_prolongatus,Xyp,11
+Phyllobius_pyri,Xyp,11
+Phyllobius_rotundicollis,Xyp,11
+Phyllobius_sp,Xyp,11
+Phyllobius_urticae,Xyp,11
+Phyllobius_viridicollis,Xyp,11
+Phymatapoderus_latipennis,Xyp,16
+Phymatapoderus_pavens,Xyp,12
+Phytobius_sp,Xyp,12
+Phytoscaphus_inductus,Xyp,11
+Phytoscaphus_sp,Xyp,10
+Pissodes_gyllenhali,Xyp,16
+Pissodes_validirostris,Xyp,15
+Platymycterus_himalayanus,Xyp,11
+Platymycterus_moestus,Xyp,11
+Platymycterus_sjostedti,Xyp,11
+Platymycterus_sp,Xyp,11
+Plintini_sp,Xyp,11
+Podapion_gallicola,Xyp,11
+Podeschrus_abietis,Xyp,11
+Polydrusus_atomarius,Xyp,11
+Polydrusus_calabricus,Xyp,10
+Polydrusus_margitus,Xyp,11
+Polydrusus_pilosus,XY,11
+Polydrusus_ruficornis,Xyp,11
+Polydrusus_sericeus,Xyp,11
+Polydrusus_sicanus,Xyp,11
+Polydrusus_viridicintus,Xyp,11
+Procas_biguttatus,Xyp,11
+Procas_biguttatus,Xyp,12
+Protacallinus_sp,Xyp,15
+Pseudoanthonomus_hamamelidis,XY,16
+Pseudoanthonomus_hamamelidis,Xyp,19
+Pseudphytoscaphus_sp,Xyp,11
+Ptochus_oyulum,Xyp,11
+Rhadinomerus_annulipes,Xyp,17
+Rhadinomerus_annulipes,Xyp,18
+Rhadinomerus_maebarai,Xyp,22
+Rhinocerus_sp,Xyp,10
+Rhinomias_forticornis,Xyp,11
+Rhinoncus_pagnus,Xyp,10
+Rhinoncus_sibiricus,Xyp,14
+Rhynchaenus_mutabilis,XY,12
+Rhynchaenus_niger,XY,14
+Rhynchaenus_pallicornis,XY,14
+Rhynchaenus_populi,Xyp,13
+Rhynchaenus_sp,XO,13
+Rhynchaenus_stigma,Xyp,14
+Rhynchophorus_ferrugineus,Xyp,11
+Rhyssomatus_margitus,Xyp,11
+Rhyssomatus_margitus,Xyp,11
+Ruteria_hypocrita,Xyp,15
+Rynchophorus_palmarum,Xyp,11
+Ryssematus_lineaticollis,Xyp,12
+Scepticus_insularis,Xyyp,11
+Scepticus_tigrinus,Xyp,11
+Scythropus_japonicus,Xyp,11
+Scythropus_ortus,Xyp,11
+Scythropus_sp,Xyp,10
+Shirahoshizo_insidiosus,Xyp,19
+Simulatacalles_simulator,Xyp,12
+Sipalus_hypocrita,Xyp,11
+Sitona_crinitus,Xyp,11
+Sitona_cylindricollis,Xyp,11
+Sitona_flavescens,Xyp,11
+Sitona_hispidulus,Xyp,11
+Sitona_humeralis,Xyp,11
+Sitona_lepidus,Xyp,11
+Sitona_lineata,Xyp,11
+Sitona_lineatus,Xyp,11
+Sitona_macularis,Xyp,11
+Sitona_scissifrons,Xyp,11
+Sitona_sp,Xyp,11
+Sitona_sp,Xyp,12
+Sitona_sp,Xyp,13
+Sitona_suturalis,Xyp,11
+Sitonaphilus_oryzae,XY,11
+Sitonaphilus_sasakii,XY,11
+Sitonaphilus_zeamais,NeoXY,11
+Sitonaphilus_zeamais,Xyp,11
+Sphenophorus_parvula,Xyp,15
+Strophosoma_capitatum,XY,11
+Strophosoma_faber,Xyp,11
+Sympiezomias_cribicollis,Xyp,11
+Sympiezomias_cribricollis,Xyp,11
+Sympiezomias_lewisii,Xyp,11
+Sympiezomias_sp,XY,11
+Syrotelus_umbrosus,Xyp,8
+Tachypterellus_4-gibbus,Xyp,17
+Tanymecus_cephalotes,Xyp,11
+Tanymecus_hispidus,Xyp,11
+Tanymecus_indicus,Xyp,11
+Tanymecus_longulus,Xyp,11
+Tanymecus_palliatus,Xyp,11
+Tanymecus_sciurus,Xyp,11
+Tanymecus_sciurus,Xyyp,11
+Tanymecus_sp,Xyp,11
+Tanysphyrus_leme,Xyp,8
+Tanysphyrus_leme,Xyp,9
+Tanysphyrus_major,Xyp,8
+Telephae_konoi,Xyp,11
+Telephae_konoi,Xyp,13
+Thlipsomerus_glebosus,Xyp,11
+Transptochus_sp,Xyp,11
+Trichalophus_albonotatus,NeoXY,14
+Tychius_aureolus_femoralis,Xyp,20
+Tychius_ginsuji,Xyp,17
+Tychius_sp,Xyp,17
+Tychius_stephensi,Xyp,20
+Xanium_vanhoeffenianum,Xyp,11
+Xanthochelus_sp,Xyp,11
+Zacladus_geranii,Xyp,14
+Blastophagus_minor,Xyp,15
+Blastophagus_pinierda,Xyp,15
+Cactopinus_desertus,XO,12
+Conopthorus_coniperda,NeoXY,10
+Conopthorus_resinosae,XY,9
+Dendroctonus_adjunctus,NeoXY,7
+Dendroctonus_approximatus,NeoXY,6
+Dendroctonus_brevicomis,NeoXY,6
+Dendroctonus_jeffreyi,NeoXY,12
+Dendroctonus_murrayae,Xyp,15
+Dendroctonus_ponderosae,NeoXY,12
+Dendroctonus_pseudotsugae,Xyp,15
+Dendroctonus_punctatus,Xyp,16
+Dendroctonus_rufipennis,Xyp,15
+Dendroctonus_simplex,Xyp,15
+Dendroctonus_terebrans,Xyp,13
+Dendroctonus_valens,Xyp,14
+Dryocoetes_affaber,Xyp,14
+Dryocoetes_autographus,Xyp,14
+Hylurgops_pinifex,Xyp,15
+Ips_bonseai,Xyp,16
+Ips_chagnoni_sw.,Xyp,16
+Ips_concinnus,Xyp,8
+Ips_cribricollis,Xyp,16
+Ips_emargitus,Xyp,16
+Ips_hoppingi,Xyp,16
+Ips_hunteri,Xyp,16
+Ips_interstitialis,Xyp,16
+Ips_kusi,Xyp,16
+Ips_latidens,Xyp,10
+Ips_lecontei,Xyp,16
+Ips_mexicanus,Xyp,8
+Ips_montanus,Xyp,16
+Ips_perroti,Xyp,16
+Ips_pilifrons,Xyp,16
+Ips_pini,Xyp,15
+Ips_pini,Xyp,16
+Ips_pini_(=oregonis_Eichh.),Xyp,16
+Ips_plastographus_maritimus,Xyp,16
+Ips_spinifer,Xyp,10
+Ips_tridens,Xyp,16
+Ips_typographus,Xyp,15
+Ips_woodi,Xyp,16
+Leperisinus_pruinosis,Xyp,13
+Orthotomicus_caelatus,Xyp,11
+Orthotomicus_proximus,Xyp,7
+Pityogenes_chalcographus,Xyp,10
+Pityogenes_crannulatus,Xyp,9
+Pityogenes_hopkinsi,Xyp,10
+Pityogenes_knechteli,Xyp,10
+Pityogenes_quadridens,Xyp,10
+Pityokteines_ortus,Xyp,9
+Polygraphus_rugipennis,Xyp,6
+Scolytus_dahuricus,Xyp,11
+Scolytus_mali,Xyp,6
