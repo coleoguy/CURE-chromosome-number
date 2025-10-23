@@ -7,9 +7,17 @@ GetTree <- function(x){
   tree <- NULL
   if(file.exists(paste0("../data/trees/",x,".new"))){
     tree <- read.tree(paste0("../data/trees/",x,".new"))
+    dupes <- duplicated(tree$tip.label)
+    tree <- drop.tip(tree, tree$tip.label[dupes])
   }
   if(file.exists(paste0("../data/trees/",x, ".nex"))){
     tree <- read.nexus(paste0("../data/trees/",x,".nex"))
+    if(class(tree) == "multiPhylo"){
+      for(j in 1:length(tree)){
+        dupes <- duplicated(tree[[j]]$tip.label)
+        tree[[j]] <- drop.tip(tree, tree[[j]]$tip.label[dupes])
+      }
+    }
   }
   return(tree)
 }
@@ -25,14 +33,11 @@ for(i in 1:length(file_list)){
   }
   tree <- GetTree(clade)
   if(class(tree) == "phylo"){
-    #cat(paste("Got tree with", clade,"has a total of ", length(tree$tip.label),"\n"))
+    n <- sum(tree$tip.label %in% dat$species)
   }else{
-    #print(class(tree))
-    #cat(paste("Got tree with", clade,"has a total of ", length(tree[[1]]$tip.label),"\n"))
-    tree <- tree[[1]]
+    n <- sum(tree[[1]]$tip.label %in% dat$species)
   }
-  n <- sum(tree$tip.label %in% dat$species)
-  print(paste("clade: ", i, " matches: ", n))
+  print(paste(clade, ": ", i, " matches: ", n))
 }
 
 
