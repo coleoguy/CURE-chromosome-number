@@ -30,7 +30,7 @@ for (file in file_list) {
 dat <- do.call(rbind, all_data)
 
 # ---- 3. Load tree ----
-tree <- read.tree(text = "(((Chondrichthyes:462.4,((((Anabantaria:103.76124,(Cichlidae:91.7483,Nothobranchiidae:91.7483)14:12.01294)13:8.47282,Gobiidae:112.23406)25:111.7836,((Siluriformes:114.41554,Characiformes:114.41554)37:27.69607,Cyprinidae:142.11161)36:81.90605)35:204.98234,((Caudata:291.41676,Anura:291.41676)34:60.26978,((((Carnivora:76.0,Cetaceans:76.0)43:5.02605,Chiroptera:81.02605)33:12.97395,((Cricetidae:26.17238,Muridae:26.17238)51:61.02762,Primates:87.2)50:6.8)49:224.95,((Gekkonidae:189.28994,(Scincidae:173.54365,(Serpentes:161.03541,Iguania:161.03541)57:12.50824)60:15.74629)56:90.54156,((Accipitriformes:70.41822,Passeriformes:70.41822)48:190.95178,Testudines:261.37)63:18.4615)47:39.1185)68:32.73654)73:77.31346)72:33.4)84:245.2881164,((Araneae:397.0,Scorpiones:397.0)87:166.4032059,(((Blattodea:299.2948,Orthoptera:299.2948)83:83.97117038,(Hymenoptera:343.6917304,(((Dytiscidae:210.0767,Carabidae:210.0767)82:72.54179062,((Coccinellidae:219.2270108,(((Chrysomelidae:191.9352563,(Curculionidae:97.6957875,Scolytidae:97.6957875):94.23946875)80:10.34233208,Cerambycidae:202.2775883):13.76914042,(Elateridae:108.81373,Tenebrionidae:108.81373):107.2329988)79:3.180282083)94:37.53032417,Buprestidae:256.757335)92:25.86115562)78:50.24717588,(Drosophilidae:299.39011,Lepidoptera:299.39011)98:33.4755565)97:10.82606392)77:39.57423997)71:17.81903728,Odonata:401.0850077)67:162.3181983)66:144.2849105)46:890.7934047,(((((((Solanaceae:93.90774,Rubiaceae:93.90774)32:17.25109,Asteraceae:111.15883)106:13.96077,(Brassicaceae:121.36364,(Passiflora:117.06486,Fabaceae:117.06486)104:4.29878)103:3.75596)31:34.49316,(Magnoliaceae:142.05,(Orchidaceae:124.50176,Liliaceae:124.50176)30:17.5555):17.5555)111:122.63268,Gymnospermae:282.235):122.63268,Tracheophytes:404.87812)29:46.50214,Bryophytes:451.38026)28:1147.101261);")
+tree <- read.tree(text = "(((Chondrichthyes:462.4,((((Anabantariformes:103.76124,(Cichlidae:91.7483,Nothobranchiidae:91.7483)14:12.01294)13:8.47282,Gobiidae:112.23406)25:111.7836,((Siluriformes:114.41554,Characiformes:114.41554)37:27.69607,Cyprinidae:142.11161)36:81.90605)35:204.98234,((Caudata:291.41676,Anura:291.41676)34:60.26978,((((Carnivora:76.0,Cetacea:76.0)43:5.02605,Chiroptera:81.02605)33:12.97395,((Cricetidae:26.17238,Muridae:26.17238)51:61.02762,Primates:87.2)50:6.8)49:224.95,((Gekkonidae:189.28994,(Scincidae:173.54365,(Serpentes:161.03541,Iguania:161.03541)57:12.50824)60:15.74629)56:90.54156,((Accipitriformes:70.41822,Passeriformes:70.41822)48:190.95178,Testudines:261.37)63:18.4615)47:39.1185)68:32.73654)73:77.31346)72:33.4)84:245.2881164,((Araneae:397.0,Scorpiones:397.0)87:166.4032059,(((Blattodea:299.2948,Orthoptera:299.2948)83:83.97117038,(Hymenoptera:343.6917304,(((Dytiscidae:210.0767,Carabidae:210.0767)82:72.54179062,((Coccinellidae:219.2270108,(((Chrysomelidae:191.9352563,(Curculionidae:97.6957875,Scolytidae:97.6957875):94.23946875)80:10.34233208,Cerambycidae:202.2775883):13.76914042,(Elateridae:108.81373,Tenebrionidae:108.81373):107.2329988)79:3.180282083)94:37.53032417,Buprestidae:256.757335)92:25.86115562)78:50.24717588,(Drosophilidae:299.39011,Lepidoptera:299.39011)98:33.4755565)97:10.82606392)77:39.57423997)71:17.81903728,Odonata:401.0850077)67:162.3181983)66:144.2849105)46:890.7934047,(((((((Solanaceae:93.90774,Rubiaceae:93.90774)32:17.25109,Asteraceae:111.15883)106:13.96077,(Brassicaceae:121.36364,(Passiflora:117.06486,Fabaceae:117.06486)104:4.29878)103:3.75596)31:34.49316,(Magnoliaceae:142.05,(Orchidaceae:124.50176,Liliaceae:124.50176)30:17.5555):17.5555)111:122.63268,Gymnospermae:282.235):122.63268,Pteridophytes:404.87812)29:46.50214,Bryophytes:451.38026)28:1147.101261);")
 tree$tip.label <- tolower(tree$tip.label)
 
 # ---- 4. Clean haploid values ----
@@ -58,7 +58,7 @@ final_df <- dat_clean %>%
   )
 
 # ---- 5b. Add higher classification from CSV ----
-class_df <- read.csv("../../../../Downloads/higher_class.csv", stringsAsFactors = FALSE)
+class_df <- read.csv("../data/higher_class.csv", stringsAsFactors = FALSE)
 class_df <- class_df %>% mutate(Clade = tolower(str_trim(Clade)))
 
 final_df <- final_df %>%
@@ -135,7 +135,7 @@ p_final <- p +
       "Insecta" = "#8E3B9E",
       "Angiosperm" = "#1F968B",
       "Gymnosperms" = "#89C2D9",
-      "Tracheophytes" = "#5E4FA2",
+      "Pteridophytes" = "#5E4FA2",
       "Bryophytes" = "#277DA1"
     )
   ) +
