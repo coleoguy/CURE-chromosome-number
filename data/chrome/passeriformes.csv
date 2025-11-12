@@ -1,4 +1,4 @@
-﻿order,family,species,totalchrom,status,IslandEndemic,haploid
+order,family,species,totalchrom,status,IslandEndemic,haploid
 Passeriformes,Thraupidae,Camarhynchus_pauper,78,CR,Yes,39
 Passeriformes,Thraupidae,Camarhynchus_pallidus,78,NT,Yes,39
 Passeriformes,Thraupidae,Camarhynchus_psittacula,78,VU,Yes,39
@@ -9,7 +9,7 @@ Passeriformes,Passerellidae,Melozone_aberti,78-80,LC,No,39-40
 Passeriformes,Parulidae,Myioborus_pictus,78-80,LC,No,39-40
 Passeriformes,Passerellidae,Peucaea_botterii,78-80,LC,No,39-40
 Passeriformes,Cardinalidae,Pheucticus_melanocephalus,80-82,LC,No,40-41
-Passeriformes,Ploceidae,Ploceus_intermedius,74-76-78,LC,No,37-38-39
+Passeriformes,Ploceidae,Ploceus_intermedius,74-76-78,LC,No,"37,38,39"
 Passeriformes,Parulidae,Setophaga_graciae,78-80,LC,No,39-40
 Passeriformes,Motacillidae,Anthus_spinoletta,86,LC,No,43
 Passeriformes,Muscicapidae,Monticola_saxatilis,86,LC,No,43
@@ -215,8 +215,8 @@ Passeriformes,Thraupidae,Geospiza_conirostris,78,VU,Yes,39
 Passeriformes,Thraupidae,Gubernatrix_cristata,78,EN,No,39
 Passeriformes,Estrildidae,Padda_oryzivora,78,EN,No,39
 Passeriformes,Thraupidae,Sporophila_maximiliani,72,EN,No,36
-Passeriformes,Passerellidae,Amphispizopsis_quinquestriata,76-78-80,LC,No,38-39-40
-Passeriformes,Passerellidae,Artemisiospiza_belli,78-80-82,LC,No,39-40-41
+Passeriformes,Passerellidae,Amphispizopsis_quinquestriata,76-78-80,LC,No,"38,39,40"
+Passeriformes,Passerellidae,Artemisiospiza_belli,78-80-82,LC,No,"39,40,41"
 Passeriformes,Cardinalidae,Cardinalis_sinuatus,78-80,LC,No,39-40
 Passeriformes,Passerellidae,Melozone_fusca,78-80,LC,No,39-40
 Passeriformes,Sturnidae,Sturnia_pagodarum,80-82,LC,No,40-41
@@ -338,10 +338,10 @@ Passeriformes,Emberizidae,Emberiza_rustica,74,VU,No,37
 Passeriformes,Thraupidae,Camarhynchus_parvulus,78,LC,Yes,39
 Passeriformes,Emberizidae,Emberiza_aureola,80,CR,No,40
 Passeriformes,Chloropseidae,Chloropsis_cochinchinensis,80,EN,No,40
-Passeriformes,Oriolidae,Chalcomitra_amethystina,96-98-100,LC,No,48-49-50
+Passeriformes,Oriolidae,Chalcomitra_amethystina,96-98-100,LC,No,"48,49,50"
 Passeriformes,Passerellidae,Peucaea_carpalis,78-80,LC,No,39-40
 Passeriformes,Passerellidae,Peucaea_cassinii,78-80,LC,No,39-40
-Passeriformes,Ploceidae,Plocepasser_mahali,74-76-78,LC,No,37-38-39
+Passeriformes,Ploceidae,Plocepasser_mahali,74-76-78,LC,No,37-39
 Passeriformes,Sittidae,Sitta_neumayer,94,LC,No,47
 Passeriformes,Sylviidae,Curruca_communis,84,LC,No,42
 Passeriformes,Turdidae,Turdus_cardis,84,LC,No,42

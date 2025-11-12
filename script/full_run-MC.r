@@ -6,8 +6,7 @@ library(diversitree)
 library(chromePlus)
 library(phangorn)
 
-## Functions
-
+###### Functions ######
 # function to read and return a tree object for a given clade name
 GetTree <- function(x){
   tree <- NULL
@@ -22,63 +21,76 @@ GetTree <- function(x){
   } else {
     return(NULL)  # skip if no matching tree file found
   }
-  
   # clean up any duplicate tip labels
   tree <- GetCleanTree(tree)
   return(tree)
 }
-
 # function to remove duplicated tip labels from a phylo or multiPhylo object
 GetCleanTree <- function(tree){
-  if (inherits(tree, "phylo")) {                   # if single tree
+  if(class(tree) == "phylo"){                   # if single tree
     duptips <- which(duplicated(tree$tip.label))   # find duplicate tips
     if (length(duptips) > 0)
       tree <- drop.tip(tree, duptips)              # remove them
-  } else if (inherits(tree, "multiPhylo")) {       # if multiple trees
-    tree <- lapply(tree, function(tr) {
+  }
+  if(class(tree) == "multiPhylo"){       # if multiple trees
+    for(i in 1:length(tree)){
+      tr <- tree[[i]]
       duptips <- which(duplicated(tr$tip.label))
-      if (length(duptips) > 0)
-        tr <- drop.tip(tr, duptips)
-      tr
-    })
+      if(length(duptips) > 0)
+        tree[[i]] <- drop.tip(tr, duptips)
+    }
+  }
+  return(tree)
+}
+# function to clean haploid column (to handle ranges, comma seperated values, multiple entries)
+CleanHaploid <- function(df) {
+  stoch_round <- function(x) floor(x) + (runif(1) < (x - floor(x)))
+  for(i in 1:nrow(df)){
+    x <- df$haploid[i]
+    if(is.numeric(x)){
+      if(!x == round(x)){
+        df$haploid[i] <- stoch_round(x)
+      }
+    }else{
+      nums <- as.numeric(strsplit(x, split="-", fixed=T)[[1]])
+      if(length(nums) > 2){
+        stop(paste("Looks like you have too many dashes! Check row:",i))
+      }
+      if(length(nums) == 2){
+        df$haploid[i] <- sample(nums[1]:nums[2], 1)
+      }
+      nums <- as.numeric(strsplit(x, split=",", fixed=T)[[1]])
+      if(length(nums)>1){
+        df$haploid[i] <- sample(nums, 1)
+      }
+    }
+  }
+  df$haploid <- stoch_round(as.numeric(df$haploid))
+  return(df)
+}
+
+AdjustTree <- function(tree){
+  # ensure the tree is ultrametric
+  if (!is.ultrametric(tree)) {
+    if (clade %in% plants) {
+      tree <- nnls.tree(cophenetic(tree), tree, rooted = T)
+    } else {
+      tree <- chronos(tree)
+    }
+  }
+  # scale tree to unit length
+  tree$edge.length <- tree$edge.length / max(branching.times(tree))
+  # replace any small negative branch lengths with tiny positive value
+  tree$edge.length[tree$edge.length < 0] <- 1e-9
+  # ensure tree is fully bifurcating 
+  if (!is.binary(tree)) {
+    tree <- multi2di(tree)
   }
   return(tree)
 }
 
-# function to clean haploid column (to handle ranges, comma seperated values, multiple entries)
-CleanHaploid <- function(df) {
-  if (!"haploid" %in% names(df)) return(df)
-  
-  df$haploid <- sapply(df$haploid, function(x) {
-    if (is.na(x) || x == "") return(NA_real_)
-    x <- as.character(x)
-    
-    # extract all numeric values (handles ranges, commas, etc.)
-    nums <- as.numeric(unlist(strsplit(x, "[^0-9]+")))
-    nums <- nums[!is.na(nums)]
-    if (length(nums) == 0) return(NA_real_)
-    
-    # if two numbers and separated by a dash (e.g. "6-8"), sample within range
-    if (length(nums) == 2 && grepl("-", x)) 
-      return(sample(seq(min(nums), max(nums)), 1))
-    
-    # if multiple distinct values, use mode if unique, else random
-    if (length(nums) > 1) {
-      tab <- table(nums)
-      modeval <- as.numeric(names(tab)[tab == max(tab)])
-      return(if (length(modeval) == 1) modeval else sample(nums, 1))
-    }
-    
-    # single value
-    return(nums)
-  })
-  
-  # ensure numeric (sapply sometimes returns character)
-  df <- df[!is.na(df$haploid),]
-  df$haploid <- as.numeric(df$haploid)
-  
-  return(df)
-}
+
+###### End Functions ######
 
 ## Main Loop
 
@@ -92,10 +104,10 @@ file_list <- list.files(path = "../data/chrome", pattern = "\\.csv$", full.names
 results <- list()
 
 # iterate through each chrome data file
-for (i in 1:length(file_list)) {
+for (i in 15:length(file_list)) {
   f <- file_list[[i]]
-  print(f)
   clade <- tools::file_path_sans_ext(basename(f))  # extract clade name from filename
+  print(clade)
   
   # read chromosome data for this clade
   dat <- read.csv(f)
@@ -105,53 +117,65 @@ for (i in 1:length(file_list)) {
   tree <- GetTree(clade)
   
   # match tree and data by species names
-  matched <- intersect(tree$tip.label, dat$species)
+  if(class(tree) == "phylo"){
+    matched <- intersect(tree$tip.label, dat$species)
+    tree <- drop.tip(tree, setdiff(tree$tip.label, matched))
+  }
+  if(class(tree) == "multiPhylo"){
+    result <- list()
+    for(i in 1:length(tree)){
+      tr <- tree[[i]]
+      matched <- intersect(tr$tip.label, dat$species)
+      result[[i]] <- keep.tip(tr, matched)
+    }
+    tree <- result
+    class(tree) <- "multiPhylo"
+  }
 
   # drop non-matching taxa from tree and data
-  tree <- drop.tip(tree, setdiff(tree$tip.label, matched))
-  
   dat <- dat[dat$species %in% matched, ]
   dat <- dat[, c("species", "haploid")]
   
   # convert data to matrix format required by diversitree
   mat <- datatoMatrix(x = dat, buffer = 1, hyper = FALSE)
   
-
-  # ensure the tree is ultrametric
-  if (!is.ultrametric(tree)) {
-    if (clade %in% plants) {
-      tree <- nnls.tree(cophenetic(tree), tree, rooted = T)
-    } else {
-      tree <- chronos(tree)
+  if("phylo" %in% class(tree)){
+    tree <- AdjustTree(tree)
+  }
+  if("multiPhylo" %in% class(tree)){
+    for(j in 1:length(tree)){
+      tree[[j]] <- AdjustTree(tree[[j]])
+      print(paste("working on tree", j))
     }
   }
-  
-  # scale tree to unit length
-  tree$edge.length <- tree$edge.length / max(branching.times(tree))
-  
-  # replace any small negative branch lengths with tiny positive value
-  tree$edge.length[tree$edge.length < 0] <- 1e-9
-  
-  # ensure tree is fully bifurcating 
-  if (!is.binary(tree)) {
-    tree <- multi2di(tree)
+  if("phylo" %in% class(tree)){
+    lik <- make.mkn(tree = tree, states = mat, k=ncol(mat), 
+                    strict=F, control=list(method="ode",root=ROOT.OBS))
+    argnames(lik)
+    #  costrain our model to match the dynamics of chromosome evolution
+    conlik <- constrainMkn(data = mat, lik = lik, hyper=F,
+                           polyploidy = F, verbose=F)
+    print(argnames(conlik))
+    # run mcmc
+    # res <- mcmc(lik=conlik, x.init=runif(length(argnames(conlik))),
+    #             prior=make.prior.exponential(2), nsteps=1, w=1)
   }
-  
-  lik <- make.mkn(tree = tree, states = mat, k=ncol(mat), 
-                  strict=F, control=list(method="ode",root=ROOT.OBS))
-  argnames(lik)
-  
-  #  costrain our model to match the dynamics of chromosome evolution
-  conlik <- constrainMkn(data = mat, lik = lik, hyper=F,
-                         polyploidy = T, verbose=F)
-  
-  argnames(conlik)
-  
-  # run mcmc
-  res <- mcmc(lik=conlik, x.init=runif(length(argnames(conlik))),
-              prior=make.prior.exponential(2), nsteps=1, w=1)
-  
-  # store results 
+  if("multiPhylo" %in% class(tree)){
+    res <- list()
+    for(j in 1:100){
+      lik <- make.mkn(tree = tree[[j]], states = mat, k=ncol(mat), 
+                      strict=F, control=list(method="ode",root=ROOT.OBS))
+      argnames(lik)
+      #  costrain our model to match the dynamics of chromosome evolution
+      conlik <- constrainMkn(data = mat, lik = lik, hyper=F,
+                             polyploidy = F, verbose=F)
+      print(argnames(conlik))
+      # run mcmc
+      # res[[j]] <- mcmc(lik=conlik, x.init=runif(length(argnames(conlik))),
+      #             prior=make.prior.exponential(2), nsteps=1, w=1)
+    }
+  }
+
   if (!is.null(res)) {
     results[[clade]] <- res
   }
