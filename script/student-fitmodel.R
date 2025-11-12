@@ -34,8 +34,8 @@ library(phangorn)
 # function to read and return a tree object for a given clade name
 GetTree <- function(x){
   tree <- NULL
-  new_path <- paste0("../data/trees/", x, ".new")  # possible Newick file path
-  nex_path <- paste0("../data/trees/", x, ".nex")  # possible Nexus file path
+  new_path <- paste0(x, ".new")  # possible Newick file path
+  nex_path <- paste0(x, ".nex")  # possible Nexus file path
   
   # check which file exists and read accordingly
   if (file.exists(new_path)) {
