@@ -104,7 +104,7 @@ file_list <- list.files(path = "../data/chrome", pattern = "\\.csv$", full.names
 results <- list()
 
 # iterate through each chrome data file
-for (i in 15:length(file_list)) {
+for (                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                i in 25:length(file_list)) {
   f <- file_list[[i]]
   clade <- tools::file_path_sans_ext(basename(f))  # extract clade name from filename
   print(clade)
